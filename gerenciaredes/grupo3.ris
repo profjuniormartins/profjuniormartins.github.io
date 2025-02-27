@@ -1,0 +1,495 @@
+TY  - JOUR
+T1  - Optimizing UAV deployment for maximizing coverage and data rate efficiency using multi-agent deep deterministic policy gradient and Bayesian optimization
+AU  - R., Dhinesh Kumar
+AU  - A., Rammohan
+JO  - Physical Communication
+VL  - 69
+SP  - 102621
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 1874-4907
+DO  - https://doi.org/10.1016/j.phycom.2025.102621
+UR  - https://www.sciencedirect.com/science/article/pii/S1874490725000242
+KW  - Beyond-5G
+KW  - Deep reinforcement learning
+KW  - Intelligent transportation systems
+KW  - UAV communications
+KW  - UAV coverage
+KW  - Vehicle communications
+AB  - The rise of connected vehicles has highlighted the crucial need to cater diverse Quality of Service (QoS) demands in intricate vehicular networks. To address this, the burgeoning utilization of Unmanned Aerial Vehicles (UAVs) across various applications has garnered significant attention. UAVs, acting as aerial Base Stations (BSs), improve network coverage and performance in critical communication scenarios. However, challenges such as limited coverage range and unpredictable QoS hinder UAVs from continuously covering urban or rural areas. To tackle these challenges, we introduce a novel multi-agent deep deterministic policy gradient (MADDPG) approach incorporating Bayesian Optimization to optimize UAV trajectories in both rural and urban environments. Our principal aim is to maximize vehicle coverage while ensuring efficient QoS. Comparative evaluations against benchmark algorithms including Genetic Algorithm (GA), Particle Swarm Optimization (PSO), Sine Cosine Algorithm (SCA), and Greedy methods. In rural environments, proposed framework achieves a mean coverage rate of 85.75%, surpassing MADDPG by 4.49%, GA by 8.72%, PSO by 10.02%, SCA by 8.90%, and Greedy by 14.06%. In urban settings, proposed framework maintains superior performance, with a mean coverage rate of 83.78%, outperforming MADDPG by 6.31%, GA by 9.81%, PSO by 9.38%, SCA by 12.78%, and Greedy by 19.53%. Additionally, the system achieves a 95.6% convergence rate, optimizing MADDPG hyperparameters efficiently. The implications of the energy penalty in the proposed algorithm have given the outlook on the tradeoff, that the overall energy consumption can reduce up to 8.3%, it may also result in a decrease in coverage efficiency by around 5.5%.
+ER  - 
+
+TY  - JOUR
+T1  - A hierarchical control for application placement and load distribution in Edge Computing
+AU  - Maia, Adyson M.
+AU  - Vieira, Dario
+AU  - Ghamri-Doudane, Yacine
+AU  - Rodrigues, Christiano
+AU  - Pereira, Marciel B.
+AU  - de Castro, Miguel F.
+JO  - Future Generation Computer Systems
+VL  - 166
+SP  - 107631
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107631
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24005958
+KW  - Application placement
+KW  - Load distribution
+KW  - Edge Computing
+KW  - Distributed control
+AB  - Edge Computing (EC) extends computing functionalities from remote cloud data centers to the proximity of end-user devices at the network edges, thereby reducing application response time. However, existing solutions face challenges in scalability, efficient resource management, and near real-time adaptation in dynamic environments. In this paper, we jointly investigate the application placement and load distribution challenges in an EC-enabled mobile network. We propose a hierarchical distributed Limited Look-Ahead Control (LLC) approach that mitigates centralized control bottlenecks by breaking down the overall decision problem into a series of local problems solved cooperatively through a two-tier architecture. The global controller processes system-wide information and sets local constraints, while local controllers make autonomous decisions coordinated through mutual information exchange. Utilizing LLC allows for anticipation and adaptation to load fluctuations. Even though the results indicate that the trade-off between system performance and scalable decisions depends on how the overall problem is decomposed, our distributed solution significantly reduces the controller’s execution time compared to a centralized approach.
+ER  - 
+
+TY  - JOUR
+T1  - Challenges and Innovations in Multimedia and Real-Time Networking: A Review of Modeling Approaches
+AU  - Shah, Milind
+AU  - Parmar, Kajal
+AU  - Padhiyar, Priyanka
+AU  - Parmar, Naina
+AU  - Parikh, Monali
+AU  - Patni, Dhruvansh
+JO  - Procedia Computer Science
+VL  - 252
+SP  - 53
+EP  - 62
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 4th International Conference on Evolutionary Computing and Mobile Sustainable Networks
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924034380
+KW  - Real Time Networking
+KW  - Multimedia
+KW  - Challenges
+KW  - Innovations
+KW  - Intelligent Networking
+AB  - Over the past decade, the rise of broadband and mobile Internet access has led to the widespread adoption of real-time networking and multimedia applications. These platforms have become essential for connecting individuals and supporting businesses, particularly with the growing trend of remote work. The demand for video streaming services has surged significantly and is expected to continue rising. However, this increased traffic has strained network performance, leading to congestion and diminishing the quality of service, especially during peak evening hours and the COVID-19 pandemic. Besides upgrading network infrastructure, it is crucial to develop intelligent streaming systems that adapt to network conditions and user expectations to enhance customer satisfaction. This review paper explores into the basics and introduction of Multimedia and Real-Time Networking. It also explores the advancements in Adaptive and Intelligent Networking for real-time multimedia communication. The paper formulates research questions based on the discussed topics, such as the distinctions between real-time networking and traditional networking, the ways multimedia applications adjust to fluctuating network conditions, and the challenges and limitations associated with these technologies.
+ER  - 
+
+TY  - JOUR
+T1  - A two-context-aware approach for navigation: A case study for vehicular route recommendation
+AU  - Barbon, Rafael S.
+AU  - Madeira, Edmundo R.M.
+AU  - Akabane, Ademar T.
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103655
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103655
+UR  - https://www.sciencedirect.com/science/article/pii/S157087052400266X
+KW  - Vehicular traffic congestion
+KW  - Route recommendation
+KW  - Context awareness
+KW  - Here navigation
+AB  - In contemporary urban environments, route recommendation systems have become an indispensable tool in moving the population from large centers, serving as valuable resources for circumventing traffic congestion. Enhancing vehicular traffic flow through strategic route adjustments is a pivotal element in improving traffic mobility. However, depending exclusively on traffic-related data for route recommendations fails to meet the essential criteria for ensuring effective management and safety for drivers and passengers during travel. Thus, context awareness and traffic data are crucial for enhancing efficiency and safety in traffic management. Our study proposes a two-context-aware approach to recommend safe routes for urban traffic management, considering road safety and travel time. Experiments were carried out using the widely recognized tool — HERE Navigation. Comparatively, our approach signifies a progressive stride in balancing mobility and security when contrasted with a single focus on travel time.
+ER  - 
+
+TY  - JOUR
+T1  - Learning-based joint recommendation, caching, and transmission optimization for cooperative edge video caching in Internet of Vehicles
+AU  - Cheng, Zhipeng
+AU  - Liu, Lu
+AU  - Liwang, Minghui
+AU  - Chen, Ning
+AU  - Fan, Xuwei
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103667
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103667
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524002786
+KW  - Edge video caching
+KW  - Recommendation
+KW  - Transmission
+KW  - Internet of Vehicles
+KW  - Deep reinforcement learning
+KW  - Soft actor-critic
+AB  - In an era dominated by multimedia information, achieving efficient video transmission in the Internet of Vehicles (IoV) is crucial because of the inherent bandwidth constraints and network volatility within vehicular environments. In this paper, we propose a cooperative edge video caching framework designed to enhance video delivery efficiency in IoV by integrating joint recommendation, caching, and transmission optimization. Leveraging deep reinforcement learning with the discrete soft actor–critic algorithm, our methodology dynamically adapts to fluctuating network conditions and diverse user preferences, aiming to optimize content delivery efficiency and quality of experience. The proposed approach combines recommendation and caching strategies with transmission optimization to provide a comprehensive solution for high-performance video services. Extensive simulation results demonstrate that our framework significantly outperforms traditional baseline methods, achieving superior outcomes in terms of service utility, delivery rate, and delay reduction. These results highlight the robust potential of our solution to facilitate seamless and high-quality video experiences in the complex and dynamic landscape of vehicular networks, advancing the capabilities of IoV content delivery.
+ER  - 
+
+TY  - JOUR
+T1  - CLIC-IoE — Cross Layers Solution to Improve Communications under IoE
+AU  - Hamrioui, Sofiane
+AU  - Lloret, Jaime
+AU  - Lorenz, Pascal
+JO  - Ad Hoc Networks
+VL  - 170
+SP  - 103777
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2025.103777
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870525000253
+KW  - IoE
+KW  - Next generation applications
+KW  - Communication algorithms
+KW  - Transport
+KW  - Network
+KW  - Reliability
+KW  - Efficiency
+KW  - Collaborative approach
+KW  - QoS parameters
+KW  - Energy efficiency
+AB  - The rapid expansion of connected devices has ushered in the Internet of Everything (IoE), enabling seamless integration among machines, people, and systems across diverse applications. However, the IoE faces significant challenges in ensuring efficient, reliable, and energy-conscious data transmission at scale. To address these issues, we present CLIC-IoE (Cross-Layer Solutions to Improve Communications under IoE), an innovative cross-layer framework designed to significantly enhance communication performance within IoE environments. By intelligently coordinating multiple communication layers, CLIC-IoE achieves remarkable results: a 39.47% reduction in data errors, a 38.33% increase in delivery rates, and a decrease of 0.8 nanoseconds in end-to-end delays. Additionally, it optimizes energy consumption, demonstrating a 51.67% improvement in energy efficiency (CEA) and a 20% boost in Active Things Rate (ATR). These advancements position CLIC-IoE as a transformative solution that enhances the scalability and reliability of IoE systems while promoting sustainable energy use. This manuscript provides a comprehensive exploration of the CLIC-IoE architecture, algorithms, and performance evaluation, emphasizing its potential impact on future IoE deployments. By addressing the critical challenges faced in IoE environments, CLIC-IoE not only enhances communication performance but also paves the way for more sustainable and efficient IoT systems.
+ER  - 
+
+TY  - JOUR
+T1  - IoV-TwinChain: Predictive maintenance of vehicles in internet of vehicles through digital twin and blockchain
+AU  - Iqbal, Mubashar
+AU  - Suhail, Sabah
+AU  - Matulevičius, Raimundas
+AU  - Shah, Faiz Ali
+AU  - Malik, Saif Ur Rehman
+AU  - McLaughlin, Kieran
+JO  - Internet of Things
+VL  - 30
+SP  - 101514
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2025.101514
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660525000277
+KW  - Intelligent transportation system (ITS)
+KW  - Internet of vehicles (IoV)
+KW  - Blockchain
+KW  - Digital twin (DT)
+KW  - Machine learning (ML)
+KW  - Predictive maintenance
+AB  - Vehicular networks are experiencing a significant transformation driven by integrating connected vehicles and Intelligent Transportation Systems (ITS). The Internet of Vehicles (IoV) is a rapidly evolving domain within ITS that connects vehicles, infrastructure, and smart devices to facilitate seamless data exchange. This data encompasses vital information, and by leveraging it, vehicles can make informed decisions and adapt to real-time situations. For instance, traditional vehicle maintenance practices often rely on reactive approaches, addressing issues after failures occur, which can lead to safety risks, costly repairs, and disruptions. Thus, there is a pressing need for proactive solutions to identify vehicle failures before they escalate. Accordingly, we propose the IoV-TwinChain framework integrating Digital Twin (DT), Machine Learning (ML), and blockchain for performing predictive maintenance of vehicles in the IoV by monitoring vehicle operating conditions to prevent road breakdowns and failures. DT provides real-time monitoring of vehicle operating conditions, while ML facilitates data-driven predictions for the predictive maintenance of vehicles. The IoV-TwinChain framework utilizes blockchain for data integrity and traceability within physical and twin environments. We implement a Proof of Concept (PoC) of the IoV-TwinChain framework using Microsoft Azure DT, ML models such as Random Forest and XGBoost, and Ethereum blockchain. Additionally, we formally verify the IoV-TwinChain framework correctness using High-Level Petri Nets and Bounded Model-Checking methods. With our PoC implementation and formal verification, we demonstrate that the IoV-TwinChain framework effectively enhances the predictive maintenance capabilities of vehicles in the IoV and ensures the reliability and accuracy of the system.
+ER  - 
+
+TY  - JOUR
+T1  - APQA: An anonymous post quantum access authentication scheme based on lattice for space ground integrated network
+AU  - Wang, Shanshan
+AU  - Xu, Chuan
+AU  - Zhao, Guofeng
+AU  - Han, Zhenzhen
+AU  - Hu, Rui
+AU  - Yu, Shui
+JO  - Computer Networks
+VL  - 257
+SP  - 110979
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110979
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008119
+KW  - Space and ground integrated network
+KW  - Post quantum
+KW  - Rejection sampling authentication algorithm
+AB  - The rapidly developing Space Ground Integrated Network (SGIN) will provide communication services for massive nodes worldwide, and the authentication protocol is the key step in ensuring the security of SGIN. However, the current authentication schemes rely on security based on discrete logarithms and large integer decomposition problems, which are vulnerable to quantum computing attacks. Meanwhile, the energy and storage capacity of satellites are limited, making it impossible to deploy a highly complex authentication algorithm. Therefore, we propose an anonymous post quantum access authentication scheme based on lattice to meet the security requirements of the SGIN. During the registration phase, an online registration algorithm is developed using the Regev encryption mechanism to securely transmit the entity’s encrypted identity, thereby lowering the storage costs. In the authentication phase, an anonymous authentication algorithm based on the rejection sampling method is proposed to achieve the confidentiality of the private key and identity of the entity through zero-knowledge technology. This approach reduces the computational complexity of the authentication algorithm and decreases the computation time during the authentication phase. Theoretical proof and performance analysis demonstrate that the proposed scheme can resist quantum computation attacks and reduce the computation time by 36% compared to the existing authentication schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing active nodes in MEC environments: A distributed learning-driven framework for application placement
+AU  - Torres-Pérez, Claudia
+AU  - Coronado, Estefanía
+AU  - Cervelló-Pastor, Cristina
+AU  - Palomares, Javier
+AU  - Carmona-Cejudo, Estela
+AU  - Siddiqui, Muhammad Shuaib
+JO  - Computer Networks
+VL  - 257
+SP  - 111008
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111008
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008405
+KW  - Application placement
+KW  - Distributed deep reinforcement learning
+KW  - MEC
+KW  - Scalability
+AB  - Application placement in Multi-Access Edge Computing (MEC) must adhere to service level agreements (SLAs), minimize energy consumption, and optimize metrics based on specific service requirements. In distributed MEC system environments, the placement problem also requires consideration of various types of applications with different entry distribution rates and requirements, and the incorporation of varying numbers of hosts to enable the development of a scalable system. One possible way to achieve these objectives is to minimize the number of active nodes in order to avoid resource fragmentation and unnecessary energy consumption. This paper presents a Distributed Deep Reinforcement Learning-based Capacity-Aware Application Placement (DDRL-CAAP) approach aimed at reducing the number of active nodes in a multi-MEC system scenario that is managed by several orchestrators. Internet of Things (IoT) and Extended Reality (XR) applications are considered in order to evaluate close-to-real-world environments via simulation and on a real testbed. The proposed design is scalable for different numbers of nodes, MEC systems, and vertical applications. The performance results show that DDRL-CAAP achieves an average improvement of 98.3% in inference time compared with the benchmark Integer Linear Programming (ILP) algorithm, and a mean reduction of 4.35% in power consumption compared with a Random Selection (RS) algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - A schedulability-aware routing algorithm for time sensitive network based on improved ant colony algorithm
+AU  - Guo, Yi
+AU  - Luo, Feng
+AU  - Wang, Zitong
+AU  - Tong, Yingpeng
+AU  - Ren, Yi
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103741
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103741
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003524
+KW  - Time sensitive network
+KW  - Routing algorithms
+KW  - No-wait scheduling
+KW  - Time aware shaper
+AB  - With the rapid development of industrial automation, there are higher requirements for reliable and deterministic communication in industrial networks, including in-vehicle networks, avionics and intelligent transport. Time Sensitive Network offers bounded, low-latency transmission assurance for crucial traffic via the Time Aware Shaper described in the IEEE 802.1Qbv. This standard ensures low jitter and deterministic delay for time-sensitive traffic by employing a pre-calculated circular transmission schedule. Current scheduling algorithms typically use the shortest path algorithm to determine paths for time-triggered flows. However, this approach can lead to an excessive concentration of time-triggered flows traversing the same link, thereby impacting the scheduling feasibility of such flows. In this paper, first, the time-sensitive network topology and time-triggered flows are modeled and the SMT-based no-wait scheduling constraints are proposed. Then, a schedulability-aware routing (SAR) algorithm based on the improved ant colony algorithm is designed to enhance the schedulability of time-triggered flows under the no-wait scheduling problem, thereby improving the ability of the time-sensitive network to accommodate time-triggered flows. Finally, SAR is compared with four routing algorithms including the shortest path routing algorithm (Dijkstra) to evaluate its performance under different network loads. The results show a significant improvement in the scheduling success rate of SAR compared to other routing algorithms. In the original network topology, when the link communication rate is 1000 Mbit/s, SAR achieves scheduling success rates that are 44 %, 62 %, and 56 % higher than Dijkstra for 80, 85, and 90 time-triggered flows, respectively, and 18 %, 8 %, and 10 % higher than LBR.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive taxonomy and critical analysis of mitigation approaches for black-hole and gray-hole security attacks in AODV-based VANETs
+AU  - Malik, Abdul
+AU  - Khan, Muhammad Zahid
+AU  - Faisal, Mohammad
+AU  - Khan, Muhammad Nawaz
+AU  - Hussain, Tariq
+AU  - Attar, Razaz Waheeb
+JO  - Computers and Electrical Engineering
+VL  - 122
+SP  - 109950
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109950
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624008759
+KW  - AODV
+KW  - Security
+KW  - BHA, GHA
+KW  - RSU
+KW  - VANET
+AB  - Due to the intrinsically open, distributed, and highly dynamic nature of Vehicular Ad-hoc Networks (VANETs) and their application scope, the safety and security of VANETs have garnered significant attention both from academics and industry. In this context, among the key security concerns are the Black-Hole Attack (BHA) and Gray-Hole Attack (GHA). In these types of attacks, a malicious node lies in the cyber-physical path, altering a reliable communication route into a compromised one by dropping the packets. In VANETs, these packets carry payload and critical warning alerts. Dropping such important packets can negatively impact VANET's security and performance, potentially leading to road accidents, fatalities, traffic jams, and congestion. In this survey paper, we contributed by conducting a comprehensive exploration of security approaches for mitigating against BHA and GHA in the AODV-based VANET. Beginning with an insightful overview of the background, we further critically reviewed various security attacks in related routing protocols in VANETs and presented them in an organized tabular form. After critically analyzing the detection approaches, we further grouped them into distinct categories based on their methodology and techniques adopted, including cryptographic, IDS, trust-value, clustering, additional means, hybrid, and threshold-based techniques, and tabulated chronology. Furthermore, we implemented and evaluated various mitigation approaches in the NS-2 simulator, allowing for a detailed comparative analysis, and adding recommendations to help in the selection of optimal approaches for improving network security, reliability, and efficiency. This extensive analysis can serve as a valuable resource for researchers and practitioners in the field, highlight some research gaps in VANET security, recommend further studies for novel development with essential guidance and future directions, enhanced resilience, and a comprehensive understanding of the complex and challenging VANET security landscape.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring V2X in 5G networks: A comprehensive survey of location-based services in hybrid scenarios
+AU  - Mendes, Bruno
+AU  - Araújo, Marco
+AU  - Goes, Adriano
+AU  - Corujo, Daniel
+AU  - Oliveira, Arnaldo S.R.
+JO  - Vehicular Communications
+VL  - 52
+SP  - 100878
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100878
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000051
+KW  - NR-U
+KW  - V2X ITS
+KW  - C-V2X
+KW  - CAM
+KW  - GNSS
+KW  - Hybrid Positioning
+AB  - Vehicle-to-Everything (V2X) communications are constrained by both 3GPP technical specifications, as well as by country-specific spectrum regulations. The world's largest economies, such as the USA, EU and China have self-imposed regulations regarding the specific bandwidths and central spectrum frequencies where both safety and non-safety related V2X communication services are allowed to occur (always aligned with the aforementioned 3GPP technical specifications). Although the channels used for safety, non-safety, and control packets differ, what all of these countries have in common is that V2X shall occur mostly on New Radio Unlicensed (NR-U) spectrum, i.e., by means of private networks. A specific bandwidth in the public spectrum is also available, but since public spectrum is purchased through auctions, it is quite common the case that one particular operator will own the entirety of this spectrum, leading to a monopoly in V2X operations. Besides, this public spectrum is quite limited in bandwidth. This of course includes all of the Intelligent Transportation Systems (ITS) services, even location-based services, such as the ones that require the usage of positioning technologies, like autonomous vehicles, that require said services in order to support complex maneuvers and cooperative driving. Global Navigation Satellite Systems (GNSS) such as GPS or Galileo, currently already offer high-accuracy location to vehicles. However, this form of stand-alone position estimation of the vehicle has several drawbacks, as the information is constrained to the individual vehicle and not shared with others in a secure manner. This exchange of position information between other entities (not only vehicles, but also other infrastructure nodes) is vital for actions such as cooperative maneuvers and to counter loss of satellite sight (e.g., when entering a tunnel). Taking these facts into consideration, it is therefore expected that in the mid to long-term, municipalities and highways will possess dedicated private 5G networks for V2X operations with the aim of offering a plethora of vehicular services, including positioning ones. Since the existent scientific literature lacks an integrated analysis of precise positioning services for ITS in 5G private networks, we propose in this paper, to provide a comprehensive review connecting these diverse elements, examining the role of 5G private networks in transmitting positioning messages in V2X scenarios. Additionally, the paper shall explore hybrid positioning systems that combine 5G and GNSS technologies, illustrating their potential to enhance V2X communications. This study offers a roadmap for the evolution of ITS and V2X communications by showcasing current trends and identifying areas for further research.
+ER  - 
+
+TY  - JOUR
+T1  - SC-VDTwinAuth: Smart-contract Assisted Handover Authentication Protocol for Vehicular Digital Twin Network
+AU  - Gautam, Deepika
+AU  - Thakur, Garima
+AU  - Prajapat, Sunil
+AU  - Kumar, Pankaj
+JO  - Vehicular Communications
+VL  - 53
+SP  - 100890
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100890
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000178
+KW  - Vehicular network
+KW  - Digital twin technology
+KW  - Blockchain technology
+KW  - Smart contract
+KW  - Handover authentication
+AB  - Vehicular digital twin network is partitioned into multiple networks either due to the geographical differences or their accelerating expansion, which necessitates a secure and incessant transition of cross-regional vehicles. Therefore, in this dynamic topology, the handover process for cross-regional vehicles becomes imperative. The literature encompasses an abundance of blockchain-based handover mechanisms, specifically designed for vehicle and the roadside units. Unfortunately, some of these are not feasible for vehicular digital twin networks due to their high computational overhead and susceptibility to security threats. Therefore, this paper presents a handover authentication protocol for the blockchain-based vehicular digital twin networks, leveraging the smart contract. It entirely depends on digital twin, which reduces the burden of the vehicle and enhances the efficiency and security of the handover process. Security strengths and competency against attacks like sybil and impersonation attacks are investigated through a real-or-random oracle model (ROR) and non-mathematical analysis. The operational analysis evaluates the proposed mechanism with pertinent works based on security functionalities, computation, and communication overhead. Moreover, to illustrate suggested smart contract's viability and the reasonable cost of blockchain consumption, it is implemented via the Ethereum test network. Hence, obtained results indicate the relevancy of the mechanism for vehicular digital twin networks.
+ER  - 
+
+TY  - JOUR
+T1  - BlockLLM: A futuristic LLM-based decentralized vehicular network architecture for secure communications
+AU  - Arshad, Usama
+AU  - Halim, Zahid
+JO  - Computers and Electrical Engineering
+VL  - 123
+SP  - 110027
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.110027
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624009522
+KW  - Blockchain
+KW  - Vehicular Network Architecture (VNA)
+KW  - Large Language Models (LLM)
+KW  - Vehicle-to-Everything (V2X)
+KW  - Data integrity
+KW  - Scalability
+AB  - Autonomous vehicles and Intelligent Transportation Systems (ITS) represent some of the most transformative technological advancements. However, these complex systems face significant challenges, including data security, scalability, node reliability, and secure communication. Current approaches often integrate Artificial Intelligence (AI), Machine Learning (ML), and blockchain to enhance robustness and flexibility, but issues like latency, privacy, and node selfishness remain. This paper proposes BlockLLM, a comprehensive vehicular network architecture that combines blockchain and Large Language Models (LLMs) to address these core issues in vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication. Blockchain technology ensures data integrity, nonrepudiation, and trustless communication across nodes, while LLMs provide adaptive decision-making and reduce latency in real-time data exchange. BlockLLM’s incentive and reputation mechanisms further enhance node participation and reliability. Simulation results demonstrate an 18% reduction in latency, a 12% improvement in throughput, and consistent data integrity across high-traffic scenarios. These findings indicate that BlockLLM offers a robust, scalable solution for secure V2X communication, making it a promising model for future autonomous transportation systems.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating the DevOps landscape
+AU  - Zhang, Xinrui
+AU  - Zhao, Pincan
+AU  - Jaskolka, Jason
+JO  - Journal of Systems and Software
+VL  - 223
+SP  - 112331
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112331
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003753
+KW  - DevOps
+KW  - Multivocal Literature Review
+KW  - Research Roadmap
+AB  - Context:
+DevOps, with its increasing prevalence in both industry and academia, has evolved into various DevOps variants (namely XOps) to address emerging technological and operational challenges. However, this proliferation has created confusion and a lack of clarity about the systematic understanding of these XOps and their interrelationship in the DevOps landscape, leading to fragmented knowledge and application.
+Objective:
+This research seeks to construct a comprehensive picture of the existing DevOps landscape, clarifying the nature and nuances of various XOps, to guide effective future studies and implementations.
+Method:
+Utilizing Multivocal Literature Review (MLR), 80 gathered documents are thoroughly examined from throughout the whole community, encompassing both white and grey literature, to map the DevOps landscape.
+Results:
+Our review systematically discovered 38 XOps terms and 13 well-studied XOps including AIOps, BizDevOps, CloudOps, DataOps, DevSecOps, FinOps, GitOps, MLOps, ModelOps, NetDevOps, NoOps, SecDevOps and TwinOps. We provided dictionary-like resource that elucidates the core concepts and main ideas associated with each XOps. An in-depth understanding of intricate evolution from DevOps to XOps is delved into, supplemented by the research of relationships between XOps and various technological enablers as well as relationships between XOps and organizational teams, contributing to the ongoing dialogue surrounding their application and evolution.
+Implications:
+This paper provides a foundational understanding of the DevOps landscape including open issues and challenges, current and future trends, assisting both researchers and practitioners in navigating this complex field. It establishes a platform for further research and practical applications in the evolving field of DevOps and XOps.
+ER  - 
+
+TY  - JOUR
+T1  - RORA: Reinforcement learning based optimal distributed resource allocation strategies in vehicular cognitive radio networks for 6G
+AU  - Gupta, Mani Shekhar
+AU  - Srivastava, Akanksha
+AU  - Kumar, Krishan
+JO  - Vehicular Communications
+VL  - 52
+SP  - 100882
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100882
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000099
+KW  - Spectrum management
+KW  - Cognitive radio networks
+KW  - Next-generation networks
+KW  - Resource allocation
+KW  - Vehicular communication
+KW  - Machine learning
+AB  - The next generation (5G/B5G) vehicular cognitive radio networks (VCRNs) flag the track to intelligence-based autonomous driving in the initiation of future wireless networking and make daily vehicular operation more convenient, greener, efficient, and safer. However, with the continuous evolution of vehicles, the vehicular network becomes large-scale, dynamic, and heterogeneous, making it tough to fulfill the strict necessities, such as high security, resource allocation, massive connectivity, and ultralow latency. The combination of cognitive radio (CR) networks (different network coexistence) and machine learning (ML) has arisen as an influential artificial intelligence (AI) approach to make both the communication system and vehicle more adaptable and efficient. Naturally, applying ML to VCRNs has become an active research area and is being extensively considered in industry and academia. In this work, a reinforcement learning (RL) based optimal resource allocation (RORA) technique is proposed to solve the myopic decision-making problem by an autonomous vehicle (RL agent) takes its action to select the power level and optimal sub-band and maximize long-term rewards with a maximum payoff in VCRNs. The aim of this work is to design and implement an intelligent, resource allocation framework that ensures efficient and adaptive spectrum utilization while minimizing communication latency, energy consumption, and transmission cost in VCRNs. As a schema for the realization and capabilities evaluations, the CR networks consisting of LTE cellular network inter-working with Wi-Fi network with constant inter-space between Wi-Fi access points (APs) installed along the pathway is analysed. This framework is further analysed with variable inter-space between Wi-Fi APs. The key research problem addressed in this work is the challenge of optimizing spectrum and power allocation in highly dynamic vehicular environments characterized by rapid mobility, fluctuating network conditions, and interference from multiple vehicular CR nodes. The results show that the proposed RORA technique is more operative and outperforms other resource allocation schemes in terms of prediction accuracy and throughput.
+Impact Statement
+In this work, we proposed a machine learning-based technique applied to vehicular networks and opportunistic spectrum access parts in cognitive radio networks. The proposed technique envisions ways of enabling AI toward a future intelligent transportation system (ITS), including network intelligentization and the development of intelligent radio (IR).
+ER  - 
+
+TY  - JOUR
+T1  - Dense capsule stacked auto-encoder model based DDoS attack detection and hybrid optimal bandwidth allocation with routing in VANET environment
+AU  - Tanati, Murali Krishna
+AU  - Ponnusamy, Manimaran
+JO  - Vehicular Communications
+VL  - 52
+SP  - 100888
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100888
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000154
+KW  - Artificial neuron
+KW  - Search space
+KW  - Back-propagation
+KW  - Dynamic networks
+KW  - Global best solution
+KW  - Exploitation and exploration
+KW  - Spiral model
+AB  - The vehicle ad hoc network, or VANET, is a fantastic tool for smart transport since it improves efficiency, management, traffic safety, and comfort. Distributed Denial of Service (DDoS) attacks on VANET infrastructure have the potential to compromise traffic safety by causing collisions and fatalities. Therefore, while integrating VANETs into intelligent transport networks, the pertinent security issues must be addressed. This paper provides an efficient routing optimization as well as a deep learning-based attack detection approach. The input data are first collected from publically accessible datasets. After that, a unique Dense Capsule Stacked Auto Encoder (DCSAE) network is developed to detect the presence of DDoS attacks in the inputs. Here, the detection method is enabled by the hybridization of the Capsule Network with a Stacked Auto Encoder. Moreover, the Improved Fire Hawks Optimization Algorithm (IFHOA) is employed to refine the proposed detection technique. Once assaults have been discovered, bandwidth is allocated using the Hybrid Remora Whale Optimization (HRWO) approach. Finally, an Improved Osprey Optimization (IOO) method is utilized to identify a better routing path by taking into account aspects such as energy usage, delay, and drop. The DDoS SDN dataset is employed to implement the proposed method. In the results section, the suggested technique is compared to existing methods in terms of recall, accuracy, precision, F1 score, Mean Absolute Error (MAE), Packet Delivery Ratio (PDR), Packet Loss Ratio (PLR), and consumption of energy. The proposed model achieved an accuracy of 94.07 % while achieving the precision, recall, and F1-score of 94.2 %, 93.33 %, and 93.88 %, respectively. The model achieved the MAE of 0.132, delay of 4812.976, energy consumption of 40.13 %, PDR of 95.1805, and PLR of 3.6816 %, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Soft Actor–Critic optimization for efficient NOMA uplink in intelligent vehicular networks
+AU  - Pi, Peng
+AU  - Ren, Guangyuan
+JO  - Physical Communication
+VL  - 68
+SP  - 102581
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1874-4907
+DO  - https://doi.org/10.1016/j.phycom.2024.102581
+UR  - https://www.sciencedirect.com/science/article/pii/S1874490724002994
+KW  - Vehicular communication networks
+KW  - Network optimization
+KW  - Deep Reinforcement Learning
+KW  - Wireless communication
+KW  - Sustainable transportation
+KW  - Real-time vehicle management
+AB  - This paper addresses the need for efficient data transmission in congested intelligent vehicular networks using Non-Orthogonal Multiple Access (NOMA). We present a novel uplink communication model that maximizes NOMA’s spectral efficiency, enabling multiple vehicles to share frequency channels effectively. Our dynamic optimization framework adjusts channel assignments, power levels, and bandwidth allocations, significantly enhancing spectral and energy efficiencies critical for battery-limited intelligent vehicles. To address complex optimization challenges, we develop a Heterogeneous-action Multi-agent Soft Actor–Critic (HMSAC) algorithm with an enhanced attention mechanism, improving learning efficiency and convergence speed. Rigorous simulations show that our approach notably boosts energy efficiency, reliability, and scalability compared to baseline models. Finally, the challenges with NOMA implementation in dense networks and propose future research directions are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Simulative investigation of network scalability over MANET routing protocols
+AU  - Kour, Satveer
+AU  - Singh, Manjit
+AU  - Attri, Varinder Kaur
+AU  - Rana, Shashi Bhushan
+AU  - Sarangal, Himali
+AU  - Singh, Butta
+JO  - Procedia Computer Science
+VL  - 252
+SP  - 500
+EP  - 509
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 4th International Conference on Evolutionary Computing and Mobile Sustainable Networks
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925000092
+KW  - MANET
+KW  - Random Waypoint
+KW  - Node Density
+KW  - AODV
+KW  - DSR
+KW  - DSDV
+KW  - OLSR
+AB  - The important feature that differentiates Mobile Ad-hoc NETworks (MANETs) to other Wireless or Wired Networks is the density of the nodes and mobility. MANET is a Network without Infrastructure, in which each node acts as a data sender, sink and router. Node density and Mobility are the key features that differentiate the MANET from the other wired and wireless networks. The self-configuring infrastructures without a network of mobile devices are connected via wireless connections. Any device on the MANET network can move to any direction and it frequently changes its connections with other devices. This network is an association of wireless nodes which may be dynamically configured at any time and from any location without utilizing the network infrastructure that is already in place. In multi-hop routing mode, nodes within radio range use other nodes as relays while distant nodes communicate directly over wireless links. The density of nodes or network scalability implies the quantity of nodes in the designed network scenario. The routing protocols are therefore designed for adapting the dynamic topology change while maximize its packet delivery ratio while minimize latency and throughput, with minimal number of packet losses and average jitter. Many researchers have been done the research work on MANET Routing Protocols. In this article, four routing protocols are used for the simulated scalable ad-hoc MANET implementations. The scalability refers to the variation in the number of nodes in a designed network scenario. For this research work, four scalable networks (25, 50, 75 100) are discussed. The five performance metrics are analyzed over four categories of node densities. The experimental results show that Ad Hoc Demand Vector (AODV) is 13.65% performed well in throughput than the other protocols; Dynamic Source Routing (DSR) is 12.66% performed well in goodput; DSR is 65% performed better than other protocols in the packet received; DSR is 10.3% performed better than other protocols in the received rate.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of computer communication networks based on evaluation of domination and double domination for interval-valued T-spherical fuzzy graphs and their applications in decision-making problems
+AU  - Khan, Sami Ullah
+AU  - Hussain, Fiaz
+AU  - Senapati, Tapan
+AU  - Hussain, Shoukat
+AU  - Ali, Zeeshan
+AU  - Esztergár-Kiss, Domokos
+AU  - Moslem, Sarbast
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 139
+SP  - 109650
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2024.109650
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197624018086
+KW  - Fuzzy graph
+KW  - Interval-valued T-Spherical fuzzy sets
+KW  - Interval-valued fuzzy graphs
+KW  - Interval-valued T-Spherical fuzzy graphs
+KW  - Domination
+KW  - Double domination
+KW  - Computer communication networks
+AB  - This research introduces the Interval-Valued T-Spherical Fuzzy Graph (IVTSFG), a novel extension of fuzzy graph theory designed to address imprecision in decision-making processes, network analysis, and Computer Communication Networks (CCNs). Integrating four types of membership degrees-membership, non-membership, abstinence, and hesitancy-the IVTSFG framework significantly enhances the ability to model and analyze complex systems with uncertain data. The study explores the theories of domination and double domination within the context of IVTSFGs, presenting new methods for evaluating network resilience and optimization. Key findings include the development of innovative techniques for applying domination and double domination in IVTSFGs, demonstrating improved performance in managing CCNs. Comparative analysis with existing fuzzy graph models highlights the advantages of IVTSFGs, particularly in capturing nuanced relationships within network structures. The research provides practical examples and empirical comparisons, showcasing the framework's effectiveness in various decision-making scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - Improving energy efficiency in WSN through adaptive memetic-based clustering and routing for resource management
+AU  - C, Vimalarani
+AU  - Selvi, CP Thamil
+AU  - Gopinathan, B.
+AU  - Kalaivani, T.
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 45
+SP  - 101073
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2210-5379
+DO  - https://doi.org/10.1016/j.suscom.2024.101073
+UR  - https://www.sciencedirect.com/science/article/pii/S2210537924001185
+KW  - Wireless sensor networks
+KW  - Energy efficiency
+KW  - Adaptive clustering
+KW  - Hybrid memetic evolutionary algorithm
+KW  - Network lifetime
+KW  - Routing optimization
+AB  - Efficient resource allocation in Wireless Sensor Networks (WSNs) is essential due to the constrained energy resources of sensor nodes and complex network dynamics. Existing clustering and routing methods often fail to optimize energy usage and ensure network stability under varying conditions. This research article introduces the Hybrid Memetic Evolutionary Algorithm (HMEA), which combines adaptive memetic-based clustering and evolutionary optimization to address energy-efficient clustering and routing. The HMEA dynamically selects cluster heads and optimizes transmission paths considering node energy levels and network topology, minimizing energy consumption and extending network lifetime. Simulation results demonstrate that the HMEA outperforms conventional methods, including Particle Swarm Optimization and Genetic Algorithm, in terms of energy efficiency, network throughput, and packet delivery ratio, particularly in large-scale networks. This approach advances robust resource allocation mechanisms for sustainable WSN operations.
+ER  - 

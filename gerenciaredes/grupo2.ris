@@ -1,0 +1,517 @@
+TY  - JOUR
+T1  - Generalizing intrusion detection for heterogeneous networks: A stacked-unsupervised federated learning approach
+AU  - de Carvalho Bertoli, Gustavo
+AU  - Alves Pereira Junior, Lourenço
+AU  - Saotome, Osamu
+AU  - dos Santos, Aldri Luiz
+JO  - Computers & Security
+VL  - 127
+SP  - 103106
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103106
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823000160
+KW  - Network intrusion detection
+KW  - Generalization
+KW  - Unsupervised learning
+KW  - Federated learning
+KW  - Network flows
+AB  - The constantly evolving digital transformation imposes new requirements on our society. Aspects relating to reliance on the networking domain and the difficulty of achieving security by design pose a challenge today. As a result, data-centric and machine-learning approaches arose as feasible solutions for securing large networks. Although, in the network security domain, ML-based solutions face a challenge regarding the capability to generalize between different contexts. In other words, solutions based on specific network data usually do not perform satisfactorily on other networks. This paper describes the stacked-unsupervised federated learning (FL) approach to generalize on a cross-silo configuration for a flow-based network intrusion detection system (NIDS). The proposed approach we have examined comprises a deep autoencoder in conjunction with an energy flow classifier in an ensemble learning task. Our approach performs better than traditional local learning and naive cross-evaluation (training in one context and testing on another network data). Remarkably, the proposed approach demonstrates a sound performance in the case of non-IID data silos. In conjunction with an informative feature in an ensemble architecture for unsupervised learning, we advise that the proposed FL-based NIDS results in a feasible approach for generalization between heterogeneous networks.
+ER  - 
+
+TY  - JOUR
+T1  - Proxy smart contracts for zero trust architecture implementation in Decentralised Oracle Networks based applications
+AU  - Gupta, Ankur
+AU  - Gupta, Rajesh
+AU  - Jadav, Dhairya
+AU  - Tanwar, Sudeep
+AU  - Kumar, Neeraj
+AU  - Shabaz, Mohammad
+JO  - Computer Communications
+VL  - 206
+SP  - 10
+EP  - 21
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2023.04.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366423001470
+KW  - Decentralized Oracle Network (DON)
+KW  - Smart contract security
+KW  - Zero trust architecture for blockchain
+AB  - Implementation of blockchain is quickly finding popularity in several real-world applications. As a result, in order to execute and process smart contracts, blockchains frequently necessitate integrating them with real-world data from various sources or employing third-party services. Through hybrid smart contracts, Decentralized Oracle Networks (DONs) make it possible for on-chain code to communicate with off-chain infrastructure and services, assisting in the realisation of this vision. Although the blockchain itself is a secure ecosystem, its reliance on external services and real-world data exposes it to security risks. These dangers reveal themselves in improper smart contract execution as a result of malevolent actors manipulating data from outside sources. Therefore, it is necessary to design a Zero Trust Architecture to provide end-to-end security for DON-based applications. The idea of Proxy Smart Contracts (PSC), which offers a one-level indirection to the execution of the actual smart contracts, is introduced in this article. Prior to the actual smart contract execution, the PSC hypothetically runs the smart contract logic and displays the result state to the interested parties for their approval. Thus, inconsistent end states can be identified and the smart contract’s actual execution can be stopped. Solidity is used in the initial implementation to show that the suggested strategy is workable. The current work is significant since it presents a potential remedy to overcome this crucial gap that can limit widespread acceptance of dApps-based use-cases in the real world.
+ER  - 
+
+TY  - JOUR
+T1  - Role-based lateral movement detection with unsupervised learning
+AU  - Powell, Brian A.
+JO  - Intelligent Systems with Applications
+VL  - 16
+SP  - 200106
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 2667-3053
+DO  - https://doi.org/10.1016/j.iswa.2022.200106
+UR  - https://www.sciencedirect.com/science/article/pii/S2667305322000448
+KW  - Intrusion detection
+KW  - Lateral movement
+KW  - Unsupervised learning
+AB  - Adversarial lateral movement via compromised accounts remains difficult to discover via traditional rule-based defenses because it generally lacks explicit indicators of compromise. We propose a behavior-based, unsupervised method of lateral movement detection that makes essential use system role—the functions it performs on the network—to identify anomalous inter-system connections. It is based on the observation that the remote hosts a particular system communicates with over time can be organized into a stable and learnable set of roles, and that the roles of the two hosts on either end of a normal connection determine the dynamics of the processes that support the connection, e.g. authentication of a workstation against a Domain Controller involves an idiosyncratic sequences of processes. If a process is compromised by an attacker and used to facilitate lateral movement, these normal patterns might be disrupted in discernible ways. We use unsupervised learning to cluster systems according to role, and then apply frequent-itemset mining to process sequences to establish regular patterns of communication between systems based on role. Rare process sequences might indicate malicious lateral movement, as might generic connections made to remote hosts with novel roles.
+ER  - 
+
+TY  - JOUR
+T1  - On the prevalence of software supply chain attacks: Empirical study and investigative framework
+AU  - Andreoli, Anthony
+AU  - Lounis, Anis
+AU  - Debbabi, Mourad
+AU  - Hanna, Aiman
+JO  - Forensic Science International: Digital Investigation
+VL  - 44
+SP  - 301508
+PY  - 2023
+DA  - 2023/03/01/
+T2  - Selected papers of the Tenth Annual DFRWS EU Conference
+SN  - 2666-2817
+DO  - https://doi.org/10.1016/j.fsidi.2023.301508
+UR  - https://www.sciencedirect.com/science/article/pii/S2666281723000094
+KW  - Software supply chain attacks
+KW  - Malicious behaviour
+KW  - Malware
+KW  - Binary code static analysis
+KW  - Dataflow analysis
+AB  - Software Supply Chain Attacks (SSCAs) typically compromise hosts through trusted but infected software. The intent of this paper is twofold: First, we present an empirical study of the most prominent software supply chain attacks and their characteristics. Second, we propose an investigative framework for identifying, expressing, and evaluating characteristic behaviours of newfound attacks for mitigation and future defense purposes. We hypothesize that these behaviours are statistically malicious, existed in the past, and thus could have been thwarted in modernity through their cementation x-years ago. To measure this, a large scale ground-truth corpus of over 10 million functions is assembled from three file classes: malware, benign, and Windows 10 binaries. An expressive query system is proposed for matching behaviours on top of semantic graphs constructed with data-flow, control-flow and AST-annotations. We leverage conditional probabilities to assess malicious intent by considering the SSCA behaviours matched in the three file classes. Our analysis reveals that the presence of an SSCA behaviour within a binary indicates malware with 86–100% probability. We also annotate each SSCA behaviour with context information that, when applied as a filter over matched dataset samples, is found to boost malicious intent by up to 30%. In addition, we present a novel data-flow metric, parametric momentum, which is a powerful gauge of malicious intent that alone matches 12.71% of malware with zero false positives. Finally, we perform a temporal analysis of the SSCA behaviours present in our dataset and discover that they have been available for 13–21 years prior to each attack; conceivably enough time to be identified for mitigating the SSCA instances.
+ER  - 
+
+TY  - JOUR
+T1  - Threat modeling framework for mobile communication systems
+AU  - Rao, Siddharth Prakash
+AU  - Chen, Hsin-Yi
+AU  - Aura, Tuomas
+JO  - Computers & Security
+VL  - 125
+SP  - 103047
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.103047
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822004394
+KW  - Threat modeling
+KW  - Security framework
+KW  - Mobile communication
+AB  - This paper presents a domain-specific threat-modeling framework for the cellular mobile networks. We survey known attacks against mobile communication and organize them into attack phases, tactical objectives, and techniques. The Bhadra framework aims to provide a structured way to analyze and communicate threats on a level that abstracts away the technical details but still provides meaningful insights into the adversarial behavior. Our goals are similar to existing threat modeling frameworks for enterprise information systems, but with a focus on mobile operator networks. The framework fills a gap that has existed in tools and methodology for sharing of threat intelligence within and between organizations in the telecommunications industry. The paper includes concrete case studies of applying the framework. It can also be read as a survey of attacks against mobile networks. CCS CONCEPTS Security and privacy → Security requirements; Mobile and wireless security; Networks→ Networks Mobile networks
+ER  - 
+
+TY  - JOUR
+T1  - Federated learning: A cutting-edge survey of the latest advancements and applications
+AU  - Akhtarshenas, Azim
+AU  - Vahedifar, Mohammad Ali
+AU  - Ayoobi, Navid
+AU  - Maham, Behrouz
+AU  - Alizadeh, Tohid
+AU  - Ebrahimi, Sina
+AU  - López-Pérez, David
+JO  - Computer Communications
+VL  - 228
+SP  - 107964
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.107964
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366424003116
+KW  - Artificial intelligence
+KW  - 6G
+KW  - Machine learning
+KW  - Federated learning
+KW  - Deep reinforcement learning
+KW  - Neural network
+KW  - Internet of things
+KW  - Edge computing
+KW  - Block-chain
+KW  - Privacy preserving
+KW  - Resource allocation
+AB  - Robust machine learning (ML) models can be developed by leveraging large volumes of data and distributing the computational tasks across numerous devices or servers. Federated learning (FL) is a technique in the realm of ML that facilitates this goal by utilizing cloud infrastructure to enable collaborative model training among a network of decentralized devices. Beyond distributing the computational load, FL targets the resolution of privacy issues and the reduction of communication costs simultaneously. To protect user privacy, FL requires users to send model updates rather than transmitting large quantities of raw and potentially confidential data. Specifically, individuals train ML models locally using their own data and then upload the results in the form of weights and gradients to the cloud for aggregation into the global model. This strategy is also advantageous in environments with limited bandwidth or high communication costs, as it prevents the transmission of large data volumes. With the increasing volume of data and rising privacy concerns, alongside the emergence of large-scale ML models like Large Language Models (LLMs), FL presents itself as a timely and relevant solution. It is therefore essential to review current FL algorithms to guide future research that meets the rapidly evolving ML demands. This survey provides a comprehensive analysis and comparison of the most recent FL algorithms, evaluating them on various fronts including mathematical frameworks, privacy protection, resource allocation, and applications. Beyond summarizing existing FL methods, this survey identifies potential gaps, open areas, and future challenges based on the performance reports and algorithms used in recent studies. This survey enables researchers to readily identify existing limitations in the FL field for further exploration.
+ER  - 
+
+TY  - JOUR
+T1  - Device life cycle management requirements for identity and access management in the factory of future environment
+AU  - Partanen, Jari
+AU  - Kylänpää, Markku
+AU  - Loukusa, Sanna
+AU  - Korkiakoski, Markku
+AU  - Salonen, Jarno
+JO  - Procedia Computer Science
+VL  - 204
+SP  - 235
+EP  - 244
+PY  - 2022
+DA  - 2022/01/01/
+T2  - International Conference on Industry Sciences and Computer Science Innovation
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.08.028
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922007669
+KW  - Access control
+KW  - IAM
+KW  - Industrial IoT
+KW  - IT-OT convergence
+AB  - Future factories will contain a huge number of interconnected systems and various Internet of Things (IoT) devices. Due to the increased complexity, the identity and access management of these systems during their entire device life cycle is a challenging task. At the same time, there is a shift from legacy automation protocols to the use of Internet protocols. This development is increasing connectivity that will also expose more subsystems to new kinds of attacks. This article presents the typical device life cycle requirements for identity and access management in future industrial automation context also known as the factory of the future (FoF). We have considered two architecture candidates, namely the cloud and web-based architectures. The requirements for a device life cycle management system called PROSE are given as an example use case. The article describes our research by presenting a practical example of the requirements that have been used to build a device life cycle management system.
+ER  - 
+
+TY  - JOUR
+T1  - A critical analysis of Zero Trust Architecture (ZTA)
+AU  - Fernandez, Eduardo B.
+AU  - Brazhuk, Andrei
+JO  - Computer Standards & Interfaces
+VL  - 89
+SP  - 103832
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0920-5489
+DO  - https://doi.org/10.1016/j.csi.2024.103832
+UR  - https://www.sciencedirect.com/science/article/pii/S0920548924000011
+KW  - Zero trust
+KW  - Zero trust architecture
+KW  - Secure system architecture
+KW  - Secure system design
+KW  - Security patterns
+KW  - Reference architectures
+AB  - Zero Trust (ZT) has become a very hot approach for building secure systems, promoted by industry and government as a new way to produce systems with a high degree of security. ZT is based on not trusting any request for accessing resources. Because of the possibility of increasing the security of enterprise systems there has been a large amount of publication on different aspects of this strategy. It is then important to evaluate if its claims are true. We have used security patterns to design and evaluate security architectures and we apply here this method to analyze the expectations of this strategy. We relate the ideas behind ZT to the accumulated knowledge of security and attempt to answer some questions about the value and possibilities of this technology. In general, industry publications are vague about the technical aspects of these systems, ignore past security knowledge, and there are few reports describing actual experience building and using ZT architectures. Is Zero Trust Architecture (ZTA) the ideal architecture to build secure systems? To obtain a deeper understanding of this architecture, we analyze its pattern structure and provide a sketch of its reference architecture built as an aggregation of security patterns. As any system architecture, regardless of the way it has been constructed, represents a system, we also consider its threats. Finally, we provide directions for research on this area.
+ER  - 
+
+TY  - JOUR
+T1  - Endpoint security reinforcement via integrated zero-trust systems: A collaborative approach
+AU  - Shen, Quan
+AU  - Shen, Yanming
+JO  - Computers & Security
+VL  - 136
+SP  - 103537
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103537
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823004479
+KW  - Zero trust
+KW  - Endpoint security risks
+KW  - Software Defined Perimeter (SDP)
+KW  - Passwordless authentication
+KW  - Endpoint security
+AB  - In the rapidly evolving field of information technology, network security, especially enterprise endpoint security, has emerged as a major challenge. This paper presents a comprehensive and interactive method for network access and user authentication utilizing a zero-trust framework. This method integrates key elements, including the Network Access (NA) Agent, Identity and Access Management (IAM) Agent, Policy Enforcement Point (PEP) Agent, and Situational Awareness (SA) Agent, to mitigate security risks associated with critical business information exposure and unauthorized network access. Leveraging a zero-trust approach, the method dynamically controls user permissions, thereby enhancing endpoint security. It also introduces an efficient solution that coexists with legacy infrastructures, balancing security necessities with user accessibility, and offering a unified solution for both internal corporate networks and the Internet. We present a thorough analysis of potential risks associated with this method and propose preventative measures to minimize these threats. We conclude that our method provides a more secure and efficient approach to enterprise network security compared to traditional static rule-based systems, offering a promising direction for future research and implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Risk, reputation and responsibility: Cybersecurity and centralized data in United States civilian federal agencies
+AU  - Heeren-Moon, Erika
+JO  - Telecommunications Policy
+VL  - 47
+IS  - 2
+SP  - 102502
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0308-5961
+DO  - https://doi.org/10.1016/j.telpol.2023.102502
+UR  - https://www.sciencedirect.com/science/article/pii/S0308596123000137
+KW  - Public policy
+KW  - Cybersecurity
+KW  - Data security
+KW  - Open data
+KW  - Centralized data
+ER  - 
+
+TY  - JOUR
+T1  - Flexible zero trust architecture for the cybersecurity of industrial IoT infrastructures
+AU  - Zanasi, Claudio
+AU  - Russo, Silvio
+AU  - Colajanni, Michele
+JO  - Ad Hoc Networks
+VL  - 156
+SP  - 103414
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103414
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524000258
+KW  - Zero trust
+KW  - Micro-segmentation
+KW  - SDN
+KW  - Industrial IoT
+AB  - The growing digitalization of industrial systems and the increasing adoption of cloud technologies pose significant challenges to the secure management of modern industrial infrastructures integrating different Industrial Internet of Things (IIoT). Existing cybersecurity solutions can manage uniform and centralized software systems but are not designed to accommodate the requirements of heterogeneous IIoT devices, such as hard real-time operations, high reliability, and decentralization for distributed decision-making. We present a novel security architecture that is specifically designed to address the stringent requirements of IIoT systems. It is based on a network micro-segmentation that can be seamlessly integrated into existing environments, and two main components: a software-defined network (SDN) ensuring a unified abstraction layer for policy enforcement across diverse environments; and a centralized security management layer that simplifies the policy execution of any architectural design. We demonstrate the feasibility and effects of this original combination through a prototype. It experimentally demonstrates that our peer-to-peer SDN coupled with an asynchronous policy distribution process guarantees resiliency to individual failures, and enables fully decentralized operations while still ensuring a central flexible management of network topology and security policies.
+ER  - 
+
+TY  - JOUR
+T1  - ES-SDPC: A secure and trusted SDP framework
+AU  - Zhang, Zheng
+AU  - Ren, Quan
+AU  - Lu, Jie
+AU  - Hu, Yuxiang
+AU  - Chen, Hongchang
+JO  - Computer Networks
+VL  - 258
+SP  - 111038
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111038
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000064
+KW  - Software-defined networking
+KW  - Software-Defined Perimeter
+KW  - Endogenous security
+KW  - Security metrics
+KW  - Semi-Markov Chain
+AB  - Software-Defined Perimeter (SDP) provided a logical perimeter to restrict trusted access to the service. However, because of unknown security vulnerabilities in the controller, the authentication and authorization information has been maliciously tampered with, resulting in SDP controller failure. Therefore, this paper first proposes a flexible and secure Intrinsic Security SDP Controller (ES-SDPC) architecture. The ES-SDPC architecture consists of an endogenous secure SDP controller, which is authorized by the master controller and backed up by the slave controller to avoid the delay increase of multiple control information updates. Secondly, this paper proposes an evaluation model for ES-SDPC to theoretically analyze the intrinsic security performance of the ES-SDPC architecture. Finally, this paper implements ES-SDPC in a prototype system and conducts simulations and experiments in different language groups. The evaluation results indicate that, under reasonable configuration, ES-SDPC can ensure high reliability for 1724.68 h and provide 92.4% secure connections in environments facing three malicious attacks. When facing differential mode attacks, the throughput of ES-SDPC is 18.78% higher than that of Byzantine fault-tolerant systems, and the latency overhead is 16.16% lower.
+ER  - 
+
+TY  - JOUR
+T1  - Threat Modeling of Cyber-Physical Systems - A Case Study of a Microgrid System
+AU  - Khalil, Shaymaa Mamdouh
+AU  - Bahsi, Hayretdin
+AU  - Dola, Henry Ochieng’
+AU  - Korõtko, Tarmo
+AU  - McLaughlin, Kieran
+AU  - Kotkas, Vahur
+JO  - Computers & Security
+VL  - 124
+SP  - 102950
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.102950
+UR  - https://www.sciencedirect.com/science/article/pii/S016740482200342X
+KW  - Threat modeling
+KW  - Cyber-Physical System (CPS)
+KW  - Industrial Control Systems (ICS)
+KW  - STRIDE
+KW  - Microgrid
+KW  - Impact assessment
+AB  - Cyber threat modeling is an analytical process that is used for identifying the potential threats against a system and supporting the selection of security requirements in the early stages of the system development life cycle. Thus, threat modeling is a vital instrument for the realization of the secure-by-design principle. Despite being a well-known practice in software development projects, its adaptation to cyber-physical systems still requires systematic elaboration. The complex interactions between cyber and physical spaces and their reflection on the cyber threat landscape constitute a significant challenge for the system development teams. This study proposes a detailed methodology to apply STRIDE to cyber-physical systems and demonstrates its applicability in a case study of a microgrid system. Our methodology provides a systematic threat elicitation procedure based on an attack taxonomy that was created for this research. This paper also shows how assets could be identified, data flow diagrams formed, trust boundaries determined, and threats prioritized, in the case of a cyber-physical system.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity of multi-cloud healthcare systems: A hierarchical deep learning approach
+AU  - Gupta, Lav
+AU  - Salman, Tara
+AU  - Ghubaish, Ali
+AU  - Unal, Devrim
+AU  - Al-Ali, Abdulla Khalid
+AU  - Jain, Raj
+JO  - Applied Soft Computing
+VL  - 118
+SP  - 108439
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2022.108439
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494622000175
+KW  - Cloud networks
+KW  - Edge clouds
+KW  - Network function virtualization
+KW  - Critical healthcare
+KW  - Deep neural networks
+KW  - Stacked autoencoders
+KW  - Hierarchical neural networks
+KW  - Multi-cloud systems
+AB  - With the increase in sophistication and connectedness of the healthcare networks, their attack surfaces and vulnerabilities increase significantly. Malicious agents threaten patients’ health and life by stealing or altering data as it flows among the multiple domains of healthcare networks. The problem is likely to exacerbate with the increasing use of IoT devices, edge, and core clouds in the next generation healthcare networks. Presented in this paper is MUSE, a system of deep hierarchical stacked neural networks for timely and accurate detection of malicious activity that leads to alteration of meta-information or payload of the dataflow between the IoT gateway, edge and core clouds. Smaller models at the edge clouds take substantially less time to train as compared to the large models in the core cloud. To improve the speed of training and accuracy of detection of large core cloud models, the MUSE system uses a novel method of merging and aggregating layers of trained edge cloud models to construct a partly pre-trained core cloud model. As a result, the model in the core cloud takes substantially smaller number of epochs (6 to 8) and, consequently, less time, compared to those in the edge clouds, training of which take 35 to 40 epochs to converge. With the help of extensive evaluations, it is shown that with the MUSE system, large, merged models can be trained in significantly less time than the unmerged models that are created independently in the core cloud. Through several runs it is seen that the merged models give on an average 26.2% reduction in training times. From the experimental evaluation we demonstrate that along with fast training speeds the merged MUSE model gives high training and test accuracies, ranging from 95% to 100%, in detection of unknown attacks on dataflows. The merged model thus generalizes very well on the test data. This is a marked improvement when compared with the accuracy given by un-merged model as well as accuracy reported by other researchers with newer datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Ethical hacking for IoT: Security issues, challenges, solutions and recommendations
+AU  - Yaacoub, Jean-Paul A.
+AU  - Noura, Hassan N.
+AU  - Salman, Ola
+AU  - Chehab, Ali
+JO  - Internet of Things and Cyber-Physical Systems
+VL  - 3
+SP  - 280
+EP  - 308
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 2667-3452
+DO  - https://doi.org/10.1016/j.iotcps.2023.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2667345223000238
+KW  - Internet-of-things (IoT)
+KW  - IoT ethical hacking
+KW  - IoT penetration testing
+KW  - Internet of ethical hacking things (IoEHT)
+KW  - IoT cyber-security
+AB  - In recent years, attacks against various Internet-of-Things systems, networks, servers, devices, and applications witnessed a sharp increase, especially with the presence of 35.82 billion IoT devices since 2021; a number that could reach up to 75.44 billion by 2025. As a result, security-related attacks against the IoT domain are expected to increase further and their impact risks to seriously affect the underlying IoT systems, networks, devices, and applications. The adoption of standard security (counter) measures is not always effective, especially with the presence of resource-constrained IoT devices. Hence, there is a need to conduct penetration testing at the level of IoT systems. However, the main issue is the fact that IoT consists of a large variety of IoT devices, firmware, hardware, software, application/web-servers, networks, and communication protocols. Therefore, to reduce the effect of these attacks on IoT systems, periodic penetration testing and ethical hacking simulations are highly recommended at different levels (end-devices, infrastructure, and users) for IoT, and can be considered as a suitable solution. Therefore, the focus of this paper is to explain, analyze and assess both technical and non-technical aspects of security vulnerabilities within IoT systems via ethical hacking methods and tools. This would offer practical security solutions that can be adopted based on the assessed risks. This process can be considered as a simulated attack(s) with the goal of identifying any exploitable vulnerability or/and a security gap in any IoT entity (end devices, gateway, or servers) or firmware.
+ER  - 
+
+TY  - JOUR
+T1  - Deep data plane programming and AI for zero-trust self-driven networking in beyond 5G
+AU  - Hireche, Othmane
+AU  - Benzaïd, Chafika
+AU  - Taleb, Tarik
+JO  - Computer Networks
+VL  - 203
+SP  - 108668
+PY  - 2022
+DA  - 2022/02/11/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108668
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621005442
+KW  - AI
+KW  - Federated learning
+KW  - Blockchain
+KW  - Zero trust
+KW  - P4
+KW  - Data plane programming
+KW  - Self driving network
+KW  - 5G and beyond networks
+AB  - Along with the high demand for network connectivity from both end-users and service providers, networks have become highly complex; and so has become their lifecycle management. Recent advances in automation, data analysis, artificial intelligence, distributed ledger technologies (e.g., Blockchain), and data plane programming techniques have sparked the hope of the researchers’ community in exploring and leveraging these techniques towards realizing the much-needed vision of trustworthy self-driving networks (SelfDNs). In this vein, this article proposes a novel framework to empower fully distributed trustworthy SelfDNs across multiple domains. The framework vision is achieved by exploiting (i) the capabilities of programmable data planes to enable real-time in-network telemetry collection; (ii) the potential of P4 – as an important example of data plane programming languages – and AI to (re)write the source code of network components in a fashion that the network becomes capable of automatically translating a policy intent into executable actions that can be enforced on the network components; and (iii) the potential of blockchain and federated learning to enable decentralized, secure and trustable knowledge sharing between domains. A relevant use case is introduced and discussed to demonstrate the feasibility of the intended vision. Encouraging results are obtained and discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Security of Open Radio Access Networks
+AU  - Mimran, Dudu
+AU  - Bitton, Ron
+AU  - Kfir, Yehonatan
+AU  - Klevansky, Eitan
+AU  - Brodt, Oleg
+AU  - Lehmann, Heiko
+AU  - Elovici, Yuval
+AU  - Shabtai, Asaf
+JO  - Computers & Security
+VL  - 122
+SP  - 102890
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.102890
+UR  - https://www.sciencedirect.com/science/article/pii/S016740482200284X
+KW  - Open radio access networks
+KW  - 5G
+KW  - Risk assessment
+KW  - Threat analysis
+AB  - The Open Radio Access Network (O-RAN) is a promising radio access network (RAN) architecture aimed at reshaping the RAN industry toward an open, adaptive, and intelligent RAN. In this paper, we perform a comprehensive security analysis of O-RANs. Specifically, we review the architectural blueprint designed by the O-RAN Alliance, leader in the cellular ecosystem. As part of the security analysis, we provide a detailed overview of the O-RAN architecture; present an ontology for evaluating the security of a system that is currently at an early development stage; identify O-RAN’s high-risk areas; enumerate O-RAN’s threat actors; and model potential threats to O-RAN. The significance of this work is in providing an updated attack surface to cellular network operators. Based on the attack surface, cellular network operators can carefully deploy the appropriate countermeasures to improve O-RAN’s security.
+ER  - 
+
+TY  - JOUR
+T1  - Intent-Driven Secure System Design: Methodology and Implementation
+AU  - Ooi, Sian En
+AU  - Beuran, Razvan
+AU  - Kuroda, Takayuki
+AU  - Kuwahara, Takuya
+AU  - Hotchi, Ryosuke
+AU  - Fujita, Norihito
+AU  - Tan, Yasuo
+JO  - Computers & Security
+VL  - 124
+SP  - 102955
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.102955
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822003479
+KW  - networked system
+KW  - secure system design
+KW  - automated design
+KW  - design space exploration
+KW  - MITRE ATT&CK
+AB  - Given the typical complexity of networked systems in terms of number of components and their interconnections, manually designing their architecture is inherently difficult, and the design process requires expert knowledge and skills. If we also consider the security requirements that networked systems must meet, the task becomes even more demanding, since the manual audit and security mitigation of the architecture are time and labor intensive. This led to research on automated system design, including ways to cover the related security aspects. In this paper we present a methodology for secure system design that uses an intent-based representation of the network service requirements as input, which is annotated with security requirements, and applies the Design Space Exploration (DSE) approach to generate the system design. Security is handled via a MITRE ATT&CK-based security knowledge base, and a set of security check functions, so that the resulting system design meets not only the functional and quantitative requirements, but also the specified security requirements. We implemented this methodology as the secure system designer SecureWeaver by extending the functionality of an existing intent-based system designer that targeted IT/NW services, named Weaver. A case study of a typical corporate network scenario is used to illustrate the feasibility of the methodology in producing a system design that mitigates the associated security threats. The performance evaluation we conducted for this scenario demonstrates that the added security check overhead does not have a significant impact on the overall performance characteristics of the framework.
+ER  - 
+
+TY  - JOUR
+T1  - SD-WAN revolutionises IoT and edge security
+AU  - Pamplin, Simon
+JO  - Network Security
+VL  - 2021
+IS  - 8
+SP  - 14
+EP  - 15
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 1353-4858
+DO  - https://doi.org/10.1016/S1353-4858(21)00090-8
+UR  - https://www.sciencedirect.com/science/article/pii/S1353485821000908
+AB  - Network security is an ever-changing environment. In an age of growing reliance on Internet of Things (IoT) devices, multi-cloud environments and connected digital spaces, companies require robust security solutions to assure protection, especially at the enterprise edge, where vast data sets merge.
+ER  - 
+
+TY  - JOUR
+T1  - An analysis of zero-trust architecture and its cost-effectiveness for organizational security
+AU  - Adahman, Zillah
+AU  - Malik, Asad Waqar
+AU  - Anwar, Zahid
+JO  - Computers & Security
+VL  - 122
+SP  - 102911
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.102911
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822003042
+KW  - Zero-trust
+KW  - VPN
+KW  - Cost effectiveness
+KW  - Success rates
+KW  - Tools
+AB  - Zero Trust Architecture (ZTA) is a ‘Never Trust, Always Verify’ concept to improve cybersecurity by eliminating trust and validating network requests continuously. Zero Trust Architecture (ZTA) is here to replace Virtual Private Networks (VPNs) and provide solitary access to applications and data. The growth of ZTA has spiked over the years, but organizations are reluctant to invest in the security approach. Previous research studies cover ways to implement or migrate to ZTA, its significance, and challenges but provide limited information on available tools, prices, and the success rate of ZTA. Organizations lack information on the quantitative evaluations of ZTA benefits and drawbacks. An in-depth evaluation of ZTA to help security researchers better understand the costs and benefits of employing this new technology as a defence against cyber attacks is provided in this work. Results show that the implementation of ZTA causes a reduction of $684K on average in risk impact over a span of four years for small to medium sized organizations and enterprise-level organizations.
+ER  - 
+
+TY  - JOUR
+T1  - Never trust, always verify: A multivocal literature review on current knowledge and research gaps of zero-trust
+AU  - Buck, Christoph
+AU  - Olenberger, Christian
+AU  - Schweizer, André
+AU  - Völter, Fabiane
+AU  - Eymann, Torsten
+JO  - Computers & Security
+VL  - 110
+SP  - 102436
+PY  - 2021
+DA  - 2021/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2021.102436
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404821002601
+KW  - Zero-trust
+KW  - Network security
+KW  - Access control
+KW  - Software-defined perimeter
+KW  - SDP
+KW  - Multivocal literature review
+AB  - In response to weaknesses of current network security solutions, the zero-trust model follows the idea that no network – whether internal or external – is trustworthy. The concept of zero-trust is enjoying increasing attention in both research and practice due to its promise to fulfil complex new network security requirements. Despite zero-trust's advantages over traditional solutions, it has not yet succeeded in replacing existing approaches. Uncertainty remains regarding the concept's distinct benefits and drawbacks for organisations and individuals, which hinders a holistic understanding of zero-trust and wide-spread adoption. Research can make valuable contributions to the field by systematically providing new insights into zero-trust. To support researchers in this endeavour, we aim to consolidate the current state of the knowledge about zero-trust and to identify gaps in the literature. Thus, we conduct a multivocal literature review, analysing both academic and practice-oriented publications. We develop a research framework for zero-trust to structure the identified literature and to highlight future research avenues. Our results show that the academic literature has focused mainly on the architecture and performance improvements of zero-trust. In contrast, the practice-oriented literature has focused on organisational advantages of zero-trust and on potential migration strategies. However, economic analyses and user-related studies have been neglected by both academia and practice. Future research may rely on our findings to advance the field in meaningful ways.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain for the metaverse: A Review
+AU  - Huynh-The, Thien
+AU  - Gadekallu, Thippa Reddy
+AU  - Wang, Weizheng
+AU  - Yenduri, Gokul
+AU  - Ranaweera, Pasika
+AU  - Pham, Quoc-Viet
+AU  - da Costa, Daniel Benevides
+AU  - Liyanage, Madhusanka
+JO  - Future Generation Computer Systems
+VL  - 143
+SP  - 401
+EP  - 419
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2023.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X23000493
+KW  - Blockchain
+KW  - Metaverse
+KW  - Smart contracts
+KW  - Privacy
+KW  - Vertical applications
+AB  - Since Facebook officially changed its name to Meta in Oct. 2021, the metaverse has become a new norm of social networks and three-dimensional (3D) virtual worlds. The metaverse aims to bring 3D immersive and personalized experiences to users by leveraging many pertinent technologies. Despite great attention and benefits, a natural question in the metaverse is how to secure its users’ digital content and data. In this regard, blockchain is a promising solution owing to its distinct features of decentralization, immutability, and transparency. To better understand the role of blockchain in the metaverse, we aim to provide an extensive survey on the applications of blockchain for the metaverse. We first present a preliminary to blockchain and the metaverse and highlight the motivations behind the use of blockchain for the metaverse. Next, we extensively discuss blockchain-based methods for the metaverse from technical perspectives, such as data acquisition, data storage, data sharing, data interoperability, and data privacy preservation. For each perspective, we first discuss the technical challenges of the metaverse and then highlight how blockchain can help. Moreover, we investigate the impact of blockchain on key-enabling technologies in the metaverse, including Internet-of-Things, digital twins, multi-sensory and immersive applications, artificial intelligence, and big data. We also present some major projects to showcase the role of blockchain in metaverse applications and services. Finally, we present some promising directions to drive further research innovations and developments toward the use of blockchain in the metaverse in the future.
+ER  - 
+
+TY  - JOUR
+T1  - Construction of network access Layer security protection System based on zero trust architecture
+AU  - Liu, Yuexi
+JO  - Procedia Computer Science
+VL  - 243
+SP  - 1013
+EP  - 1022
+PY  - 2024
+DA  - 2024/01/01/
+T2  - The 4th International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.09.121
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092402129X
+KW  - zero trust architecture
+KW  - Network access layer
+KW  - Safety protection
+AB  - In order to further solve the problem of weak attack defense existing in the traditional network architecture, improve the shortcomings of network architecture in processing capacity, hardware expansion, security protection and other aspects, and better cope with the security challenges under the new network architecture, this article aims to provide more secure computer information exchange and sharing services for enterprises. A network access layer security protection system based on zero trust architecture is constructed. At the same time, the zero-trust architecture evaluation algorithm based on fuzzy theory is used to construct the security protection model. System tests show that more than 100 hosts on the enterprise access layer network use switches that support SNMP, and the security protection system at the network access layer processes more than 1500 attacks. In addition, malicious IP address changes are effectively prevented and the security protection level is greatly improved.
+ER  - 

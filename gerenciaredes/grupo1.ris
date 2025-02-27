@@ -1,0 +1,852 @@
+TY  - JOUR
+T1  - Machine learning based dynamic resource sharing and frequency reuse in 5G hetnets with dronecells
+AU  - Yağcıoğlu, Mert
+JO  - Computer Networks
+VL  - 258
+SP  - 111046
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111046
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000143
+KW  - 5G
+KW  - Drone base station
+KW  - Interference
+KW  - Heterogeneous networks
+KW  - Machine learning
+KW  - Fairness
+AB  - As 5G mobile communication systems evolve to the growing demands for network capacity and coverage, innovative solutions are required to address challenges such as interference and spectrum efficiency. The provision of temporary cellular network coverage by unmanned aerial vehicles (UAVs), which have made significant progress in recent years, provides great advantages in industries like telecommunications, public safety, and disaster recovery. Instead of using traditional base stations, UAVs, which we call flying base stations or Dronecells, can reduce interference and costs. Drones are strategically positioned at the center of user clusters, determined using the widely adopted k-means clustering algorithm, an unsupervised machine learning technique. Additionally, we use the TOPSIS method to ascertain users' priorities in resource allocation. The main challenge in this work lies in determining the optimal location and the appropriate number for the Dronecells. The article introduces a Benefit-Based Resource Allocation Algorithm (BRSA), designed for dynamic resource sharing in dense heterogeneous urban networks with Dronecells. This algorithm aims to enhance spectrum efficiency, optimize user fairness and minimize intercell interference. The number of Dronecells varies based on user density, allowing adaptability to different scenarios. Another objective is to identify the optimal cell center and cell edge areas by utilizing Reference Signal Received Power (RSRP) threshold values to maximize throughput for both cell center and cell edge users. Extensive simulations show that the proposed BRSA method significantly improves performance, increasing average cell edge user throughput by up to 25% while also enhancing fairness across the entire cell.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent drone-assisted robust lightweight multi-factor authentication for military zone surveillance in the 6G era
+AU  - Deebak, B.D.
+AU  - Hwang, Seong Oun
+JO  - Computer Networks
+VL  - 225
+SP  - 109664
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.109664
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623001093
+KW  - Unmanned aerial vehicle
+KW  - B5G/6G
+KW  - Aerial ad hoc network
+KW  - Multi-factor authentication
+KW  - Artificial intelligence
+KW  - Security
+AB  - In the diverse range of surveillance applications, large-scale deployment of next-generation communication technologies and the fast-growing development of unmanned aerial vehicles (UAVs) are envisioned as key innovations in the adoption of beyond-fifth generation (B5G) and 6G communication. Due to its self-reliance and versatility, a complex communication network can be formulated strategically to improve the application features of drone technology, including search-and-rescue, mission-critical services, and military surveillance. In recent times, technological advancements in hardware and software infrastructure have gained momentum toward seamless information interaction in aerial communication. Unfortunately, the recurrent process of user authentication causes severe communication instability in an unmanned aerial ad hoc network (UAANET) leading to some serious cyber threats, such as buffer overflow, denial of service, and spoofing. Therefore, building secure and reliable authentication is inevitable in order to protect drone-aided healthcare service environments. To protect aerial zones and improve security efficiency, this paper designs robust lightweight secure multi-factor authentication (RL-SMFA). The proposed RL-SMFA utilizes an AI-enabled, secure analytics phase to verify the genuineness of drone swarms for the ground control station. While protecting communication with drone vehicles, we also observe that power consumption by drones is reduced to a large extent. Using formal verification under a random oracle model, we show that the proposed RL-SMFA can functionally resist system vulnerabilities and constructively decrease the computation and communication costs of the UAANET. Lastly, the simulation study using ns3 shows that the proposed RL-SMFA achieves better performance efficiencies in terms of throughput rate, packet delivery ratio, and end-to-end delay than other state-of-the-art approaches to discovering a proper link establishment.
+ER  - 
+
+TY  - JOUR
+T1  - Resource and delay aware fine-grained service offloading in collaborative edge computing
+AU  - Zhang, Junye
+AU  - Yu, Peng
+AU  - Zhou, Fanqin
+AU  - Feng, Lei
+AU  - Li, Wenjing
+AU  - Qiu, Xuesong
+JO  - Computer Networks
+VL  - 218
+SP  - 109383
+PY  - 2022
+DA  - 2022/12/09/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109383
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622004170
+KW  - Collaborative edge computing
+KW  - Fine-grained service offloading
+KW  - Service graph reconstruction
+KW  - Service graph mapping
+KW  - Resource utilization balance
+KW  - Graph neural networks
+AB  - Fine-grained service offloading in collaborative edge computing can realize full use of the limited resources of edge nodes to achieve efficient parallel computing. The existing research mainly focuses on service delay but pays insufficient attention to the network status, which will easily cause unbalanced resource utilization. Therefore, we propose a resource and delay aware fine-grained service offloading mechanism. First, we propose a novel network-adaptive service graph reconstruction algorithm to reduce the complexity of service offloading and the transmission delay, which includes service graph partition, dependency conflict detection and elimination, and service graph re-creation. Next, to better balance link and node resource utilization respectively, we propose original graph-based and association graph-based service graph mapping algorithms based on graph neural networks. A goal-directed affinity-based loss function is explored for them, which aims to address the difficulty of label generation in supervised learning. We conduct extensive simulation experiments with different numbers of subtasks, edge nodes and service requests under different network resource statuses. The experimental results show that the proposed service graph reconstruction method can balance network resource utilization, while reducing the service transmission delay and algorithm execution time for complex services. Moreover, the service graph mapping algorithms can improve the resource utilization balance degree while satisfying service constraints with start-end node location, resources and delay in various scenarios, especially in the case of unbalanced user distribution. Generally, our fine-grained service offloading mechanism enables short execution time and strong scalability, and is applicable to dynamic edge networks.
+ER  - 
+
+TY  - JOUR
+T1  - Definition and implementation of the Cloud Infrastructure for the integration of the Human Digital Twin in the Social Internet of Things
+AU  - Girau, Roberto
+AU  - Anedda, Matteo
+AU  - Presta, Roberta
+AU  - Corpino, Silvia
+AU  - Ruiu, Pietro
+AU  - Fadda, Mauro
+AU  - Lam, Chan-Tong
+AU  - Giusto, Daniele
+JO  - Computer Networks
+VL  - 251
+SP  - 110632
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110632
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862400464X
+KW  - Social IoT
+KW  - Heterogeneous networks
+KW  - Digital twins
+AB  - With the integration of virtualization technologies, the Internet of Things (IoT) is expanding its capabilities and quickly becoming a complex ecosystem of networked devices. The Social Internet of Things (SIoT), where intelligent things include social properties that improve functioning and user engagement, is the result of this progress. The SIoT still has issues with scalability, data management, and user-centric operations, despite tremendous progress. In order to overcome these obstacles, a strong architecture is needed that can handle the enormous number of IoT devices while simultaneously streamlining the user interface. This study provides a unique architecture for the IoT that uses containerization to efficiently deploy and manage services while integrating Virtual Users (VUs) and Social Virtual Objects (SVOs) into a scalable Cloud/Edge infrastructure. These innovative aspects collectively advance previous works presented in literature and focused on novel SIoT architectures and implementations, by addressing key challenges in scalability, efficiency, and automation within the SIoT. The proposed method presents an extensible, modular architecture that lets VUs self-manage IoT services, making user administration easier and improving system security and scalability. Important parts of the design include a host controller for container orchestration, a deployer for automated service deployment, and user clusters for aggregating VUs, SVOs, and apps to provide secured and efficient data sharing. We show through experimental assessment that the architecture can manage high-volume installations and operating needs, exceeding the conventional platform based on Google App Engine in terms of system overhead and deployment timeframes. The obtained results highlight how our suggested architecture, which provides an easy-to-use, scalable, and secure foundation for IoT deployments, has the potential to advance the SIoT landscape.
+ER  - 
+
+TY  - JOUR
+T1  - Service-aware real-time slicing for virtualized beyond 5G networks
+AU  - Tsourdinis, Theodoros
+AU  - Chatzistefanidis, Ilias
+AU  - Makris, Nikos
+AU  - Korakis, Thanasis
+AU  - Nikaein, Navid
+AU  - Fdida, Serge
+JO  - Computer Networks
+VL  - 247
+SP  - 110445
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110445
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624002779
+KW  - Beyond 5G
+KW  - Service-aware
+KW  - RAN slicing
+KW  - OpenAirInterface
+KW  - Kubernetes
+KW  - Machine Learning
+KW  - MLOps
+AB  - Edge Intelligence is expected to play a vital role in the evolution of 5G networks, empowering them with the capability to make real-time decisions regarding various allocations related to their management and service provisioning to end-users. This shift facilitates the transition from a network-aware approach, where applications are developed to manage network quality fluctuations, to a service-aware network that self-adjusts based on the hosted applications. In this paper, we design and implement a service-aware network managed from the network edge. We utilize and assess various Machine Learning models to classify cellular network traffic flows in the backhaul, aiming to predict their future impact on network load. Leveraging these predictions, the network can proactively and autonomously reallocate slices in the Radio Access Network via programmable APIs, ensuring the demands of the traffic-generating applications are met. The approach integrates innovative MLOps methodologies for distributed and online training, enabling continuous model refinement and adaptation to evolving network dynamics. Our framework was tested in a real-world environment with realistic traffic scenarios, and the results were evaluated in real-time, down to a granularity of 10ms. Our findings indicate that the network can swiftly adjust to traffic, providing users with slices tailored to their application needs. Notably, our experiments show that under the studied settings, the users experienced up to 4 times lower latency (jitter) and nearly 4 times higher throughput when interacting with various applications, compared to the standard non-AI/ML unit. Furthermore, our dynamic scheme significantly optimizes resource allocation, ensuring energy efficiency by avoiding over- and under-provisioning of resources.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual assistant mediated communications for radio resources saving
+AU  - Mazzenga, Franco
+AU  - Vizzarri, Alessandro
+AU  - Giuliano, Romeo
+JO  - Computer Networks
+VL  - 259
+SP  - 111068
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111068
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000362
+KW  - Artificial intelligence (AI)
+KW  - Wireless networks
+KW  - Virtual assistant
+KW  - Intent based communications
+KW  - O-RAN
+AB  - Artificial Intelligence (AI) and Machine Learning (ML) are considered by 3GPP and ITU important technologies to manage and control the radio access networks (RANs). The efficient usage of radio resources is one of the objectives of the network AI/ML-based management/control system. The possibility of passing information on the generated traffic to the network can be helpful in optimizing the usage of radio resources allocated to users to connect with the application servers in the cloud and/or in the edge cloud. In this paper, we discuss one approach to save radio resources. To this purpose, we consider the possibility of splitting the user-to-application server link into two cascaded links inter-connected by an AI-based virtual assistant (VA). The first link, from the user to the VA, is within the RAN while the second one, from the VA to the application server is inside the Telco network. Assuming the VA could impersonate the user by exchanging messages with the application servers, at the end of transactions only the net data fulfilling the user request are transferred to the user over the RAN. We refer to this approach as VA-mediated communications. A description of the network architecture including VAs is presented in this paper. In general, depending on the type of the invoked application/service, this approach permits to reduce the amount of traffic transmitted over the RAN. We analyze the performance improvement in terms of radio resource saving by considering two applications: the download of a web page and the access to a web application. It is observed that the achievable radio resource saving depends on the ability of the VA to impersonate the user behavior while interacting with the application server(s). We provide a model for the evaluation of the additional costs of the hardware/software for the Telco to integrate the VA infrastructure into its network i.e. in the cloud or in the edge cloud.
+ER  - 
+
+TY  - JOUR
+T1  - ES-SDPC: A secure and trusted SDP framework
+AU  - Zhang, Zheng
+AU  - Ren, Quan
+AU  - Lu, Jie
+AU  - Hu, Yuxiang
+AU  - Chen, Hongchang
+JO  - Computer Networks
+VL  - 258
+SP  - 111038
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111038
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000064
+KW  - Software-defined networking
+KW  - Software-Defined Perimeter
+KW  - Endogenous security
+KW  - Security metrics
+KW  - Semi-Markov Chain
+AB  - Software-Defined Perimeter (SDP) provided a logical perimeter to restrict trusted access to the service. However, because of unknown security vulnerabilities in the controller, the authentication and authorization information has been maliciously tampered with, resulting in SDP controller failure. Therefore, this paper first proposes a flexible and secure Intrinsic Security SDP Controller (ES-SDPC) architecture. The ES-SDPC architecture consists of an endogenous secure SDP controller, which is authorized by the master controller and backed up by the slave controller to avoid the delay increase of multiple control information updates. Secondly, this paper proposes an evaluation model for ES-SDPC to theoretically analyze the intrinsic security performance of the ES-SDPC architecture. Finally, this paper implements ES-SDPC in a prototype system and conducts simulations and experiments in different language groups. The evaluation results indicate that, under reasonable configuration, ES-SDPC can ensure high reliability for 1724.68 h and provide 92.4% secure connections in environments facing three malicious attacks. When facing differential mode attacks, the throughput of ES-SDPC is 18.78% higher than that of Byzantine fault-tolerant systems, and the latency overhead is 16.16% lower.
+ER  - 
+
+TY  - JOUR
+T1  - H-HOME: A learning framework of federated FANETs to provide edge computing to future delay-constrained IoT systems
+AU  - Grasso, Christian
+AU  - Raftopoulos, Raoul
+AU  - Schembra, Giovanni
+AU  - Serrano, Salvatore
+JO  - Computer Networks
+VL  - 219
+SP  - 109449
+PY  - 2022
+DA  - 2022/12/24/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109449
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622004832
+KW  - 6G
+KW  - Zero-touch network management
+KW  - UAVs
+KW  - Deep reinforcement learning
+KW  - Federated learning
+KW  - Green networking
+AB  - In 6G systems, it will be mandatory that the network is able to support edge computing powered by Artificial Intelligence (AI) to provide mobile devices with the opportunity of job offloading for computation, so implementing the new paradigm of Intelligent Internet of Intelligent Things (IIoIT). In areas that are very difficult to be covered by the structured networks, Flying Ad-Hoc Networks (FANET) can be considered one of the most promising technologies to enhance coverage, capacity, reliability, and energy efficiency of wireless cellular networks, also providing edge-computing services. The goal of this paper is to propose a two-layer Hierarchical Horizontal-Offload ManagEment (H-HOME) framework for horizontal offload among the Unmanned Aerial Vehicles (UAV) of the same FANET, in order to minimize processing delay and jitter. The framework exploits Federated Reinforcement Learning in order to take advantage of knowledge sharing without incurring into problems of privacy and network overloading. A Markov Decision Process (MDP) is also defined to optimize decisions of the FANET Orchestrator (FO). Simulation results, obtained from two different analyses, demonstrate that H-HOME outperforms the traditional local training approach, based on simple recursive learning, and it can be effectively used to reduce power consumption and increase FANETs flight autonomy.
+ER  - 
+
+TY  - JOUR
+T1  - Service-based Analytics for 5G open experimentation platforms
+AU  - Aumayr, Erik
+AU  - Caso, Giuseppe
+AU  - Bosneag, Anne-Marie
+AU  - Zayas, Almudena Diaz
+AU  - Alay, Özgü
+AU  - Garcia, Bruno
+AU  - Kousias, Konstantinos
+AU  - Brünstrom, Anna
+AU  - Gomez, Pedro Merino
+AU  - Koumaras, Harilaos
+JO  - Computer Networks
+VL  - 205
+SP  - 108740
+PY  - 2022
+DA  - 2022/03/14/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108740
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621005892
+KW  - 5G experimental platforms
+KW  - Analytics frameworks
+KW  - Microservices architecture
+KW  - Open source
+AB  - A scalable, flexible and reliable Analytics service has become a requirement toward building efficient Fifth Generation (5G) experimental platforms that can support a suite of end-user experiments and verticals. Our paper presents the challenges that come with designing such a service-based Analytics component, and shows how we have used it in the context of open experimental platforms in the 5GENESIS project. Our Analytics service was designed both for enabling the efficient setup and configuration of the underlying platform, and also for ensuring that it provides useful insights into the experimentation Key Performance Indicators (KPIs) toward the end-user. Thus, Analytics proved to be a useful tool across several stages, starting from ensuring correct operation during the initial phases of the network setup and continuing into the normal day-to-day experimentation. Our experiments show how the tool was used in our setup and provide information on how to apply it to different environments. The Analytics component, designed as a set of microservices that serve several goals in the analytics workflow, is also provided as open source, being part of the Open5Genesis suite.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning for privacy preservation in autonomous moving platforms enhanced 5G heterogeneous networks
+AU  - Wu, Yulei
+AU  - Ma, Yuxiang
+AU  - Dai, Hong-Ning
+AU  - Wang, Hao
+JO  - Computer Networks
+VL  - 185
+SP  - 107743
+PY  - 2021
+DA  - 2021/02/11/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2020.107743
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862031327X
+KW  - Deep learning
+KW  - 5G
+KW  - Heterogeneous networks
+KW  - Privacy preservation
+KW  - Network slicing
+AB  - 5G heterogeneous networks have become a promising platform to connect a growing number of Internet-of-Things (IoT) devices and accommodate a wide variety of vertical services. IoT has not been limited to traditional sensing systems since the introduction of 5G, but also includes a range of autonomous moving platforms, e.g., autonomous flying vehicles, autonomous underwater vehicles, autonomous surface vehicles as well as autonomous land vehicles. These platforms can be used as an effective means to connect air, space, ground, and sea mobile networks for providing a wider diversity of Internet services. Deep learning has been widely used to extract useful information from network big data for enhancing network quality-of-service and user quality-of-experience. Privacy preservation for user and network data is a burning concern in 5G heterogeneous networks due to various attacks in this environment. In this paper, we conduct an in-depth investigation on how deep learning can cope with privacy preservation issues in 5G heterogeneous networks, in terms of heterogeneous radio access networks (RANs), beyond-RAN networks, and end-to-end network slices, followed by a set of key research challenges and open issues that aim to guide future research.
+ER  - 
+
+TY  - JOUR
+T1  - Disruptive 6G architecture: Software-centric, AI-driven, and digital market-based mobile networks
+AU  - Alberti, Antônio M.
+AU  - Pivoto, Diego G.S.
+AU  - Rezende, Tibério T.
+AU  - Leal, Alexis V.A.
+AU  - Both, Cristiano B.
+AU  - Facina, Michelle S.P.
+AU  - Moreira, Rodrigo
+AU  - de Oliveira Silva, Flávio
+JO  - Computer Networks
+VL  - 252
+SP  - 110682
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110682
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624005140
+KW  - 6G
+KW  - Disruptive architecture
+KW  - Enabling technologies
+KW  - Mobile networks
+KW  - Network architecture
+KW  - System architecture
+KW  - D6G
+AB  - Mobile communications have followed a progression model detailed by the Gartner hype cycle, from a proof-of-concept to widespread productivity. As fifth-generation (5G) mobile networks are being deployed, their potential and constraints are becoming more evident. Although 5G boasts a flexible architecture, enhanced bandwidth, and data throughput, it still grapples with infrastructure challenges, security vulnerabilities, coverage issues, and limitations in fully enabling the Internet of Everything (IoE). As the world experiences exponential growth in Internet users and digitized devices, relying solely on evolutionary technologies seems inadequate. Recognizing this, global entities such as the 3rd Generation Partnership Project (3GPP) are laying the groundwork for 5G Advanced, a precursor to 6G. This article argues against a mere evolutionary leap from 5G to 6G. We propose a radical shift towards a disruptive 6G architecture (D6G) that harnesses the power of smart contracts, decentralized Artificial Intelligence (AI), and digital twins. This novel design offers a software-centric, AI-driven, and digital market-based redefinition of mobile technologies. As a result of an integrated collaboration among researchers from the Brazil 6G Project, this work identifies and synthesizes fifty-one key emerging enablers for 6G, devising a unique and holistic integration framework. Emphasizing flexibility, D6G promotes a digital market environment, allowing seamless resource sharing and solving several of 5G’s current challenges. This article comprehensively explores these enablers, presenting a groundbreaking approach to 6G’s design and implementation and setting the foundation for a more adaptable, autonomous, digitally monitored, and AI-driven mobile communication landscape. Finally, we developed a queuing theory model to evaluate the D6G architecture. Results show that the worst-case delay for deploying a smart contract in a 6G domain was 23 s. Furthermore, under high transaction rates of ten transactions per minute, the delay for contracting a 6G slice was estimated at 53.7 s, demonstrating the architecture’s capability to handle high transaction volumes efficiently.
+ER  - 
+
+TY  - JOUR
+T1  - Spatio-temporal graph learning: Traffic flow prediction of mobile edge computing in 5G/6G vehicular networks
+AU  - Song, Chao
+AU  - Wu, Jie
+AU  - Xian, Kunyang
+AU  - Huang, Jianfeng
+AU  - Lu, Li
+JO  - Computer Networks
+VL  - 252
+SP  - 110676
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110676
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624005085
+KW  - 5G/6G vehicular networks
+KW  - Graph neural network
+KW  - Mobile edge computing
+AB  - Mobile Edge Computing (MEC) is a key technology that emerged to address the increasing computational demands and communication requirements of vehicular networks. It is a form of edge computing that brings cloud computing capabilities closer to end-users, specifically within the context of vehicular networks, which are part of the broader Internet of Vehicles (IoV) ecosystem. However, the dynamic nature of traffic flows in MEC in 5G/6G vehicular networks poses challenges for accurate prediction and resource allocation when aiming to provide edge service for mobile vehicles. In this paper, we present a novel approach to predict the traffic flow of MEC in 5G/6G vehicular networks using graph-based learning. In our framework, MEC servers in vehicular networks are construed as nodes to construct a dynamic similarity graph and a dynamic transition graph over a duration of multiple days. We utilize Graph Attention Networks (GAT) to learn and fuse the node embeddings of these dynamic graphs. A transformer model is subsequently employed to predict the vehicle frequency accessing the edge computing services for the next day. Our experimental results have shown that the model achieves high accuracy in predicting edge service access volumes with low error metrics.
+ER  - 
+
+TY  - JOUR
+T1  - Radio resource management scheme in radar and communication spectral coexistence platform
+AU  - Kim, Sungwook
+JO  - Computer Networks
+VL  - 230
+SP  - 109773
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.109773
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623002189
+KW  - Joint radar sensing and communications
+KW  - Coalitional bargaining solutions
+KW  - Spectral resource sharing
+KW  - Autonomous driving vehicles
+KW  - Cooperative game theory
+AB  - In vehicular environments, the cooperation of radar and communications has been recognized as a promising solution to alleviate the shortage of spectrum resources. In this paper, we investigate the joint radar sensing and communication (JSC) system based on the cooperative spectrum sharing strategy. Via the full cooperation between both radar sensing and wireless communication functionalities, we can avoid the under-utilization of spectral resource while improving system efficiency. To implement our JSC control scheme, we focus on coalitional bargaining solutions according to the cooperative game theory. Especially, the coalitional Nash bargaining solution (CNBS) and coalitional Kalai-Smorodinsky bargaining (CKSBS) are employed to get a mutually desirable solution in the radar-communication coexistence platform. The main ides of CNBS is adopted to distribute the spectrum resource among roadside units, and both radar and communication functions in each individual vehicle. The concept of CKSBS is applied to allocate the spectrum resource for vehicles in order to maximize their payoffs. In the proposed scheme, the CNBS and CKSBS work together to share the surplus of a coalition with the fairness and efficiency properties. The main contribution of our proposed approach is the reciprocal combination of the CNBS and CKSBS to obtain the synergy effect. Finally, numerical results are provided to verify the effectiveness of the proposed scheme for the JSC system operations.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic slicing reconfiguration for virtualized 5G networks using ML forecasting of computing capacity
+AU  - Camargo, Juan Sebastian
+AU  - Coronado, Estefanía
+AU  - Ramirez, Wilson
+AU  - Camps, Daniel
+AU  - Deutsch, Sergi Sánchez
+AU  - Pérez-Romero, Jordi
+AU  - Antonopoulos, Angelos
+AU  - Trullols-Cruces, Oscar
+AU  - Gonzalez-Diaz, Sergio
+AU  - Otura, Borja
+AU  - Rigazzi, Giovanni
+JO  - Computer Networks
+VL  - 236
+SP  - 110001
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.110001
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623004462
+KW  - O-RAN
+KW  - NFV
+KW  - Resource forecasting
+KW  - AI
+KW  - ML
+KW  - Network reconfiguration
+KW  - Kubernetes
+AB  - As 5G deployments continue to increase worldwide, new applications can fully leverage the exceptional features of the emerging mobile networks. Ultra-Reliable Low Latency Communications (URLLC) serve as an excellent example of applications highly sensitive to jitter and packet loss. To meet these demanding requirements, 5G relies on network slicing, network virtualization, and software-defined networks. This ecosystem enables the precise allocation of resources for each network slice. However, the applications’ resource demands may vary over time. In this challenging and overwhelming environment, traditional human decision-making for slice reconfiguration is not suitable anymore, due to the multitude of parameters and the need for extremely fast response times. Machine Learning (ML) comes as a tool that can enable better use of the available resources with faster and more intelligent management. This paper introduces an ML model that can predict slices’ traffic and dynamically reconfigure computational capacity. With these forecasting capabilities, the virtualized resources can be fine-tuned to suit the slices’ requirements, guaranteeing their Quality of Service (QoS). By doing so, Mobile Network Operators can make optimized use of the equipment, tailoring their needs to each service while complying with the QoS level. The results obtained demonstrate that the proposed ML model, in combination with a specific set of hysteresis rules, can accurately predict the saturation of virtualized capacity with up to 91% accuracy and proactively adapt it to the network slice requirements.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling realistic experimentation of disaggregated RAN: Design, implementation, and validation of a modular multi-split eNodeB
+AU  - Erazo-Agredo, Cristian C.
+AU  - Diez, Luis
+AU  - Agüero, Ramón
+AU  - Garza-Fabre, Mario
+AU  - Rubio-Loyola, Javier
+JO  - Computer Networks
+VL  - 235
+SP  - 109993
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.109993
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623004383
+KW  - eNodeB disaggregation
+KW  - Functional split
+KW  - Practical implementation
+AB  - Software-defined networking and network function virtualization are the key enablers in the division of base station functionalities and the deployment of some of these in central nodes. In this way, eNodeB tasks, traditionally deployed at dedicated nodes, are distributed between Central Units (CU) and Distributed Units (DU), which are closer to the Radio Units (RU). The 3GPP has specified eight possible functional splits between the CU and the DU. Despite their importance, to date, there is a lack of practical approaches that enable the real separation of multiple functional splits into different nodes, which would in turn enable the adaptation of the functional split configuration, according to network conditions and traffic load. This paper presents the design and implementation of an experimental architecture that allows the actual separation of protocol layers into different nodes, enabling the experimentation with up to four functional split configurations. The validation results demonstrate the feasibility of the proposed implementation, which copes with the delay requirements established by the Small Cell Forum in all configurations.
+ER  - 
+
+TY  - JOUR
+T1  - Online network traffic classification based on external attention and convolution by IP packet header
+AU  - Hu, Yahui
+AU  - Zeng, Ziqian
+AU  - Song, Junping
+AU  - Xu, Luyang
+AU  - Zhou, Xu
+JO  - Computer Networks
+VL  - 252
+SP  - 110656
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110656
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624004882
+KW  - IP packet header
+KW  - External attention
+KW  - Network traffic classification
+KW  - Online classification
+AB  - Network traffic classification is an important part of network monitoring and network management. Three traditional methods for network traffic classification are flow-based, session-based, and packet-based, while flow-based and session-based methods cannot meet the real-time requirements and existing packet-based methods will violate user’s privacy. To solve the above problems, we propose a network traffic classification method only by the IP packet header, which satisfies the requirements of both the user’s privacy protection and online classification performances. Through statistical analyses, we find that IP packet header information is effective on the network traffic classification tasks and this conclusion is also demonstrated by experiments. Furthermore, we propose a novel external attention and convolution mixed (ECM) model for online network traffic classification. This model adopts both low-computational complexity external attention and convolution to respectively extract the byte-level and packet-level characteristics for traffic classification. Therefore, it can achieve high classification accuracy and low time consumption. The experiments show that ECM can reach over 96% classification accuracy on four datasets and the classification time is 0.36 ms per packet which can meet the real-time requirements. The code is available at https://github.com/CNZZQ1030/ECM-for-Network-Traffic-Classification.
+ER  - 
+
+TY  - JOUR
+T1  - An effective scheme for classifying imbalanced traffic in SD-IoT, leveraging XGBoost and active learning
+AU  - Jisi, Chandroth
+AU  - Roh, Byeong-hee
+AU  - Ali, Jehad
+JO  - Computer Networks
+VL  - 257
+SP  - 110939
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110939
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007710
+KW  - SDN
+KW  - IoT
+KW  - Traffic classification
+KW  - Imbalance problem
+KW  - XGBoost
+KW  - Cost-sensitive XGBoost
+KW  - Active learning
+AB  - The volume and diversity of Internet traffic are constantly growing due to the simplicity of Internet of Things (IoT) technology, making machine learning-powered solutions increasingly essential for efficient network oversight in the future. The IoT applications prefer stringent but various Quality of Service (QoS). To allocate network resources and offer security based on these QoS, network traffic classification is the foremost solution and a complex part of modern communication. Software Defined Networking (SDN) is combined with machine learning (ML) to automate traffic classification in the IoT network. Nevertheless, uneven class distribution in traffic classification is brought about by the immanent features of Software-Defined IoT (SD-IoT) networks, which could hinder classification performance, particularly for minority classes. In order to solve the issue of class imbalance in SD-IoT environments, this study introduces a Cost-Sensitive XGBoost with Active Learning (AL-CSXGB) algorithm. This unique approach characterizes class distribution from a new point of view. The proposed work dynamically assigns a weight to different applications and actively queries to label new data points iteratively to acquire better accuracy. Experiments on the MOORE_SET and ISCX VPN-nonVPN datasets are used to ensure the efficiency of the algorithm under consideration. The experimental findings show that AL-CSXGB outperforms the other state-of-the-art methods regarding classification accuracy and computation time and alleviates the imbalance problem in SD-IoT networks. The proposed scheme achieves an accuracy of 98.4% on the MOORE_SET dataset and 98.89% on the ISCX VPN-nonVPN dataset, demonstrating its effectiveness and reliability in diverse scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of machine learning in satellite internet of things: A survey of techniques, challenges, and future directions
+AU  - Choquenaira-Florez, Alexander Y.
+AU  - Fraire, Juan A.
+AU  - Pasandi, Hannah B.
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 259
+SP  - 111063
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111063
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000313
+KW  - Satellite ioT
+KW  - Satellite networks
+KW  - Machine learning
+AB  - The drive towards an interconnected world via satellites is reshaping the landscape of communication technologies. This survey comprehensively reviews studies in the Satellite Internet of Things (SIoT) domain, focusing on the role of Machine Learning (ML) techniques. Indeed, the global data collection scale in SIoT is ideally suited for data-intensive and sophisticated ML approaches. We highlight the innovative use of ML to address specific SIoT challenges, aiming to identify current trends, methodologies, and outcomes. We considered theoretical, practical, and experimental research, organizing existing publications into a new taxonomy that intersects ML and SIoT categories. Our taxonomy reveals that Deep Learning (DL), Reinforcement Learning (RL), and Federated Learning (FL) are widely applied to address radio access schemes, resource and network management, and application-specific issues. This survey identifies critical gaps in current research on ML applications in SIoT, such as the lack of differentiation between space-based and ground-based processing, insufficient integration of SIoT-specific metrics, and the oversight of limited computational resources on orbiting satellites. These issues raise concerns about the feasibility and efficiency of proposed solutions. We propose promising research directions based on the derived insights to effectively bridge the gap between ML researchers and industrial SIoT entities.
+ER  - 
+
+TY  - JOUR
+T1  - UAV-assisted fair communications for multi-pair users: A multi-agent deep reinforcement learning method
+AU  - Luo, Xijian
+AU  - Xie, Jun
+AU  - Xiong, Liqin
+AU  - Wang, Zhen
+AU  - Liu, Yaqun
+JO  - Computer Networks
+VL  - 242
+SP  - 110277
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110277
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624001099
+KW  - Fair communications
+KW  - Multi-pair users
+KW  - MADRL
+AB  - Unmanned aerial vehicle (UAV) plays an important role in scenarios like search and rescue, remote communication relay, battlefield mobile networks, etc. In this paper, we investigate multiple UAV relays providing real-time transmission for multi-pair ground users (GUs) in the absence of ground-based stations (GBSs). Due to the limited load capacities and energy resources on-board, fairness between multi-pair users, throughput maximization, as well as the connectivity maintenance between UAVs are jointly considered. We formulate the energy-efficient fair throughput objective function, which turns to be non-convex with hybrid variables. To solve this intractable problem, we utilize the power of neural networks in function approximation and propose a multi-agent deep reinforcement learning (MADRL)-based algorithm. Different from traditional MADRL algorithms, we utilize the method, named independent proximal policy optimization (IPPO), which allows agents to update according to their own observations memory and encourages more explorations to some extend, as the base of our solution. Simulation results demonstrate that our algorithm outperforms some baselines in terms of fairness, throughput as well as energy consumption.
+ER  - 
+
+TY  - JOUR
+T1  - Designing the Network Intelligence Stratum for 6G networks
+AU  - Soto, Paola
+AU  - Camelo, Miguel
+AU  - García-Avilés, Ginés
+AU  - Municio, Esteban
+AU  - Gramaglia, Marco
+AU  - Kosmatos, Evangelos
+AU  - Slamnik-Kriještorac, Nina
+AU  - De Vleeschauwer, Danny
+AU  - Bazco-Nogueras, Antonio
+AU  - Fuentes, Lidia
+AU  - Ballesteros, Joaquin
+AU  - Lutu, Andra
+AU  - Cominardi, Luca
+AU  - Paez, Ivan
+AU  - Alcalá-Marín, Sergi
+AU  - Chatzieleftheriou, Livia Elena
+AU  - García-Saavedra, Andrés
+AU  - Fiore, Marco
+JO  - Computer Networks
+VL  - 254
+SP  - 110780
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110780
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624006121
+KW  - Network intelligence
+KW  - 6G stratum
+KW  - AI-native network architecture
+KW  - Network Intelligence Orchestration
+AB  - As network complexity escalates, there is an increasing need for more sophisticated methods to manage and operate these networks, focusing on enhancing efficiency, reliability, and security. A wide range of Artificial Intelligence (AI)/Machine Learning (ML) models are being developed in response. These models are pivotal in automating decision-making, conducting predictive analyses, managing networks proactively, enhancing security, and optimizing network performance. They are foundational in shaping the future of networks, collectively forming what is known as Network Intelligence (NI). Prominent Standard-Defining Organizations (SDOs) are integrating NI into future network architectures, particularly emphasizing the closed-loop approach. However, existing methods for seamlessly integrating NI into network architectures are not yet fully effective. This paper introduces an in-depth architectural design for a Network Intelligence Stratum (NI Stratum). This stratum is supported by a novel end-to-end NI orchestrator that supports closed-loop NI operations across various network domains. The primary goal of this design is to streamline the deployment and coordination of NI throughout the entire network infrastructure, tackling issues related to scalability, conflict resolution, and effective data management. We detail exhaustive workflows for managing the NI lifecycle and demonstrate a reference implementation of the NI Stratum, focusing on its compatibility and integration with current network systems and open-source platforms such as Kubernetes and Kubeflow, as well as on its validation on real-world environments. The paper also outlines major challenges and open issues in deploying and managing NI.
+ER  - 
+
+TY  - JOUR
+T1  - Reducing the In band Network Telemetry overhead through the spatial sampling: Theory and experimental results
+AU  - Polverini, Marco
+AU  - Sardellitti, Stefania
+AU  - Barbarossa, Sergio
+AU  - Cianfrani, Antonio
+AU  - Di Lorenzo, Paolo
+AU  - Listanti, Marco
+JO  - Computer Networks
+VL  - 242
+SP  - 110269
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110269
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624001014
+KW  - Extensible In band processing
+KW  - In band Network Telemetry
+KW  - Signal sampling and recovering
+AB  - In band Network Telemetry (INT) allows for a high accurate monitoring of the network status, at the cost of an increased overhead, due to the insertion of telemetry information in the packets carrying the user data. In this paper we present a novel approach to reduce the overhead due to the realization of network monitoring solutions based on the use of INT. In particular we introduce the concept of spatial sampling as a means to reduce the amount of telemetry data to collect. The idea is to exploit the spatial correlations arising among the different INT data and imposed by the network topology, to reduce the amount of telemetry values to collect and reconstruct the unseen ones. We further introduce SPAN, a sampling and recovering strategy that works according to the spatial sampling paradigm. The integration of SPAN in a programmable network is discussed and an extensive performance evaluation is performed. The results show that it is possible to reduce the overhead due to INT data collection of 65%, while achieving a high accurate reconstruction of the network status.
+ER  - 
+
+TY  - JOUR
+T1  - A cost and demand sensitive adjustment algorithm for service function chain in data center network
+AU  - Wang, Yuantao
+AU  - Shu, Zhaogang
+AU  - Chen, Shuwu
+AU  - Lin, Jiaxiang
+AU  - Zhang, Zhenchang
+JO  - Computer Networks
+VL  - 242
+SP  - 110254
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110254
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624000860
+KW  - Service function chain
+KW  - Network function virtualization orchestrator
+KW  - Resource management
+AB  - The introduction of Network Function Virtualization (NFV) and Software-Defined Network (SDN) architectures has significantly reduced the Operational Expenditure (OPEX) and Capital Expenditure (CAPEX) of network system. However, NFV orchestration management also brings about challenges. After the initial deployment of VNFs, due to the volatility of network requests, the original deployment may not be able to meet user resource demands. The key issue is how to readjust resources dynamically to accommodate more network requests without violating Quality of Service (QoS) for users. Several existing techniques can be used to achieve this goal, such as horizontal scaling, vertical scaling, and virtual network function (VNF) migration. However, these techniques inevitably incur some overhead, such as the cost of instantiating VNF and link rerouting. Additionally, resource adjustment may also result in unbalanced distribution of network resources. In this paper, an Intelligent Service Function Chain Dynamic Adjustment Algorithm (ISFCDAA) is proposed to address the above challenges. Firstly, an Integer Linear Programming (ILP) model is established with the objective of minimizing the long-term adjustment cost and reducing the imbalance of resource distribution. Then we transform the optimization process into a Markov Decision Process (MDP). Secondly, to solve the problems that the state and action space is too large and the state transition probability is uncertain in MDP, a SFC dynamic adjustment algorithm based on deep reinforcement learning is proposed. This algorithm can obtain an approximate optimal adjustment strategy for ILP model. The simulation results show that ISFCDAA can reduce the adjustment overhead and maintain a balanced distribution of network resources while ensuring the QoS. Compared with the existing algorithms, the average standard deviation of resource distribution of ISFCDAA is reduced by up to 9.90%, the average acceptance rate of ISFCDAA is improved by up to 39.57%, and the average long-term profit is improved by up to 42.92%. The incorporation of cost and demand-sensitive considerations into ISFCDAA enhances its responsiveness to fluctuating network demands, solidifying its effectiveness in dynamic resource management scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - AI/ML-based services and applications for 6G-connected and autonomous vehicles
+AU  - Casetti, Claudio
+AU  - Chiasserini, Carla Fabiana
+AU  - Dressler, Falko
+AU  - Memedi, Agon
+AU  - Gasco, Diego
+AU  - Schiller, Elad Michael
+JO  - Computer Networks
+VL  - 255
+SP  - 110854
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110854
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624006868
+KW  - 5G
+KW  - 6G
+KW  - Connected autonomous vehicles
+KW  - Intelligent services
+KW  - Machine learning
+AB  - AI and ML emerge as pivotal in overcoming the limitations of traditional network optimization techniques and conventional control loop designs, particularly in addressing the challenges of high mobility and dynamic vehicular communications inherent in the domain of connected and autonomous vehicles (CAVs). The survey explores the contributions of novel AI/ML techniques in the field of CAVs, also in the context of innovative deployment of multilevel cloud systems and edge computing as strategic solutions to meet the requirements of high traffic density and mobility in CAV networks. These technologies are instrumental in curbing latency and alleviating network congestion by facilitating proximal computing resources to CAVs, thereby enhancing operational efficiency also when AI-based applications require computationally-heavy tasks. A significant focus of this survey is the anticipated impact of 6G technology, which promises to revolutionize the mobility industry. 6G is envisaged to foster intelligent, cooperative, and sustainable mobility environments, heralding a new era in vehicular communication and network management. This survey comprehensively reviews the latest advancements and potential applications of AI/ML for CAVs, including sensory perception enhancement, real-time traffic management, and personalized navigation.
+ER  - 
+
+TY  - JOUR
+T1  - SIM+: A comprehensive implementation-agnostic information model assisting AI-driven optimization for beyond 5G networks
+AU  - Magoula, Lina
+AU  - Koursioumpas, Nikolas
+AU  - Panagea, Theodora
+AU  - Alonistioti, Nancy
+AU  - Ghribi, Chaima
+AU  - Shakya, Joshua
+JO  - Computer Networks
+VL  - 240
+SP  - 110190
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110190
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624000227
+KW  - Implementation-agnostic information model
+KW  - Beyond 5G networks
+KW  - IOC
+KW  - AI
+KW  - VNF
+KW  - Context-aware networks
+AB  - Forthcoming beyond 5G (B5G) network systems are expected to introduce a new era in the mobile networks, supporting new and challenging use cases and applications. This new era will provide ubiquitous connection of up to billions of devices that are estimated to generate vast amounts of data, paving the way towards a data-driven network system design. In such network design, Artificial Intelligence (AI) will act as a key enabler with regard to network system automation and optimizations. One of the biggest challenges for AI in such complex and dynamic network environments, is the interoperability in terms of seamless exchange and analysis of information between two or more systems. Technological interoperability requires that the format in which data is generated or stored is standardized and that interconnected systems are aware of the nature of transmitted information and are able to analyze it. This paper proposes a novel, comprehensive Information Model (IM), named as SIM+, that extends all across the network, describing different network entities, attributes, capabilities and operations in an implementation-agnostic and standardized way towards assisting AI-driven optimizations. Seven key abstraction layers have been identified in an attempt to hide infrastructure complexities. The adaptability of the proposed SIM+ is showcased through its application in two state-of-the-art AI-driven solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Low-latency intelligent service combination caching strategy with density peak clustering algorithm in vehicle edge computing
+AU  - Chen, Yishan
+AU  - Ye, Shumei
+AU  - Wu, Jie
+AU  - Li, Wei
+AU  - Wang, Jiyuan
+JO  - Computer Networks
+VL  - 254
+SP  - 110761
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110761
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624005930
+KW  - Vehicle edge computing
+KW  - Density peak clustering
+KW  - Service combination caching
+KW  - Latency
+KW  - Cost
+AB  - In the dynamic field of Vehicle Edge Computing (VEC), the demand for intelligent vehicular systems to process vast amounts of data is escalating, driven by advancements in autonomous driving and real-time navigation technologies. Optimizing service latency and minimizing transmission costs are crucial for enhancing the performance of vehicular networks. Traditional service caching strategies, which largely rely on the popularity of individual services, often fail to account for the intricate interdependencies between services. The oversight can result in redundant data transfers and inefficient use of storage resources. In response, our paper introduces a novel approach to service combination caching within a heterogeneous computational framework comprising vehicles, edge servers, and the cloud. Our strategy focuses on minimizing user wait times and data transmission costs during task execution, while adhering to the caching budget constraints of service providers. Key contributions include the development of an Improved Density Peak Clustering (IDPC) algorithm to facilitate cooperative clustering among edge servers and the design of a Service Combination Caching Strategy (SCCS). The SCCS approach reduces caching costs by categorizing servers, forming efficient clusters, and strategically allocating storage. Simulation results demonstrate that the method outperforms existing strategies by significantly decreasing task execution delays and transmission costs, thereby greatly enhancing the quality of service in vehicular applications.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable Artificial Intelligence in communication networks: A use case for failure identification in microwave networks
+AU  - Ayoub, Omran
+AU  - Di Cicco, Nicola
+AU  - Ezzeddine, Fatima
+AU  - Bruschetta, Federica
+AU  - Rubino, Roberto
+AU  - Nardecchia, Massimo
+AU  - Milano, Michele
+AU  - Musumeci, Francesco
+AU  - Passera, Claudio
+AU  - Tornatore, Massimo
+JO  - Computer Networks
+VL  - 219
+SP  - 109466
+PY  - 2022
+DA  - 2022/12/24/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109466
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862200500X
+KW  - Explainable artificial intelligence
+KW  - Machine learning
+KW  - Automated network management
+AB  - Artificial Intelligence (AI) has demonstrated superhuman capabilities in solving a significant number of tasks, leading to widespread industrial adoption. For in-field network-management application, AI-based solutions, however, have often risen skepticism among practitioners as their internal reasoning is not exposed and their decisions cannot be easily explained, preventing humans from trusting and even understanding them. To address this shortcoming, a new area in AI, called Explainable AI (XAI), is attracting the attention of both academic and industrial researchers. XAI is concerned with explaining and interpreting the internal reasoning and the outcome of AI-based models to achieve more trustable and practical deployment. In this work, we investigate the application of XAI for network management, focusing on the problem of automated failure-cause identification in microwave networks. We first introduce the concept of XAI, highlighting its advantages in the context of network management, and we discuss in detail the concept behind Shapley Additive Explanations (SHAP), the XAI framework considered in our analysis. Then, we propose a framework for a XAI-assisted ML-based automated failure-cause identification in microwave networks, spanning model’s development and deployment phases. For the development phase, we show how to exploit SHAP for feature selection and how to leverage SHAP to inspect misclassified instances during model’s development process, and how to describe model’s global behavior based on SHAP’s global explanations. For the deployment phase, we propose a framework based on predictions uncertainty to detect possibly wrong predictions that will be inspected through XAI.
+ER  - 
+
+TY  - JOUR
+T1  - A lightweight federated learning based privacy preserving B5G pandemic response network using unmanned aerial vehicles: A proof-of-concept
+AU  - Nasser, Nidal
+AU  - Fadlullah, Zubair Md
+AU  - Fouda, Mostafa M.
+AU  - Ali, Asmaa
+AU  - Imran, Muhammad
+JO  - Computer Networks
+VL  - 205
+SP  - 108672
+PY  - 2022
+DA  - 2022/03/14/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108672
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621005466
+KW  - 5G
+KW  - Beyond 5G (B5G)
+KW  - Federated learning
+KW  - Unmanned aerial vehicle (UAV)
+KW  - Pandemic
+KW  - Artificial intelligence (AI)
+KW  - Edge computing
+AB  - The concept of an intelligent pandemic response network is gaining momentum during the current novel coronavirus disease (COVID-19) era. A heterogeneous communication architecture is essential to facilitate collaborative and intelligent medical analytics in the fifth generation and beyond (B5G) networks to intelligently learn and disseminate pandemic-related information and diagnostic results. However, such a technique raises privacy issues pertaining to the health data of the patients. In this paper, we envision a privacy-preserving pandemic response network using a proof-of-concept, aerial–terrestrial network system serving mobile user entities/equipment (UEs). By leveraging the unmanned aerial vehicles (UAVs), a lightweight federated learning model is proposed to collaboratively yet privately learn medical (e.g., COVID-19) symptoms with high accuracy using the data collected by individual UEs using ambient sensors and wearable devices. An asynchronous weight updating technique is introduced in federated learning to avoid redundant learning and save precious networking as well as computing resources of the UAVs/UEs. A use-case where an Artificial Intelligence (AI)-based model is employed for COVID-19 detection from radiograph images is presented to demonstrate the effectiveness of our proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Software-defined networks for resource allocation in cloud computing: A survey
+AU  - Mohamed, Arwa
+AU  - Hamdan, Mosab
+AU  - Khan, Suleman
+AU  - Abdelaziz, Ahmed
+AU  - Babiker, Sharief F.
+AU  - Imran, Muhammad
+AU  - Marsono, M.N.
+JO  - Computer Networks
+VL  - 195
+SP  - 108151
+PY  - 2021
+DA  - 2021/08/04/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108151
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621002152
+KW  - Resource allocation
+KW  - Software-defined networks
+KW  - Cloud computing
+KW  - Data Center Network
+KW  - Edge-Computing
+KW  - 5G
+AB  - Cloud computing has a shared set of resources, including physical servers, networks, storage, and user applications. Resource allocation is a critical issue for cloud computing, especially in Infrastructure-as-a-Service (IaaS). The decision-making process in the cloud computing network is non-trivial as it is handled by switches and routers. Moreover, the network concept drifts resulting from changing user demands are among the problems affecting cloud computing. The cloud data center needs agile and elastic network control functions with control of computing resources to ensure proper virtual machine (VM) operations, traffic performance, and energy conservation. Software-Defined Network (SDN) proffers new opportunities to blueprint resource management to handle cloud services allocation while dynamically updating traffic requirements of running VMs. The inclusion of an SDN for managing the infrastructure in a cloud data center better empowers cloud computing, making it easier to allocate resources. In this survey, we discuss and survey resource allocation in cloud computing based on SDN. It is noted that various related studies did not contain all the required requirements. This study is intended to enhance resource allocation mechanisms that involve both cloud computing and SDN domains. Consequently, we analyze resource allocation mechanisms utilized by various researchers; we categorize and evaluate them based on the measured parameters and the problems presented. This survey also contributes to a better understanding of the core of current research that will allow researchers to obtain further information about the possible cloud computing strategies relevant to IaaS resource allocation.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-domain collaborative two-level DDoS detection via hybrid deep learning
+AU  - Feng, Huifen
+AU  - Zhang, Weiting
+AU  - Liu, Ying
+AU  - Zhang, Chuan
+AU  - Ying, Chenhao
+AU  - Jin, Jian
+AU  - Jiao, Zhenzhen
+JO  - Computer Networks
+VL  - 242
+SP  - 110251
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110251
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624000835
+KW  - Software Defined Networks (SDN)
+KW  - Multi-domain
+KW  - Rényi entropy
+KW  - Improved hybrid deep learning
+KW  - Distributed Denial-of-Service (DDoS)
+AB  - In this paper, we investigate the problem of multiple network domains being threatened by Distributed Denial-of-Service (DDoS) attacks, in which a DDoS attack detection scheme is constructed based on the Software Defined Networks (SDN) hierarchical distributed control plane architecture. Specifically, we propose a two-level detection framework for collaborative DDoS attack detection in multi-domain scenarios. To detect the signs of DDoS attacks as early as possible on the attack path, a first-level coarse-grained anomaly detection method based on the Rényi entropy algorithm is proposed. The purpose is to calculate the feature entropy of normal and abnormal traffic in a simple statistical way within the local network domain, achieving rapid perception of network anomalies. Then, the root server aggregates all abnormal traffic data uploaded by each local network domain, and the DCNN-LSTM algorithm based on a hybrid deep learning model as the second-level detection method extracts the features of the suspicious traffic from both temporal and spatial dimensions to achieve fine-grained DDoS attack classification. Finally, theoretical analysis and experimental results indicate that the proposed two-level detection method in multi-domain scenarios is effective and feasible, while with high detection accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - A distributed AI/ML framework for D2D Transmission Mode Selection in 5G and beyond
+AU  - Ioannou, Iacovos
+AU  - Christophorou, Christophoros
+AU  - Vassiliou, Vasos
+AU  - Pitsillides, Andreas
+JO  - Computer Networks
+VL  - 210
+SP  - 108964
+PY  - 2022
+DA  - 2022/06/19/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.108964
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622001396
+KW  - 5G
+KW  - D2D
+KW  - Transmission Mode selection
+KW  - Distributed Artificial Intelligence
+KW  - Machine learning
+KW  - Distributed machine learning
+KW  - Unsupervised learning
+KW  - Clustering
+AB  - In this paper we build on the Distributed Artificial Intelligence (DAI) Framework, which makes use of Belief-Desire-Intention extended (BDIx) agents residing on Device-to-Device (D2D) Mobile Devices in order to establish D2D communication in an efficient, distributed, autonomous and flexible way. To demonstrate the potentials of this framework, in this work we focus on D2D Transmission Mode Selection in 5G. Specifically, we build on our previous work and develop an enhanced version of DAIS, a specific plan executed by the BDIx agents, for selecting the D2D Transmission mode that the D2D Devices will operate, aiming to offer improved Spectral Efficiency (SE) and Power Consumption (PC). To set a benchmark and allow for a fairer comparison we also enhance the Distributed Sum Rate (DSR), a distributed algorithmic approach that focuses on maximising the aggregated data rate of all the links established in the network, with similar functionality as DAIS. Furthermore, an extensive comparative evaluation of the enhanced DAIS and DSR with a number of unsupervised ML clustering approaches adapted for D2D Communication(i.e., GMEANS, Fuzzy ART, MEC, and DBSCAN) is provided. Specifically, for each approach the following have been collected and compared: QoE and QoS Fairness, SE and PC achieved, efficiency of clusters created, signalling overhead caused (i.e., volume of messages exchanged), time execution delay, D2D Effectiveness, D2D Stability and D2D Productivity. Based on the insight gained into the performance of the enhanced DAIS, DSR and the unsupervised ML techniques, we discuss performance gain trade-offs in terms of SE and PC versus signalling overhead and control delay in responding to changes.
+ER  - 
+
+TY  - JOUR
+T1  - AT-GCN: A DDoS attack path tracing system based on attack traceability knowledge base and GCN
+AU  - Li, Kun
+AU  - Zhou, Huachun
+AU  - Tu, Zhe
+AU  - Liu, Ouyang
+AU  - Zhang, Hongke
+JO  - Computer Networks
+VL  - 236
+SP  - 110036
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.110036
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623004814
+KW  - DDoS attack source tracing
+KW  - Attack traceability knowledge base
+KW  - Graph convolutional network
+AB  - The rapid development of the Internet provides sufficient attack entrances for massive malicious terminals, which makes it extremely challenging to effectively trace the path of DDoS attacks. Traditional solutions mainly trace distributed denial of service (DDoS) attacks by adding tags to data packet headers or querying logs, which increases the cost of tagging. There are also some works that implement attack tracking based on the network-wide perspective and centralized control of SDN, but these methods are difficult to deploy on a large scale. In order to solve this problem, we propose a DDoS attack path tracing system (AT-GCN) based on attack traceability knowledge base and graph convolutional network (GCN). We first propose the construction process of the attack traceability knowledge base, and design the intra-domain attack graph and the traceability algorithm recommendation graph to solve the problems of DDoS attack path traceability and optimal traceability solution recommendation. On this basis, we propose a GCN-based intra-domain attack traceability scheme, and design a subgraph sampling algorithm Tracing-Sample adapted to intra-domain DDoS attack traceability, aiming to efficiently use the graph structure in the knowledge base to reproduce DDoS attack paths. Additionally, we recommend the traceability algorithm based on user-based collaborative filtering (UBCF), and dynamically recommend the best traceability algorithm according to the different requirements of administrators for traceability performance. Compared with other GCN algorithms, the results show that the recall of the AT-GCN system is increased by 7.3% on average, and the FPR is reduced by 5.7% on average at the expense of the memory usage rate. Under different scale topologies, the recall of the AT-GCN system can be stabilized at 95%.
+ER  - 
+
+TY  - JOUR
+T1  - AI-driven, QoS prediction for V2X communications in beyond 5G systems
+AU  - Barmpounakis, Sokratis
+AU  - Maroulis, Nikolaos
+AU  - Koursioumpas, Nikolaos
+AU  - Kousaridas, Apostolos
+AU  - Kalamari, Angeliki
+AU  - Kontopoulos, Panagiotis
+AU  - Alonistioti, Nancy
+JO  - Computer Networks
+VL  - 217
+SP  - 109341
+PY  - 2022
+DA  - 2022/11/09/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109341
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622003759
+KW  - 5G
+KW  - 6G
+KW  - CAM
+KW  - Quality of Service prediction
+KW  - V2X
+AB  - On the eve of 5G-enabled Connected and Automated Mobility, challenging Vehicle-to-Everything services have emerged towards safer and automated driving. The requirements that stem from those services pose very strict challenges to the network primarily with regard to the end-to-end delay and service reliability. At the same time, the in-network Artificial Intelligence that is emerging, reveals a plethora of novel capabilities of the network to act in a proactive manner towards satisfying the aforementioned challenging requirements. This work presents PreQoS, a computationally-efficient, predictive Quality of Service mechanism that focuses on Vehicle-to-Everything services. PreQoS is able to timely predict specific Quality of Service metrics, such as uplink and downlink data rate and end-to-end delay, in order to offer the required time window to the network to allocate more efficiently its resources. Geographical space discretization and clustering techniques are applied in advance to the prediction process for computational and communication requirements minimization. On top of that, the proactive management of those resources enables the respective Vehicle-to-Everything services and applications to perform any potential Quality of Service-related required adaptations in advance. The evaluation of the proposed mechanism based on a realistic, simulated, Connected and Automated Mobility environment proves the viability and validity of such an approach.
+ER  - 
+
+TY  - JOUR
+T1  - A novel predictive approach for mobility activeness in mobile wireless networks
+AU  - Fazio, Peppino
+AU  - Mehic, Miralem
+AU  - Voznak, Miroslav
+AU  - De Rango, Floriano
+AU  - Tropea, Mauro
+JO  - Computer Networks
+VL  - 226
+SP  - 109689
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2023.109689
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128623001342
+KW  - Mobile networks
+KW  - Mobility
+KW  - Routing
+KW  - Networking
+KW  - Metric
+KW  - Stability
+AB  - Nowadays, mobile computing has become a key component of telecommunication systems, and the Open Systems Interconnection (OSI) layer operations are affected by the effects of node movements along the roads, from the physical to the routing/transport layers. In particular, routing approaches have been investigated from many years, trying to optimize the performance of the whole considered system, under different points of view. In this paper we are focusing the attention on the analysis of the mobility grade trend for a mobile ad-hoc network environment, as well as on the way it can be a-priori known, in order to have the possibility to study how the dynamics of mobile nodes can be described and in-advance known, with a predicted knowledge of nodes stability (in terms of mobility). Our simulations considered mobility in real geographical maps, and the obtained results confirmed the goodness of our proposed study.
+ER  - 
+
+TY  - JOUR
+T1  - Relay-empowered beyond 5G radio access networks with edge computing capabilities
+AU  - Vilà, I.
+AU  - Sallent, O.
+AU  - Pérez-Romero, J.
+JO  - Computer Networks
+VL  - 243
+SP  - 110287
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110287
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624001191
+KW  - Beyond 5G
+KW  - Edge computing
+KW  - Relays
+AB  - Relevant services envisaged for beyond 5G (B5G) systems, such as extended reality and holographic communications, have extremely demanding user experience requirements with significant computational and communication demands. While edge computing aims to address the computation requirements by offloading the computational tasks to edge servers near the user, the communication will take advantage of the technologies developed for 5G New Radio jointly with an never-before-seen degree of network densification. This paper proposes the use of relays with edge computing capabilities. The approach's potential for B5G are identified, and a system model is defined to characterize both computational and communications viewpoints. Based on this, results are provided to highlight the gains and limitations of the proposed approach from a system-level perspective. Finally, the main challenges for enabling relays with computing capabilities in B5G deployments are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - A novel Distributed AI framework with ML for D2D communication in 5G/6G networks
+AU  - Ioannou, Iacovos
+AU  - Christophorou, Christophoros
+AU  - Vassiliou, Vasos
+AU  - Pitsillides, Andreas
+JO  - Computer Networks
+VL  - 211
+SP  - 108987
+PY  - 2022
+DA  - 2022/07/05/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.108987
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862200158X
+KW  - 5G
+KW  - 6G
+KW  - D2D
+KW  - Intelligence edge
+KW  - Distributed Artificial Intelligence
+KW  - Machine Learning
+KW  - Distributed Machine Learning
+KW  - Unsupervised learning
+KW  - BDIx agent
+AB  - Inspired by the adoption of Artificial Intelligence (AI) and Machine Learning (ML) approaches in 5G and 6G networks, in this paper we propose a novel ML based Distributed AI (DAI) framework able to attain the ambitious goals set for emerging 5G/6G networks. The novelty of the DAI framework is that it is implemented in an autonomous, dynamic and flexible fashion, utilising Belief Desire Intention (BDI) agents, extended with ML capabilities, which reside on the mobile devices (User Equipment). We refer to these as BDIx agents. This provides a component-based framework (likened to LEGO-based building blocks), which can build on and utilise execution plans, by composing and arranging ML techniques in flexible ways within the framework, in order to achieve the desired goals. More specifically, we form a modular BDIx agent at a multi-agent system (MAS), integrated with Fuzzy Logic for the perception/cognitive part of the agents. By exploiting the capabilities of the BDIx agents in our DAI framework, we allow mobile devices to intercommunicate and cooperate in an autonomous manner, thus offering a number of attractive features, including improved performance in terms of network control execution time and message exchange, fast response in handling dynamic aspects in the network, self-organising network functionalities, and a framework that can act as the glue platform in employing one or more intelligent approaches to tackle the diverse 5G/6G technical requirements. To demonstrate the potential of the DAI framework we focus on Device to Device (D2D) communication and illustrate its flexibility in addressing diverse D2D challenges. Through example Plan Libraries and enhanced metrics, we outline DAI implementation specifics to achieve a number of identified 5G/6G D2D requirements. To embed the concept further, the specific problem of D2D transmission mode selection is expanded upon, from problem description to solution approach (DAIS) and implementation specifics, and hence comparatively evaluate over other approaches (i.e., Unsupervised learning ML techniques, centralised control techniques, random techniques). The results demonstrated that DAIS provides, among other performance metrics, improved mobile network Spectral Efficiency (SE) and Power Consumption (PC), better and more efficient cluster formation and reduced control decision delay.
+ER  - 
+
+TY  - JOUR
+T1  - A survey: Distributed Machine Learning for 5G and beyond
+AU  - Nassef, Omar
+AU  - Sun, Wenting
+AU  - Purmehdi, Hakimeh
+AU  - Tatipamula, Mallik
+AU  - Mahmoodi, Toktam
+JO  - Computer Networks
+VL  - 207
+SP  - 108820
+PY  - 2022
+DA  - 2022/04/22/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.108820
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622000421
+KW  - Machine Learning
+KW  - Distributed machine learning
+KW  - Distributed inference
+KW  - Latency
+KW  - 5G networks
+AB  - 5G is the fifth generation of cellular networks. It enables billions of connected devices to gather and share information in real time; a key facilitator in Industrial Internet of Things (IoT) applications. It has more capabilities in terms of bandwidth, latency/delay, processing powers and flexibility to utilize either edge or cloud resources. Furthermore, 6G is expected to be equipped with the new capability to converge ubiquitous communication, computation, sensing and controlling for a variety of sectors, which heightens the complexity in a more heterogeneous environment This increased complexity, combined with energy efficiency and Service Level Agreement (SLA) requirements makes application of Machine Learning (ML) and distributed ML necessary. A decentralized approach stemming from distributed learning is a very attractive option compared with a centralized architecture for model learning and inference. Distributed ML exploits recent Artificial Intelligence (AI) technology advancements to allow collaborated ML, whilst safeguarding private data, minimizing both communication and computation overhead along with addressing ultra-low latency requirements. In this paper, we review a number of distributed ML architectures and designs, that focus on optimizing communication, computation and resource distribution. Privacy, information security and compute frameworks, are also analyzed and compared with respect to different distributed ML approaches. We summarize the major contributions and trends in this area and highlight the potential of distributed ML to help researchers and practitioners make informed decisions on selecting the right ML approach for 5G and Beyond related AI applications. To enable distributed ML for 5G and Beyond, communication, security, and computing platform often counter balance each other, thus, consideration and optimization of these aspects at an overall system level is crucial to realize the full potential of AI for 5G and Beyond. These different aspects do not only pertain to 5G, but will also enable careful design of distributed machine learning architectures to circumvent the same hurdles that will inevitably burden 5G and Beyond network generations. This is the first survey paper that brings together all these aspects for distributed ML.
+ER  - 

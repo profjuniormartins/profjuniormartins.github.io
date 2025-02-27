@@ -1,0 +1,771 @@
+TY  - JOUR
+T1  - GNNetSlice: A GNN-based performance model to support network slicing in B5G networks
+AU  - Farreras, Miquel
+AU  - Paillissé, Jordi
+AU  - Fàbrega, Lluís
+AU  - Vilà, Pere
+JO  - Computer Communications
+VL  - 232
+SP  - 108044
+PY  - 2025
+DA  - 2025/02/15/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2025.108044
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366425000015
+KW  - Network modeling
+KW  - Network slicing
+KW  - Graph Neural Networks
+AB  - Network slicing is gaining traction in Fifth Generation (5G) deployments and Beyond 5G (B5G) designs. In a nutshell, network slicing virtualizes a single physical network into multiple virtual networks or slices, so that each slice provides a desired network performance to the set of traffic flows (source–destination pairs) mapped to it. The network performance, defined by specific Quality of Service (QoS) parameters (latency, jitter and losses), is tailored to different use cases, such as manufacturing, automotive or smart cities. A network controller determines whether a new slice request can be safely granted without degrading the performance of existing slices, and therefore fast and accurate models are needed to efficiently allocate network resources to slices. Although there is a large body of work of network slicing modeling and resource allocation in the Radio Access Network (RAN), there are few works that deal with the implementation and modeling of network slicing in the core and transport network. In this paper, we present GNNetSlice, a model that predicts the performance of a given configuration of network slices and traffic requirements in the core and transport network. The model is built leveraging Graph Neural Networks (GNNs), a kind of Neural Network specifically designed to deal with data structured as graphs. We have chosen a data-driven approach instead of classical modeling techniques, such as Queuing Theory or packet-level simulations due to their balance between prediction speed and accuracy. We detail the structure of GNNetSlice, the dataset used for training, and show how our model can accurately predict the delay, jitter and losses of a wide range of scenarios, achieving a Symmetric Mean Average Percentage Error (SMAPE) of 5.22%, 1.95% and 2.04%, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Revolutionizing fault detection in self-healing network via multi-serial cascaded and adaptive network
+AU  - S, Caleb
+AU  - S, John Justin Thangaraj
+AU  - G, Padmapriya
+AU  - T J, Nandhini
+AU  - Shadrach, Finney Daniel
+AU  - R, Latha
+JO  - Knowledge-Based Systems
+VL  - 309
+SP  - 112732
+PY  - 2025
+DA  - 2025/01/30/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2024.112732
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705124013662
+KW  - Fault detection
+KW  - Self-healing network
+KW  - Multi-serial cascaded and adaptive network
+KW  - Revised position in fire hawk optimizer
+AB  - Self-Healing Network (SHN) plays a crucial role in the realm of digital networking and the telecommunications industry. Fault detection in SHN is a critical aspect of network management and maintenance, which acts as a pivotal role in maintaining network health and minimizing disruptions. The SHN networks aim to manage faults and system failures by automating the detection process and pinpointing their origins. This proactive approach is essential to maintain network integrity and ensure a seamless user experience. In this paper, a novel multi-Serial cascaded and Adaptive Network based fault Detection in SHN (SAND-SHN) technique has been proposed for detecting faults in the SHN network. The proposed method uses the Eigen-Entropy Synthetic Minority Oversampling Technique (EE-SMOTE) to balance imbalanced data for classification and the Multi-Serial Cascaded and Adaptive Network (MSCAN), which integrates deep learning (DL) techniques to attain the final classified outcome. The proposed SAND-SHN method has been evaluated using a Python environment in terms of specific parameters such as accuracy, precision, recall, specificity, and F1-Score. The proposed technique has been evaluated using two datasets as EFCD dataset, and the SFDD dataset. The proposed SAND-SHN technique achieves a higher accuracy of 74% for RSO-MSCAN, 39.2% for DMO-MSCAN, 48.8% for BFGO-MSCAN, and 43.6% for FHO-MSCAN respectively.
+ER  - 
+
+TY  - JOUR
+T1  - On providing multi-level security assurance based on Common Criteria for O-RAN mobile network equipment. A test case: O-RAN Distributed Unit
+AU  - Krawiec, Piotr
+AU  - Janowski, Robert
+AU  - Mongay Batalla, Jordi
+AU  - Andrukiewicz, Elżbieta
+AU  - Latoszek, Waldemar
+AU  - Mavromoustakis, Constandinos X.
+JO  - Computers & Security
+VL  - 150
+SP  - 104271
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.104271
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824005777
+KW  - O-RAN
+KW  - 5G
+KW  - Security evaluation
+KW  - Security testing
+KW  - Security assurance
+AB  - Open Radio Access Network (O-RAN) technology introduces disaggregation of RAN network functions, offering enhanced flexibility for extending hardware and software. To ensure interoperability between such components, the O-RAN Alliance (the main Standards Development Organisation of O-RAN) defined a set of new interfaces. The network may be built by integrating components from different providers. The introduction of multi-provider components and functions increases security challenges due to the increase of security surfaces (e.g., new interfaces). Therefore, it is relevant for network operators to gain a certain level of assurance that O-RAN components deployed in the network are secure. This paper proposes a framework for the security evaluation of O-RAN interfaces that provides assurance that the O-RAN component has been tested deeply enough to demonstrate its resilience to attacks. Our proposal is based on Common Criteria standards and provides several security assurance levels depending on the intended use of the O-RAN network. Each security assurance level involves a set of tests, from security conformance tests to specialised fuzzy tests. We have specified them in the Vulnerability assessment for the product, as required in the Common Criteria. The validation of the framework focuses on the O-DU (O-RAN Distributed Unit) component, which is a logical module responsible for the implementation of L2 layer functionalities; nevertheless, it can be easily extended to other O-RAN components: O-CU (O-RAN Central Unit) and O-RU (O-RAN Radio Unit) as well as to Non and Near Real Time Radio Intelligent Controller (RIC). The O-DU evaluation results show that it is possible to provide the evaluation at different levels of security assurance, which correspond to different intended uses of the 5G O-RAN mobile network.
+ER  - 
+
+TY  - JOUR
+T1  - Feature selection and hybrid CNNF deep stacked autoencoder for botnet attack detection in IoT
+AU  - Kalidindi, Archana
+AU  - Arrama, Mahesh Babu
+JO  - Computers and Electrical Engineering
+VL  - 122
+SP  - 109984
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109984
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624009091
+KW  - Botnet attack
+KW  - Convolutional neural network
+KW  - Quantile normalization
+KW  - Oversampling
+KW  - Deep stacked Autoencoder
+AB  - Botnet attack is a severe cyber security issue, which occurs in the Internet of Things (IoT). These attacks are carried out by hackers to acquire control of various IoT devices and carry out illegal activities. Though several methods have been proposed to overcome these issues, the rapidly evolving nature of botnet makes attack detection complicated. Hence, in this paper a Deep Learning (DL) model is introduced for identifying botnets in IoT. Initially, the IoT network is simulated, and the detection of attack is established using the log data. Afterwards, the log data is fed into data pre-processing, in which the data is pre-processed by Quantile normalization. Then, feature selection is effectuated by employing Information Gain (IG), and City Block Distance. Once the feature selection is performed, data augmentation is done with the use of oversampling to increase the samples. Lastly, the Botnet attack detection is carried out by using the proposed Convolutional Neural Network Fused with Deep stacked Autoencoder (CNN-FDSA), which is formed by fusing Deep Stacked Autoencoder (DSA) and Convolutional Neural Network (CNN). Furthermore, the proposed CNN-FDSA attained the highest recall, precision, f-measure, and accuracy of 90.3 %, 91.6 %, 90.9 %, and 92.4 %, and then the lowest False Positive Rate (FPR) of 8.2 %.
+ER  - 
+
+TY  - JOUR
+T1  - Joint energy efficiency and network optimization for integrated blockchain-SDN-based internet of things networks
+AU  - Hakiri, Akram
+AU  - Sellami, Bassem
+AU  - Yahia, Sadok Ben
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107519
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107519
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004837
+KW  - Internet of things
+KW  - Blockchain
+KW  - SDN/NFV
+KW  - Proof-of-authority
+KW  - Energy-efficiency
+KW  - Trust
+AB  - The Internet of Things (IoT) networks are poised to play a critical role in providing ultra-low latency and high bandwidth communications in various real-world IoT scenarios. Assuring end-to-end secure, energy-aware, reliable, real-time IoT communication is hard due to the heterogeneity and transient behavior of IoT networks. Additionally, the lack of integrated approaches to efficiently schedule IoT tasks and holistically offload computing resources, and computational limits in IoT systems to achieve effective resource utilization. This paper makes three contributions to research on overcoming these problems in the context of distributed IoT systems that use the Software Defined Networking (SDN) programmable control plane in symbiosis with blockchain to benefit from the dispersed or decentralized, and efficient environment of distributed IoT transactions over Wide Area Networks (WANs). First, it introduces a Blockchain-SDN architectural component to reinforce flexibility and trustworthiness and improve the Quality of Service (QoS) of IoT networks. Second, it describes the design of an IoT-focused smart contract that implements the control logic to manage IoT data, detect and report suspected IoT nodes, and mitigate malicious traffic. Third, we introduce a novel consensus algorithm based on the Proof-of-Authority (PoA) to achieve agreements between blockchain-enabled IoT nodes, improve the reliability of IoT edge devices, and establish absolute trust among all smart IoT systems. Experimental results show that integrating SDN with blockchain outperforms traditional Proof-of-Work (PoW) and Practical Byzantine Fault Tolerance (PBFT) algorithms, delivering up to 68% lower latency, 87% higher transaction throughput, and 45% better energy savings.
+ER  - 
+
+TY  - JOUR
+T1  - A novel recommendation-based framework for reconnecting and selecting the efficient friendship path in the heterogeneous social IoT network
+AU  - Farhadi, Babak
+AU  - Asghari, Parvaneh
+AU  - Mahdipour, Ebrahim
+AU  - Javadi, Hamid Haj Seyyed
+JO  - Computer Networks
+VL  - 258
+SP  - 111016
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111016
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862400848X
+KW  - Heterogeneous social IoT
+KW  - Friendship path selection
+KW  - Service recommendation
+KW  - Deep reinforcement learning
+KW  - Metaheuristics
+AB  - Automating the selection process for the most suitable service in a dynamic Internet of Things (IoT) ecosystem to improve critical metrics such as resilience, throughput, delay, energy consumption, confidence level, and cost is considered an important challenge, and in this regard, the Social Internet of Things (SIoT) paradigm has greatly helped to deal with this challenge through the merging of Complex Network (CN) principles within the IoT domain. In this study, we combined metaheuristics and Deep Reinforcement Learning (DRL) to develop a new unsupervised group-driven recommender framework for predicting, reconnecting, and choosing the optimal friendship path between requester and service provider nodes in a SIoT environment. There are four main phases to the presented framework. We first suggested a new method to learn features associated with the heterogeneous social IoT structure and detect ever-changing semantically related clusters. In the second phase, we propose a novel optimization model that utilizes the Artificial Bee Colony (ABC) metaheuristics to accurately predict community-oriented social connections. We came up with a new strategy to select an efficient group-based friendship path in the third phase. It hybridized the techniques of metaheuristic-driven Ant Colony Optimization (ACO) and DRL-oriented Proximal Policy Optimization (PPO). In the final phase, we introduce an innovative ACO-centered recommender model to improve the framework's accuracy and speed while also providing socially aware, community-driven service recommendations. We conducted extensive experiments on four real-world datasets to assess the efficacy of the proposed framework, and the findings show that it outperforms leading baselines.
+ER  - 
+
+TY  - JOUR
+T1  - A cache-aware congestion control mechanism using deep reinforcement learning for wireless sensor networks
+AU  - Alipio, Melchizedek
+AU  - Bures, Miroslav
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103678
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103678
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524002890
+KW  - Congestion control
+KW  - Deep reinforcement learning
+KW  - Internet of things
+KW  - Intermediate caching
+KW  - Wireless sensor networks
+AB  - In Wireless Sensor Networks (WSN) communication protocols, rule-based approaches have been traditionally used for managing caching and congestion control. These approaches rely on explicitly defined, unchanging models. Recently, a trend has been toward incorporating adaptive methods that leverage machine learning (ML), including its subset deep learning (DL), during network congestion conditions. However, an adaptive cache-aware congestion control mechanism using Deep Reinforcement Learning (DRL) in WSN has not yet been explored. Therefore, this study developed a DRL-based adaptive cache-aware congestion control mechanism called DRL-CaCC to alleviate WSN during congestion scenarios. The DRL-CaCC uses intermediate caching parameters as its state space and adaptively moves the congestion window as its action space through the Rapid Start and DRL algorithms. The mechanism aims to find the optimal congestion window movement to avoid further network congestion while ensuring maximum cache utilization. Results show that DRL-CaCC achieved an average improvement gain between 20% and 40% compared to its baseline protocol, RT-CaCC. Finally, DRL-CaCC outperformed other caching-based and DRL-based congestion control protocols in terms of cache utilization, throughput, end-to-end delay, and packet loss metrics, with improvement gains between 10% and 30% in various congestion scenarios in WSN.
+ER  - 
+
+TY  - JOUR
+T1  - A two-context-aware approach for navigation: A case study for vehicular route recommendation
+AU  - Barbon, Rafael S.
+AU  - Madeira, Edmundo R.M.
+AU  - Akabane, Ademar T.
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103655
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103655
+UR  - https://www.sciencedirect.com/science/article/pii/S157087052400266X
+KW  - Vehicular traffic congestion
+KW  - Route recommendation
+KW  - Context awareness
+KW  - Here navigation
+AB  - In contemporary urban environments, route recommendation systems have become an indispensable tool in moving the population from large centers, serving as valuable resources for circumventing traffic congestion. Enhancing vehicular traffic flow through strategic route adjustments is a pivotal element in improving traffic mobility. However, depending exclusively on traffic-related data for route recommendations fails to meet the essential criteria for ensuring effective management and safety for drivers and passengers during travel. Thus, context awareness and traffic data are crucial for enhancing efficiency and safety in traffic management. Our study proposes a two-context-aware approach to recommend safe routes for urban traffic management, considering road safety and travel time. Experiments were carried out using the widely recognized tool — HERE Navigation. Comparatively, our approach signifies a progressive stride in balancing mobility and security when contrasted with a single focus on travel time.
+ER  - 
+
+TY  - JOUR
+T1  - Skyward secure: Advancing drone data-sharing in 6G with decentralized dataspace and supported technologies
+AU  - Alsamhi, Saeed Hamood
+AU  - Srivastava, Sumit
+AU  - Rashid, Mamoon
+AU  - Alhabeeb, Amnnah
+AU  - Kumar, Santosh
+AU  - Rajput, Navin Singh
+AU  - Hawbani, Ammar
+AU  - Zhao, Liang
+AU  - Al-qaness, Mohammed A.A.
+AU  - Curry, Edward
+JO  - Journal of Parallel and Distributed Computing
+VL  - 199
+SP  - 105040
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0743-7315
+DO  - https://doi.org/10.1016/j.jpdc.2025.105040
+UR  - https://www.sciencedirect.com/science/article/pii/S0743731525000073
+KW  - Dataspace
+KW  - Data sharing
+KW  - Decentralized data sharing
+KW  - Drones
+KW  - B5G
+KW  - Federated learning
+KW  - Blockchain
+KW  - Industry 4.0
+KW  - Industry 5.0
+KW  - Dataspace 4.0
+AB  - The capacity of Dataspace enables the distribution of heterogeneous data from several sources and domains and has attracted attention for resolving data integration challenges. Drone data sharing faces challenges such as protecting privacy and security, building trust and dependability, controlling latency and scalability, facilitating real-time data processing, and preserving the caliber of shared models. Therefore, sixth-generation (6G) networks provide high throughput and low latency to improve drone operations; security issues are exacerbated by the sensitive nature of shared data and the lack of centralized monitoring. To address the challenges, this paper presents a conceptual framework for a Dataspace in the Sky to enable secure and efficient drone data-sharing within 6G networks in the transition from Industry 4.0 to Industry 5.0. The Dataspace in the Sky integrates Federated Learning (FL), a decentralized Machine Learning (ML) approach that enhances security and privacy by sharing models instead of raw data, facilitating effective drone collaboration. However, the quality of shared local models often suffers due to inconsistent data contributions and unreliable recording mechanisms, which can undermine the performance of FL. To tackle the challenges, the framework employs blockchain (BC) to decentralize and secure the Dataspace, ensuring the integrity of contribution records and improving the reliability of shared models. Dataspace in the Sky empowered decentralized data sharing which addresses latency issues by decentralizing decision-making and enhances trust and reliability by leveraging immutable and transparent BC mechanisms. The robustness of Dataspace in the Sky solution is not only secures drone-sharing operations in 6G environments but enables the development of citizen-friendly mobility services, expanding opportunities across smart environments.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Hybrid Genetic-Ant Colony Optimization for Dynamic Self-Healing and Network Performance Optimization in 5G/6G Networks
+AU  - Agrawal, Aanchal
+AU  - Pal, A.K.
+JO  - Procedia Computer Science
+VL  - 252
+SP  - 404
+EP  - 413
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 4th International Conference on Evolutionary Computing and Mobile Sustainable Networks
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.12.041
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924034732
+KW  - Sustainable mobile communication
+KW  - Dynamic self-healing
+KW  - network performance optimization
+KW  - ant colony optimization
+KW  - bandwidth utilization
+AB  - The rapid growth of 5G/6G networks requires resilient solutions to optimize network performance while ensuring adaptability against failures. This paper introduces a novel Adaptive Hybrid Genetic-Ant Colony Optimization (GA-ACO) framework, designed for dynamic self-healing and multi-objective performance optimization in next-generation mobile networks. The developed method combines the global optimization competencies of a Genetic Algorithm (GA) with the local rerouting performance of Ant Colony Optimization (ACO), developing a dynamic switching mechanism. When no faults are detected, GA optimizes critical objectives such as latency minimization, bandwidth utilization, and energy efficiency. After identifying network faults, such as base station failures, ACO quickly reroutes impacted devices to preserve fault tolerance and minimize downtime. Main network metrics, including latency, bandwidth utilization, energy efficiency, and fault tolerance, are optimized at the same time utilizing a weighted-sum fitness function. The model adjusts dynamically to changing network situations, making it perfectly appropriate for real-time applications in 5G/6G networks, such as smart cities and mission-critical communications. Simulation results show the efficiency of the GA-ACO hybrid, demonstrating improved network efficiency and rapid recovery during failures. This innovative adaptive approach guarantees a more effective, efficient, and sustainable mobile communication network, competent of facing the complex needs of future 5G/6G technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Empowering Autonomous IoT Devices in Blockchain Through Gasless Transactions
+AU  - Madhwal, Yash
+AU  - Yanovich, Yury
+AU  - Korotkevich, Aleksandra
+AU  - Parshina, Daria
+AU  - Seropian, Nshteh
+AU  - Gavrilov, Stepan
+AU  - Nikolaev, Alex
+AU  - Balachander, S.
+AU  - Murugan, A.
+JO  - Blockchain: Research and Applications
+SP  - 100257
+PY  - 2025
+DA  - 2025/01/02/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2024.100257
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720924000708
+KW  - Account Abstraction
+KW  - Blockchain
+KW  - Gasless Transaction
+KW  - Internet of Things
+KW  - Mobile Application
+KW  - Smart Contract
+AB  - The article introduces a proof-of-concept (PoC) that demonstrates the management of IoT devices' infrastructure via smart contracts, facilitating their interaction with the blockchain through gasless transactions. The focus is empowering IoT devices to autonomously sign transactions using their verified private keys, eliminating the necessity for external wallets and enabling blockchain interaction without incurring gas fees using Biconomy. In this PoC, managers can validate IoT devices, permitting them to transmit transactions securely without the ability to manipulate measurements or risk losing crypto assets in case of hardware malfunctions. This innovative method ensures that devices with minimal funds can access sensor data and communicate with a smart contract on the blockchain for updating information, utilizing account abstraction. Detailed workflow and simulation results are provided to showcase the practicality and advantages of this approach in scenarios demanding seamless, automated blockchain engagement through IoT devices. The PoC code is openly accessible on GitHub, enhancing the transparency and accessibility of our research outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Gwydion: Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning
+AU  - Santos, José
+AU  - Reppas, Efstratios
+AU  - Wauters, Tim
+AU  - Volckaert, Bruno
+AU  - De Turck, Filip
+JO  - Journal of Network and Computer Applications
+VL  - 234
+SP  - 104067
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.104067
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804524002443
+KW  - Auto-scaling
+KW  - Containers
+KW  - Cloud-native
+KW  - Orchestration
+KW  - Reinforcement Learning
+KW  - Kubernetes
+AB  - Containers have reshaped application deployment and life-cycle management in recent cloud platforms. The paradigm shift from large monolithic applications to complex graphs of loosely-coupled microservices aims to increase deployment flexibility and operational efficiency. However, efficient allocation and scaling of microservice applications is challenging due to their intricate inter-dependencies. Existing works do not consider microservice dependencies, which could lead to the application’s performance degradation when service demand increases. As dependencies increase, communication between microservices becomes more complex and frequent, leading to slower response times and higher resource consumption, especially during high demand. In addition, performance issues in one microservice can also trigger a ripple effect across dependent services, exacerbating the performance degradation across the entire application. This paper studies the impact of microservice inter-dependencies in auto-scaling by proposing Gwydion, a novel framework that enables different auto-scaling goals through Reinforcement Learning (RL) algorithms. Gwydion has been developed based on the OpenAI Gym library and customized for the popular Kubernetes (K8s) platform to bridge the gap between RL and auto-scaling research by training RL algorithms on real cloud environments for two opposing reward strategies: cost-aware and latency-aware. Gwydion focuses on improving resource usage and reducing the application’s response time by considering microservice inter-dependencies when scaling horizontally. Experiments with microservice benchmark applications, such as Redis Cluster (RC) and Online Boutique (OB), show that RL agents can reduce deployment costs and the application’s response time compared to default scaling mechanisms, achieving up to 50% lower latency while avoiding performance degradation. For RC, cost-aware algorithms can reduce the number of deployed pods (2 to 4), resulting in slightly higher latency (300μs to 6 ms) but lower resource consumption. For OB, all RL algorithms exhibit a notable response time improvement by considering all microservices in the observation space, enabling the sequential triggering of actions across different deployments. This leads to nearly 30% cost savings while maintaining consistently lower latency throughout the experiment. Gwydion aims to advance auto-scaling research in a rapidly evolving dynamic cloud environment.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring V2X in 5G networks: A comprehensive survey of location-based services in hybrid scenarios
+AU  - Mendes, Bruno
+AU  - Araújo, Marco
+AU  - Goes, Adriano
+AU  - Corujo, Daniel
+AU  - Oliveira, Arnaldo S.R.
+JO  - Vehicular Communications
+VL  - 52
+SP  - 100878
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100878
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000051
+KW  - NR-U
+KW  - V2X ITS
+KW  - C-V2X
+KW  - CAM
+KW  - GNSS
+KW  - Hybrid Positioning
+AB  - Vehicle-to-Everything (V2X) communications are constrained by both 3GPP technical specifications, as well as by country-specific spectrum regulations. The world's largest economies, such as the USA, EU and China have self-imposed regulations regarding the specific bandwidths and central spectrum frequencies where both safety and non-safety related V2X communication services are allowed to occur (always aligned with the aforementioned 3GPP technical specifications). Although the channels used for safety, non-safety, and control packets differ, what all of these countries have in common is that V2X shall occur mostly on New Radio Unlicensed (NR-U) spectrum, i.e., by means of private networks. A specific bandwidth in the public spectrum is also available, but since public spectrum is purchased through auctions, it is quite common the case that one particular operator will own the entirety of this spectrum, leading to a monopoly in V2X operations. Besides, this public spectrum is quite limited in bandwidth. This of course includes all of the Intelligent Transportation Systems (ITS) services, even location-based services, such as the ones that require the usage of positioning technologies, like autonomous vehicles, that require said services in order to support complex maneuvers and cooperative driving. Global Navigation Satellite Systems (GNSS) such as GPS or Galileo, currently already offer high-accuracy location to vehicles. However, this form of stand-alone position estimation of the vehicle has several drawbacks, as the information is constrained to the individual vehicle and not shared with others in a secure manner. This exchange of position information between other entities (not only vehicles, but also other infrastructure nodes) is vital for actions such as cooperative maneuvers and to counter loss of satellite sight (e.g., when entering a tunnel). Taking these facts into consideration, it is therefore expected that in the mid to long-term, municipalities and highways will possess dedicated private 5G networks for V2X operations with the aim of offering a plethora of vehicular services, including positioning ones. Since the existent scientific literature lacks an integrated analysis of precise positioning services for ITS in 5G private networks, we propose in this paper, to provide a comprehensive review connecting these diverse elements, examining the role of 5G private networks in transmitting positioning messages in V2X scenarios. Additionally, the paper shall explore hybrid positioning systems that combine 5G and GNSS technologies, illustrating their potential to enhance V2X communications. This study offers a roadmap for the evolution of ITS and V2X communications by showcasing current trends and identifying areas for further research.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid Models for Forecasting Allocative Localization Error in Wireless Sensor Networks
+AU  - Li, Guo
+AU  - Sheng, Hongyu
+JO  - International Journal of Cognitive Computing in Engineering
+VL  - 6
+SP  - 333
+EP  - 350
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2666-3074
+DO  - https://doi.org/10.1016/j.ijcce.2025.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2666307425000087
+KW  - Machine Learning
+KW  - Allocative Localization Error
+KW  - Wireless Sensor Networks
+KW  - Metaheuristic Algorithms
+AB  - This study presents a machine learning-based approach to forecast Allocative Localization Error (ALE) in Wireless Sensor Networks (WSNs), addressing challenges such as dynamic network topologies and resource constraints. The approach utilizes Radial Basis Function (RBF) models enhanced with advanced optimization algorithms, including Coot Optimization Algorithm (COA), Smell Agent Optimization (SAO), and Northern Goshawk Optimization (NGO) to improve ALE prediction accuracy. Hybrid models (RBCO, RBSO, and RFNG) are developed by integrating these optimization techniques, which refine critical RBF parameters, such as spread and center selection, through iterative optimization. Furthermore, an ensemble framework (RSNC) combines all three optimizers with RBF to achieve superior performance. The proposed methods are validated using R2 and RMSE metrics, demonstrating their ability to minimize ALE, optimize resource allocation, and extend network lifespans. The study highlights the practical applicability of these models in real-world scenarios, such as environmental monitoring and industrial automation, offering enhanced efficiency and economic benefits. The RFNG model, in particular, achieved the lowest Mean Absolute Relative Error (MARE) of 0.049, demonstrating superior performance compared to other approaches in the test section. Moreover, RBNG obtained 0.069 and 0.978 values for the RMSE and R2, respectively, which were the most suitable values compared to other models, namely RBGO, RBSO, RSNC, and RBF. The results indicate that the proposed hybrid models significantly improve the prediction of ALE, leading to more efficient node deployment and better network management. This research provides valuable insights into leveraging machine learning for WSN optimization, benefiting researchers, network engineers, and industries relying on sensor networks for applications such as environmental monitoring, smart cities, and asset tracking.
+ER  - 
+
+TY  - JOUR
+T1  - Improving WSN-based dataset using data augmentation for TSCH protocol performance modeling
+AU  - Alipio, Melchizedek
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107540
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107540
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24005041
+KW  - Data augmentation
+KW  - Internet of things
+KW  - Performance modeling
+KW  - Time-slotted channel hopping
+KW  - Wireless sensor networks
+AB  - This study addresses the problem of inadequate datasets in Time-Slotted Channel Hopping (TSCH) protocol in Wireless Sensor Networks (WSN) by introducing a viable machine learning (ML) approach that explicitly tackles the limitations associated with the scarcity of data samples. The dataset employed in this research is derived from actual sensor node implementations, ensuring authenticity and relevance. To counteract overfitting, Variational Auto-Encoder (VAE) and Generative Adversarial Network (GAN) algorithms are utilized for data augmentation during the modeling phase, alongside the incorporation of Random Forest (RF) and Artificial Neural Network (ANN) algorithms. Results reveal a notable improvement in the performance of the ML models through the implementation of data augmentation techniques. A comparative analysis of various ML models underscores the superiority of the RF model, augmented by the GAN technique. This model exhibits enhanced predictive capabilities for TSCH latency, underscoring its efficacy in modeling network protocol performance.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain-based conceptual model for enhanced transparency in government records: a design science research approach
+AU  - Alotaibi, Eid M
+AU  - Issa, Hussein
+AU  - Codesso, Mauricio
+JO  - International Journal of Information Management Data Insights
+VL  - 5
+IS  - 1
+SP  - 100304
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2667-0968
+DO  - https://doi.org/10.1016/j.jjimei.2024.100304
+UR  - https://www.sciencedirect.com/science/article/pii/S2667096824000934
+KW  - Blockchain
+KW  - Government reporting
+KW  - Open checkbook
+KW  - Open government
+KW  - Transparency and accountability
+AB  - In recent years, there have been massive changes to the government reporting requirements, which reflect the government's recognition of the need for a more open evidence-based practice. As a response, the U.S. government ordered to apply open government in all government agencies. The open government's objective is to have open government systems that include open access to their records, procedures, and data for public review and engagement. Currently, government agencies control and filter shared data with the public, limiting the ability to efficiently and effectively promote public oversight. This paper proposes a conceptual model, named GovBlockchain, that has the potential to achieve open government data objectives. The GovBlockchain is illustrated using the procurement cycle, and the results are subsequently compared with current open government practice. The results indicate that GovBlockchain provides stakeholders with a higher level of transparency.
+ER  - 
+
+TY  - JOUR
+T1  - RORA: Reinforcement learning based optimal distributed resource allocation strategies in vehicular cognitive radio networks for 6G
+AU  - Gupta, Mani Shekhar
+AU  - Srivastava, Akanksha
+AU  - Kumar, Krishan
+JO  - Vehicular Communications
+VL  - 52
+SP  - 100882
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100882
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000099
+KW  - Spectrum management
+KW  - Cognitive radio networks
+KW  - Next-generation networks
+KW  - Resource allocation
+KW  - Vehicular communication
+KW  - Machine learning
+AB  - The next generation (5G/B5G) vehicular cognitive radio networks (VCRNs) flag the track to intelligence-based autonomous driving in the initiation of future wireless networking and make daily vehicular operation more convenient, greener, efficient, and safer. However, with the continuous evolution of vehicles, the vehicular network becomes large-scale, dynamic, and heterogeneous, making it tough to fulfill the strict necessities, such as high security, resource allocation, massive connectivity, and ultralow latency. The combination of cognitive radio (CR) networks (different network coexistence) and machine learning (ML) has arisen as an influential artificial intelligence (AI) approach to make both the communication system and vehicle more adaptable and efficient. Naturally, applying ML to VCRNs has become an active research area and is being extensively considered in industry and academia. In this work, a reinforcement learning (RL) based optimal resource allocation (RORA) technique is proposed to solve the myopic decision-making problem by an autonomous vehicle (RL agent) takes its action to select the power level and optimal sub-band and maximize long-term rewards with a maximum payoff in VCRNs. The aim of this work is to design and implement an intelligent, resource allocation framework that ensures efficient and adaptive spectrum utilization while minimizing communication latency, energy consumption, and transmission cost in VCRNs. As a schema for the realization and capabilities evaluations, the CR networks consisting of LTE cellular network inter-working with Wi-Fi network with constant inter-space between Wi-Fi access points (APs) installed along the pathway is analysed. This framework is further analysed with variable inter-space between Wi-Fi APs. The key research problem addressed in this work is the challenge of optimizing spectrum and power allocation in highly dynamic vehicular environments characterized by rapid mobility, fluctuating network conditions, and interference from multiple vehicular CR nodes. The results show that the proposed RORA technique is more operative and outperforms other resource allocation schemes in terms of prediction accuracy and throughput.
+Impact Statement
+In this work, we proposed a machine learning-based technique applied to vehicular networks and opportunistic spectrum access parts in cognitive radio networks. The proposed technique envisions ways of enabling AI toward a future intelligent transportation system (ITS), including network intelligentization and the development of intelligent radio (IR).
+ER  - 
+
+TY  - JOUR
+T1  - Service-driven dynamic QoS on-demand routing algorithm
+AU  - She, Hao
+AU  - Yan, Lixing
+AU  - Mao, Chuanfeng
+AU  - Bu, Qihui
+AU  - Guo, Yongan
+JO  - Future Generation Computer Systems
+VL  - 166
+SP  - 107685
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107685
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24006496
+KW  - SDN-IoT
+KW  - Service-driven dynamic qoS on-demand model
+KW  - SR
+KW  - SDDRL
+AB  - With the proliferation of Internet of Things (IoT) devices, the scale of networks is growing exponentially. However, dynamically meeting the diverse quality of service (QoS) routing requirements for users and services in large-scale networks remains a critical challenge. To address this issue, this paper proposes a Service-Driven Dynamic QoS On-Demand model and establishes a corresponding QoS optimization objective function. The SHA-256 hash algorithm is utilized to simplify the large-scale network model, effectively reducing the number of Segment Routing (SR) nodes. The proposed Service-Driven Dynamic QoS On-Demand Routing Algorithm (SDDRL) identifies the optimal path, which is then uniformly disseminated by the SDN controller, thereby addressing existing challenges in SDN-IoT networks. Compared to OSPF-based and DDQN-based algorithms, the SDDRL algorithm reduces the average delay by 53.85% and 31.63%, respectively. The proposed algorithm reduces the packet loss rate, improves the average network congestion degree and route calculation time compared to other existing algorithms, and it demonstrates superior performance in handling complex tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Safeguarding the Internet of Things: Elevating IoT routing security through trust management excellence
+AU  - Burange, Anup W.
+AU  - Deshmukh, Vaishali M.
+AU  - Thakare, Yugandhara A.
+AU  - Shelke, Nitin Arvind
+JO  - Computer Standards & Interfaces
+VL  - 91
+SP  - 103873
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0920-5489
+DO  - https://doi.org/10.1016/j.csi.2024.103873
+UR  - https://www.sciencedirect.com/science/article/pii/S0920548924000424
+KW  - Routing security
+KW  - Trust management
+KW  - Dynamic networks
+KW  - Mobility models
+AB  - This study presents an innovative IoT routing security model that integrates trust management to bolster network reliability, improve resilience against routing attacks, and isolate malicious activities. The model, emphasizing node behavior, reputation, and past performance, offers a nuanced approach to network security. Through comprehensive comparisons between dynamic and static models in IoT routing, the impact on crucial performance parameters, including throughput, packet delivery ratio, control traffic overhead, and energy consumption, is quantified. Simulations showcase the model's effectiveness in securing IoT communication, achieving an impressive 98 % accuracy in detecting and mitigating attacks. Comparative analysis against prior studies underscores its exceptional performance, particularly in identifying and classifying attack types such as wormhole, Sybil, and rank, alongside normal traffic. This trust-based IoT routing security model represents a substantial advancement in securing dynamic IoT environments, standing out as a valuable contribution. Noteworthy is its low average power consumption, contributing to its exceptional lightweight nature.
+ER  - 
+
+TY  - JOUR
+T1  - Soft Actor–Critic optimization for efficient NOMA uplink in intelligent vehicular networks
+AU  - Pi, Peng
+AU  - Ren, Guangyuan
+JO  - Physical Communication
+VL  - 68
+SP  - 102581
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1874-4907
+DO  - https://doi.org/10.1016/j.phycom.2024.102581
+UR  - https://www.sciencedirect.com/science/article/pii/S1874490724002994
+KW  - Vehicular communication networks
+KW  - Network optimization
+KW  - Deep Reinforcement Learning
+KW  - Wireless communication
+KW  - Sustainable transportation
+KW  - Real-time vehicle management
+AB  - This paper addresses the need for efficient data transmission in congested intelligent vehicular networks using Non-Orthogonal Multiple Access (NOMA). We present a novel uplink communication model that maximizes NOMA’s spectral efficiency, enabling multiple vehicles to share frequency channels effectively. Our dynamic optimization framework adjusts channel assignments, power levels, and bandwidth allocations, significantly enhancing spectral and energy efficiencies critical for battery-limited intelligent vehicles. To address complex optimization challenges, we develop a Heterogeneous-action Multi-agent Soft Actor–Critic (HMSAC) algorithm with an enhanced attention mechanism, improving learning efficiency and convergence speed. Rigorous simulations show that our approach notably boosts energy efficiency, reliability, and scalability compared to baseline models. Finally, the challenges with NOMA implementation in dense networks and propose future research directions are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Federated learning at the edge in Industrial Internet of Things: A review
+AU  - sah, Dinesh kumar
+AU  - Vahabi, Maryam
+AU  - Fotouhi, Hossein
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 46
+SP  - 101087
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2210-5379
+DO  - https://doi.org/10.1016/j.suscom.2025.101087
+UR  - https://www.sciencedirect.com/science/article/pii/S2210537925000071
+KW  - Federated learning (FL)
+KW  - Edge computing (EC)
+KW  - Industrial Internet of Things (IIoT)
+KW  - Privacy preservation (PP)
+KW  - Anomaly detection (AD)
+KW  - Machine learning (ML)
+AB  - The convergence of Federated learning (FL) and Edge computing (EC) has emerged as an essential paradigm, particularly within the Industrial Internet of Things (IIoT) to enable the intelligent decision making. This work diligently examines the current state-of-the-art research at the intersection of FL, EC, and IIoT. An extensive review of the literature explores the diverse applications and challenges associated with this integration. The challenges range from privacy preservation and communication overhead to resource allocation. The incorporation of edge devices at which ensuring the federated learning in distributed manner helps to minimize energy consumption in IIoT, ultimately leads to a sustainable computing environment. By exploring the existing literature and research advancements, our goal is to highlight existing Edge-IoT software and hardware platforms and assess their usability in addressing challenges. In addition, we review existing recent frameworks, methodologies, and models employed to address these challenges, focusing on key performance matrices and its domain such as application, networking, and learning. We highlight the achievements and potential of FL and EC and underscore the need for tailored solutions to suit the unique demands of IIoT. Furthermore, we identify some of the major challenges as opportunities for future research, requires interdisciplinary collaboration and innovative algorithmic solutions. This work can help navigate through the challenges and unlock the full potential, contributing to the advancement of future IIoT applications.
+ER  - 
+
+TY  - JOUR
+T1  - Merkle multi-branch hash tree-based dynamic data integrity auditing for B5G network cloud storage
+AU  - Chen, Hongsong
+AU  - Tao, Zimei
+AU  - Wang, Zhiheng
+AU  - Liu, Xinrui
+JO  - Journal of Information Security and Applications
+VL  - 89
+SP  - 103981
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2214-2126
+DO  - https://doi.org/10.1016/j.jisa.2025.103981
+UR  - https://www.sciencedirect.com/science/article/pii/S2214212625000195
+KW  - B5G network
+KW  - Data integrity audit
+KW  - Dynamic data update
+KW  - Blockchain
+KW  - Security analysis
+AB  - In the Beyond 5th Generation (B5G) mobile communication network, data transmission speed will be higher, and communication time latency will be minimized, it also brings new security challenges to data management and privacy protection. Aiming at the problems faced by the data integrity audit for B5G network cloud storage, such as complex dynamic data updating, a large number of users, we propose a Merkle Multi-branch Hash Tree (MMHT)-based data integrity auditing scheme for B5G network cloud storage. The scheme involves five entities and eight phases. We propose a multi-branch double-linked Merkle Hash Tree structure to store and audit dynamic data. We conduct correctness analysis and security analysis to this scheme. The results show that our scheme can meet the requirements of data integrity audit and counter six types of data integrity attack. We conduct theoretical comparative analysis. Compared with other schemes, the computational overhead of data owner (DO) is reduced by m times (m represents the number of data blocks). Relevant experiments are conducted with a 5G real-world dataset, and the experiments show that on the order of million data, the construction time of MHT is about 2.48 times that of MMHT in terms of Merkle tree. The verification time of MHT is about 12.83 times that of MMHT. When the data scale reaches millions, the time to generate user keys in the 4G environment is 6.49 times that of in the B5G environment. When the number of bilinear pairings reaches one million, the verification time of Third-Party Auditors (TPA) for 10,000 encrypted data entries is only 1.07 times that of 1,000 entries, indicating that our scheme can be scaled for use with large datasets. Compared with other schemes, our solution improves the efficiency and security of dynamic data integrity auditing in the B5G network environment.
+ER  - 
+
+TY  - JOUR
+T1  - A spatiotemporal graph wavelet neural network for traffic flow prediction
+AU  - Zhang, Linjie
+AU  - Ma, Jianfeng
+JO  - Journal of Information and Intelligence
+VL  - 3
+IS  - 2
+SP  - 173
+EP  - 188
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2949-7159
+DO  - https://doi.org/10.1016/j.jiixd.2023.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2949715923000021
+KW  - Traffic flow prediction
+KW  - Wavelet transforms
+KW  - Neural network
+KW  - Spatiotemporal phenomena
+AB  - The traffic flow prediction is fast becoming a key instrument in the transportation system, which has achieved impressive performance for traffic management. The graph neural network plays a critical role in the development of the traffic network management. However, it is worthwhile mentioning that the complexity of road networks and traffic conditions makes it unable to obtain sufficient spatiotemporal information. In view of capturing precise environment characteristics, the context could have a precise effect on the prediction results while previous methods rarely took this into account. Besides, the nonlinear characteristics of the graph neural network are hard to quantify with fine granularity and to eliminate overfitting. To stack these challenges, in this paper, we present a spatiotemporal graph wavelet neural network to improve the ability of representations. Specifically, we introduce the wavelet transforms into the deep learning model according to the strong nonlinear optimization ability. Furthermore, we dig the location and time patterns to evaluate the temporal dependence and the spatial proximity correlation. In addition, we introduce a historical context attention mechanism giving fine-grained historical context grade evaluation to ease the phenomenon of over-smoothing. The experimental results on real-world datasets show that our work gets considerable results compared with the baseline and start-of-the-art models. Moreover, our work has better learning performance by employing the connection and interaction of graphs.
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing UAV deployment for maximizing coverage and data rate efficiency using multi-agent deep deterministic policy gradient and Bayesian optimization
+AU  - R., Dhinesh Kumar
+AU  - A., Rammohan
+JO  - Physical Communication
+VL  - 69
+SP  - 102621
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 1874-4907
+DO  - https://doi.org/10.1016/j.phycom.2025.102621
+UR  - https://www.sciencedirect.com/science/article/pii/S1874490725000242
+KW  - Beyond-5G
+KW  - Deep reinforcement learning
+KW  - Intelligent transportation systems
+KW  - UAV communications
+KW  - UAV coverage
+KW  - Vehicle communications
+AB  - The rise of connected vehicles has highlighted the crucial need to cater diverse Quality of Service (QoS) demands in intricate vehicular networks. To address this, the burgeoning utilization of Unmanned Aerial Vehicles (UAVs) across various applications has garnered significant attention. UAVs, acting as aerial Base Stations (BSs), improve network coverage and performance in critical communication scenarios. However, challenges such as limited coverage range and unpredictable QoS hinder UAVs from continuously covering urban or rural areas. To tackle these challenges, we introduce a novel multi-agent deep deterministic policy gradient (MADDPG) approach incorporating Bayesian Optimization to optimize UAV trajectories in both rural and urban environments. Our principal aim is to maximize vehicle coverage while ensuring efficient QoS. Comparative evaluations against benchmark algorithms including Genetic Algorithm (GA), Particle Swarm Optimization (PSO), Sine Cosine Algorithm (SCA), and Greedy methods. In rural environments, proposed framework achieves a mean coverage rate of 85.75%, surpassing MADDPG by 4.49%, GA by 8.72%, PSO by 10.02%, SCA by 8.90%, and Greedy by 14.06%. In urban settings, proposed framework maintains superior performance, with a mean coverage rate of 83.78%, outperforming MADDPG by 6.31%, GA by 9.81%, PSO by 9.38%, SCA by 12.78%, and Greedy by 19.53%. Additionally, the system achieves a 95.6% convergence rate, optimizing MADDPG hyperparameters efficiently. The implications of the energy penalty in the proposed algorithm have given the outlook on the tradeoff, that the overall energy consumption can reduce up to 8.3%, it may also result in a decrease in coverage efficiency by around 5.5%.
+ER  - 
+
+TY  - JOUR
+T1  - A Contextual Aware Enhanced LoRaWAN Adaptive Data Rate for mobile IoT applications
+AU  - Lodhi, Muhammad Ali
+AU  - Wang, Lei
+AU  - Farhad, Arshad
+AU  - Qureshi, Khalid Ibrahim
+AU  - Chen, Jenhu
+AU  - Mahmood, Khalid
+AU  - Das, Ashok Kumar
+JO  - Computer Communications
+VL  - 232
+SP  - 108042
+PY  - 2025
+DA  - 2025/02/15/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.108042
+UR  - https://www.sciencedirect.com/science/article/pii/S014036642400389X
+KW  - Smart cities
+KW  - Mobility
+KW  - Internet of Things
+KW  - Intelligent algorithms
+KW  - LoRaWAN
+AB  - Long range wide area network (LoRaWAN) utilize Adaptive Data Rate (ADR) for static Internet of Things (IoT) applications such as smart parking in smart city. Blind ADR (BADR) has been introduced for end devices to manage the resources of mobile applications such as assets tracking. However, the predetermined mechanism of allocating the spreading factors (SFs) to mobile end devices is not adequate in terms of energy depletion. Recently, AI-based solutions to resource allocation have been introduced in the existing literature. However, implementing complex models directly on low-power devices is not ideal in terms of energy and processing power. Therefore, considering these challenges, in this paper, we present a novel Contextual Aware Enhanced LoRaWAN Adaptive Data Rate (CA-ADR) for mobile IoT Applications. The proposed CA-ADR comprises two modes offline and online. In offline mode, we compile a dataset based on successful acknowledgments received by the end devices. Later, dataset is modified by implementing contextual rule-based learning (CRL), following which we train a hybrid CNN-LSTM model. In the online mode, we utilize pre-trained model for efficient resource allocation (e.g., SF) to static and mobile end devices. The proposed CA-ADR has been implemented using TinyML, recommended for low-power and computational devices, which has shown improved results in terms of packet success ratio and energy consumption.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent edge–fog interplay for healthcare informatics: A blockchain perspective
+AU  - Rathore, Nitin
+AU  - Gupta, Rajesh
+AU  - Thakkar, Nihar
+AU  - Gohil, Keyaba
+AU  - Tanwar, Sudeep
+AU  - Aujla, Gagangeet Singh
+AU  - Alqahtani, Fayez
+AU  - Tolba, Amr
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103727
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103727
+UR  - https://www.sciencedirect.com/science/article/pii/S157087052400338X
+KW  - Blockchain
+KW  - Healthcare informatics
+KW  - Cloud
+KW  - Fog
+KW  - Security
+KW  - Artificial intelligence
+KW  - Heart stroke
+AB  - This paper explores artificial intelligence (AI) and edge–fog interplay to strengthen healthcare informatics (HCI), while also considering the blockchain perspective for securing HCI to transform cloud-based HCI to edge–fog-based HCI to serve real-time responses for critical healthcare applications. This article discusses that AI is vital in providing better healthcare, precision medicine, and personalized treatments. A comprehensive review of edge–fog interplay-based HCI and blockchain-based HCI demonstrated the need for integrating blockchain and edge–fog interplay for successful HCI. Subsequently, some current research projects explore edge computing, fog computing, and blockchain in the healthcare sector to securely store and share patient data, thereby providing real-time data analysis, which is also highlighted. The latter part reflects some essential aspects of blockchain in healthcare, such as immutability, trustworthiness, and traceability. We also present a case study on AI-edge–fog interplay, and blockchain on heart stroke prediction for HCI that examines the practical application of the amalgamation of such technologies required to refine the healthcare sector to support the proposed analysis. Finally, this work discusses the future challenges of integrating AI, edge–fog interplay, and blockchain in the field of HCI.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of machine learning in satellite internet of things: A survey of techniques, challenges, and future directions
+AU  - Choquenaira-Florez, Alexander Y.
+AU  - Fraire, Juan A.
+AU  - Pasandi, Hannah B.
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 259
+SP  - 111063
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111063
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000313
+KW  - Satellite ioT
+KW  - Satellite networks
+KW  - Machine learning
+AB  - The drive towards an interconnected world via satellites is reshaping the landscape of communication technologies. This survey comprehensively reviews studies in the Satellite Internet of Things (SIoT) domain, focusing on the role of Machine Learning (ML) techniques. Indeed, the global data collection scale in SIoT is ideally suited for data-intensive and sophisticated ML approaches. We highlight the innovative use of ML to address specific SIoT challenges, aiming to identify current trends, methodologies, and outcomes. We considered theoretical, practical, and experimental research, organizing existing publications into a new taxonomy that intersects ML and SIoT categories. Our taxonomy reveals that Deep Learning (DL), Reinforcement Learning (RL), and Federated Learning (FL) are widely applied to address radio access schemes, resource and network management, and application-specific issues. This survey identifies critical gaps in current research on ML applications in SIoT, such as the lack of differentiation between space-based and ground-based processing, insufficient integration of SIoT-specific metrics, and the oversight of limited computational resources on orbiting satellites. These issues raise concerns about the feasibility and efficiency of proposed solutions. We propose promising research directions based on the derived insights to effectively bridge the gap between ML researchers and industrial SIoT entities.
+ER  - 
+
+TY  - JOUR
+T1  - Learning-based joint recommendation, caching, and transmission optimization for cooperative edge video caching in Internet of Vehicles
+AU  - Cheng, Zhipeng
+AU  - Liu, Lu
+AU  - Liwang, Minghui
+AU  - Chen, Ning
+AU  - Fan, Xuwei
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103667
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103667
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524002786
+KW  - Edge video caching
+KW  - Recommendation
+KW  - Transmission
+KW  - Internet of Vehicles
+KW  - Deep reinforcement learning
+KW  - Soft actor-critic
+AB  - In an era dominated by multimedia information, achieving efficient video transmission in the Internet of Vehicles (IoV) is crucial because of the inherent bandwidth constraints and network volatility within vehicular environments. In this paper, we propose a cooperative edge video caching framework designed to enhance video delivery efficiency in IoV by integrating joint recommendation, caching, and transmission optimization. Leveraging deep reinforcement learning with the discrete soft actor–critic algorithm, our methodology dynamically adapts to fluctuating network conditions and diverse user preferences, aiming to optimize content delivery efficiency and quality of experience. The proposed approach combines recommendation and caching strategies with transmission optimization to provide a comprehensive solution for high-performance video services. Extensive simulation results demonstrate that our framework significantly outperforms traditional baseline methods, achieving superior outcomes in terms of service utility, delivery rate, and delay reduction. These results highlight the robust potential of our solution to facilitate seamless and high-quality video experiences in the complex and dynamic landscape of vehicular networks, advancing the capabilities of IoV content delivery.
+ER  - 
+
+TY  - JOUR
+T1  - CLIC-IoE — Cross Layers Solution to Improve Communications under IoE
+AU  - Hamrioui, Sofiane
+AU  - Lloret, Jaime
+AU  - Lorenz, Pascal
+JO  - Ad Hoc Networks
+VL  - 170
+SP  - 103777
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2025.103777
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870525000253
+KW  - IoE
+KW  - Next generation applications
+KW  - Communication algorithms
+KW  - Transport
+KW  - Network
+KW  - Reliability
+KW  - Efficiency
+KW  - Collaborative approach
+KW  - QoS parameters
+KW  - Energy efficiency
+AB  - The rapid expansion of connected devices has ushered in the Internet of Everything (IoE), enabling seamless integration among machines, people, and systems across diverse applications. However, the IoE faces significant challenges in ensuring efficient, reliable, and energy-conscious data transmission at scale. To address these issues, we present CLIC-IoE (Cross-Layer Solutions to Improve Communications under IoE), an innovative cross-layer framework designed to significantly enhance communication performance within IoE environments. By intelligently coordinating multiple communication layers, CLIC-IoE achieves remarkable results: a 39.47% reduction in data errors, a 38.33% increase in delivery rates, and a decrease of 0.8 nanoseconds in end-to-end delays. Additionally, it optimizes energy consumption, demonstrating a 51.67% improvement in energy efficiency (CEA) and a 20% boost in Active Things Rate (ATR). These advancements position CLIC-IoE as a transformative solution that enhances the scalability and reliability of IoE systems while promoting sustainable energy use. This manuscript provides a comprehensive exploration of the CLIC-IoE architecture, algorithms, and performance evaluation, emphasizing its potential impact on future IoE deployments. By addressing the critical challenges faced in IoE environments, CLIC-IoE not only enhances communication performance but also paves the way for more sustainable and efficient IoT systems.
+ER  - 
+
+TY  - JOUR
+T1  - Load balancing routing algorithm of industrial wireless network for digital twin
+AU  - Xiao, Linjie
+AU  - Li, Shining
+AU  - Wen, Qin
+AU  - Liang, Xiao
+AU  - Li, Yiming
+AU  - Wang, Wanbao
+AU  - Fu, Yuntao
+JO  - Computer Networks
+VL  - 258
+SP  - 111059
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111059
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000271
+KW  - Digital twin
+KW  - Industrial wireless network
+KW  - Routing algorithm
+KW  - Load balancing
+KW  - Real-time transmission
+AB  - Digital twin is a transformative technology with the power to reshape the future of industries, which enables accurate simulation and optimization of the production process by creating virtual copies of physical entities. Industrial wireless network such as ISA100.11a, as an indispensable communication bridge in digital twin, provides a stable and reliable data transmission pathway for all-element connectivity. However, the access of a large number of nodes increases the risk of network congestion and poses a challenge to the real-time network transmission. Therefore, the intention of our research is to deal with network congestion by establishing a load balancing routing algorithm. First, considering the time-triggered characteristic of industrial scenarios, a directed acyclic graph model is established for multi-periodic communication streams. We analyze the causes of load imbalance in multi-source single-sink topology, and prove that choosing optimal path scheme is an NP-hard problem by generalizing to the multidimensional bin packing problem. Then, we theoretically derive the average load of the hierarchy, establish a loss function characterizing the degree of hierarchical load balancing, and propose a hierarchical load balancing strategy based on the black-winged kite algorithm by establishing a mapping relationship. Finally, a scheduling constraint model is introduced to evaluate the superiority of the proposed algorithm. Experimental validation shows that the proposed algorithm reduces 70.80%, 27.15%, 15.57%, 14.01% in terms of loss function value and 23.52%, 4.71%, 5.19%, 4.64% in terms of total delay as compared to Dijkstra algorithm, Greedy algorithm, Bat algorithm and Deep Q-Networks respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing active nodes in MEC environments: A distributed learning-driven framework for application placement
+AU  - Torres-Pérez, Claudia
+AU  - Coronado, Estefanía
+AU  - Cervelló-Pastor, Cristina
+AU  - Palomares, Javier
+AU  - Carmona-Cejudo, Estela
+AU  - Siddiqui, Muhammad Shuaib
+JO  - Computer Networks
+VL  - 257
+SP  - 111008
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111008
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008405
+KW  - Application placement
+KW  - Distributed deep reinforcement learning
+KW  - MEC
+KW  - Scalability
+AB  - Application placement in Multi-Access Edge Computing (MEC) must adhere to service level agreements (SLAs), minimize energy consumption, and optimize metrics based on specific service requirements. In distributed MEC system environments, the placement problem also requires consideration of various types of applications with different entry distribution rates and requirements, and the incorporation of varying numbers of hosts to enable the development of a scalable system. One possible way to achieve these objectives is to minimize the number of active nodes in order to avoid resource fragmentation and unnecessary energy consumption. This paper presents a Distributed Deep Reinforcement Learning-based Capacity-Aware Application Placement (DDRL-CAAP) approach aimed at reducing the number of active nodes in a multi-MEC system scenario that is managed by several orchestrators. Internet of Things (IoT) and Extended Reality (XR) applications are considered in order to evaluate close-to-real-world environments via simulation and on a real testbed. The proposed design is scalable for different numbers of nodes, MEC systems, and vertical applications. The performance results show that DDRL-CAAP achieves an average improvement of 98.3% in inference time compared with the benchmark Integer Linear Programming (ILP) algorithm, and a mean reduction of 4.35% in power consumption compared with a Random Selection (RS) algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Joint resource allocation and congestion-aware routing based on hybrid optimization in IoT
+AU  - Bhushan, Yannam Bharath
+AU  - Aparna, S.
+JO  - Knowledge-Based Systems
+VL  - 311
+SP  - 113046
+PY  - 2025
+DA  - 2025/02/28/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2025.113046
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705125000930
+KW  - Internet of Things (IoT)
+KW  - Walruses optimization algorithm (WOA)
+KW  - Lyrebird optimization Algorithm (LOA)
+KW  - Dung beetle optimizer (DBO)
+KW  - Walruses optimization algorithm (WaOA)
+AB  - Presently, the Internet of Things (IoT) is linked through various forms of communication medium. In IoT, numerous devices are interconnected; hence, network congestion is created. The network congestion and overflow may create data privacy issues. Furthermore, resource allocation (RA) is the major function in IoT systems, in which the system's performance is based on the precise and effectual allocation of resources. As a result, this research proposes a novel optimization named Lyrebird Jaya Hunger Search Optimization (LJHSO) for RA and Lyrebird Fractional Walruses Optimization Algorithm (LFWBO) for congestion-aware routing in IoT. The IoT nodes simulation is the initial process and the cross-layer optimization approach for joint RA and routing is performed. The IoT layer is composed of sensing, network, data processing, and application layers. The RA is carried out in the physical or sensing layer using the LJHSO. Moreover, the congestion-aware routing is done in the network layer by the LFWBO with fitness parameters like queue length, energy, distance, and link quality. Furthermore, metrics like energy, makespan, throughput, and execution time are considered to validate the performance of the proposed LJHSO+LFWBO-based joint RA and congestion-aware routing, with the finest outcome of 0.747 bits/Joule, 0.332, 0.853 Mbps, and 1.913 s are attained.
+ER  - 
+
+TY  - JOUR
+T1  - SAGIN-ID: A rapid intrusion detection method for space-air-ground integrated network based on smart contracts
+AU  - Xie, Nannan
+AU  - Yuan, Qizhao
+AU  - Xie, Lijia
+AU  - Di, Xiaoqiang
+JO  - Computers and Electrical Engineering
+VL  - 123
+SP  - 110084
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2025.110084
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790625000278
+KW  - Space-Air-Ground Integrated Network
+KW  - Intrusion detection
+KW  - Smart contracts
+KW  - Semi-supervised classification
+KW  - Flink
+AB  - The Space-Air-Ground integrated network refers to a seamlessly integrated network system that combines ground-based networks, space-based networks, and satellite networks. By coordinating these networks, it provides more efficient and stable information transmission and communication services. However, due to the reasons such as limited data processing capabilities of satellites, open transmission channels and high network dynamics, the Space-Air-Ground Integrated Network is vulnerable to attacks. Intrusion detection in this network requires higher accuracy, better real-time performance and less resource consumption than in the traditional network. A rapid intrusion detection framework of the Space-Air-Ground Integrated Network named SAGIN-ID, which includes on-board rapid detection based on smart contracts, high-accuracy ground-based detection with an Early-stop optimized semi-supervised voting algorithm, and distributed computing implemented using Flink. The proposed SAGIN-ID can reduce the computational resource consumption of satellites, decrease the amount of data transmission in the satellite network, and quickly detect intrusion. In a simulated environment, six types of DoS attacks are designed and the attack data are collected to construct a blockchain for data storage and intrusion detection. Experimental results show that the SAGIN-ID can effectively reduce the time of intrusion detection in the Space-Air-Ground Integrated Network while achieving a detection accuracy of 99%.
+ER  - 
+
+TY  - JOUR
+T1  - Improving energy efficiency in WSN through adaptive memetic-based clustering and routing for resource management
+AU  - C, Vimalarani
+AU  - Selvi, CP Thamil
+AU  - Gopinathan, B.
+AU  - Kalaivani, T.
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 45
+SP  - 101073
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2210-5379
+DO  - https://doi.org/10.1016/j.suscom.2024.101073
+UR  - https://www.sciencedirect.com/science/article/pii/S2210537924001185
+KW  - Wireless sensor networks
+KW  - Energy efficiency
+KW  - Adaptive clustering
+KW  - Hybrid memetic evolutionary algorithm
+KW  - Network lifetime
+KW  - Routing optimization
+AB  - Efficient resource allocation in Wireless Sensor Networks (WSNs) is essential due to the constrained energy resources of sensor nodes and complex network dynamics. Existing clustering and routing methods often fail to optimize energy usage and ensure network stability under varying conditions. This research article introduces the Hybrid Memetic Evolutionary Algorithm (HMEA), which combines adaptive memetic-based clustering and evolutionary optimization to address energy-efficient clustering and routing. The HMEA dynamically selects cluster heads and optimizes transmission paths considering node energy levels and network topology, minimizing energy consumption and extending network lifetime. Simulation results demonstrate that the HMEA outperforms conventional methods, including Particle Swarm Optimization and Genetic Algorithm, in terms of energy efficiency, network throughput, and packet delivery ratio, particularly in large-scale networks. This approach advances robust resource allocation mechanisms for sustainable WSN operations.
+ER  - 

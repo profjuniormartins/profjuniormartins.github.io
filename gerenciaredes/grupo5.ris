@@ -1,0 +1,493 @@
+TY  - JOUR
+T1  - Dynamic Vehicular Clustering Enhancing Video on Demand Services Over Vehicular Ad-hoc Networks
+AU  - Almutiq, M.
+AU  - Sellami, L.
+AU  - Alaya, B.
+JO  - Computers, Materials and Continua
+VL  - 72
+IS  - 2
+SP  - 3493
+EP  - 3510
+PY  - 2022
+DA  - 2022/03/26/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2022.024571
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221822014801
+KW  - 5G
+KW  - video-on-demand
+KW  - vehicular ad-hoc network
+KW  - mobility
+KW  - vehicular traffic load
+KW  - small cell
+KW  - wireless backhaul
+KW  - LTE-advanced
+KW  - latency
+KW  - packet loss
+AB  - Nowadays, video streaming applications are becoming one of the tendencies driving vehicular network users. In this work, considering the unpredictable vehicle density, the unexpected acceleration or deceleration of the different vehicles included in the vehicular traffic load, and the limited radio range of the employed communication scheme, we introduce the “Dynamic Vehicular Clustering” (DVC) algorithm as a new scheme for video streaming systems over vehicular ad-hoc networks (VANET). The proposed algorithm takes advantage of the small cells concept and the introduction of wireless backhauls, inspired by the different features and the performance of the Long Term Evolution (LTE)-Advanced network. Vehicles are clustered together to form dynamically ad-hoc sub-networks included in the vehicular network. The goal of our clustering algorithm is to take into account several characteristics, such as the vehicle's position and acceleration to reduce latency and packet loss. Therefore, each cluster is counted as a small cell containing vehicular nodes and an access point that is elected regarding some particular specifications. Based on the exceptional features of the LTE-Advanced network (small cells and wireless backhauls) the DVC algorithm is a promising scheme for video streaming services over VANET systems. Experiments were carried out with a virtual topology of the VANET network created with four clusters to implement the DVC algorithm. The results were compared with other algorithms such as Virtual Trust-ability Data transmission (VTD), Named Data Networking (NDN), and Socially Aware Security Message Forwarding (SASMF). Our algorithm can effectively improve the transmission rate of data packets at the expense of a slight increase in end-to-end delay and control overhead.
+ER  - 
+
+TY  - JOUR
+T1  - Challenges and Innovations in Multimedia and Real-Time Networking: A Review of Modeling Approaches
+AU  - Shah, Milind
+AU  - Parmar, Kajal
+AU  - Padhiyar, Priyanka
+AU  - Parmar, Naina
+AU  - Parikh, Monali
+AU  - Patni, Dhruvansh
+JO  - Procedia Computer Science
+VL  - 252
+SP  - 53
+EP  - 62
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 4th International Conference on Evolutionary Computing and Mobile Sustainable Networks
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924034380
+KW  - Real Time Networking
+KW  - Multimedia
+KW  - Challenges
+KW  - Innovations
+KW  - Intelligent Networking
+AB  - Over the past decade, the rise of broadband and mobile Internet access has led to the widespread adoption of real-time networking and multimedia applications. These platforms have become essential for connecting individuals and supporting businesses, particularly with the growing trend of remote work. The demand for video streaming services has surged significantly and is expected to continue rising. However, this increased traffic has strained network performance, leading to congestion and diminishing the quality of service, especially during peak evening hours and the COVID-19 pandemic. Besides upgrading network infrastructure, it is crucial to develop intelligent streaming systems that adapt to network conditions and user expectations to enhance customer satisfaction. This review paper explores into the basics and introduction of Multimedia and Real-Time Networking. It also explores the advancements in Adaptive and Intelligent Networking for real-time multimedia communication. The paper formulates research questions based on the discussed topics, such as the distinctions between real-time networking and traditional networking, the ways multimedia applications adjust to fluctuating network conditions, and the challenges and limitations associated with these technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Vehicular intelligence in 6G: Networking, communications, and computing
+AU  - Guo, Hongzhi
+AU  - Zhou, Xiaoyi
+AU  - Liu, Jiajia
+AU  - Zhang, Yanning
+JO  - Vehicular Communications
+VL  - 33
+SP  - 100399
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2021.100399
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209621000681
+KW  - 6G
+KW  - Vehicular network
+KW  - Vehicular communications
+KW  - Edge computing
+KW  - Artificial intelligence (AI)
+AB  - With the deployment of 5G, researchers and experts begin to look forward to 6G. They predict that 6G will be the key driving force for information interaction and social life after 2030. With the help of artificial intelligence (AI), 6G will be a highly autonomous closed-loop network, and will make up for 5G's shortcomings in communications, computing and global coverage, achieving “AI of things (AIoT)”. In 6G life, vehicles may become another indispensable devices for people besides smartphones, and non-polluting, highly safe as well as full-autonomous vehicles will be the goal of vehicular development. In order to ensure the safe driving of future vehicles and meet the entertainment needs of passengers, it is necessary to investigate future 6G vehicular intelligence. In this paper, we will discuss its networking, communications, computing and intelligence, look into future technological developments and applications, and identify forthcoming challenges and research directions.
+ER  - 
+
+TY  - JOUR
+T1  - AGC Sketch: An effective and accurate per-flow measurement to adapt flow size distribution
+AU  - Li, Zhuo
+AU  - Liu, Ziyu
+AU  - Liu, Jindian
+AU  - Zhang, Yu
+AU  - Liang, Teng
+AU  - Liu, Kaihua
+JO  - Computer Communications
+VL  - 221
+SP  - 120
+EP  - 130
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.04.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366424001427
+KW  - Sketch
+KW  - Network measurement
+KW  - Flow size estimation
+KW  - Flow size distribution
+AB  - Network measurements are indispensable for efficient network management. As a probabilistic data structure, sketch is widely used in network measurements. To adapt to the skewed and dynamic distribution of network traffic, most of the existing sketch-based schemes separate large and small flows either by asymmetric structures or multilayer structures. However, the former approach requires further accuracy of measurement due to increased errors of small flows. And the latter approach limits the throughput due to the increased hash calculations for large flows. To this end, a novel sketch, called AGC Sketch, is proposed in this paper. By storing the large flows and small flows separately while maintaining the small flows, it can not only adapt to the skewed network traffic to achieve efficient memory utilization, but also accurately estimate the size of flows with high throughput. Moreover, AGC Sketch is implemented on CPU and OVS platform. The experimental results show that AGC Sketch greatly reduces the error by 90% for flow size estimation compared with the state-of-the-art schemes.
+ER  - 
+
+TY  - JOUR
+T1  - High Performance Priority Packets Scheduling Mechanism for Big Data in Smart Cities
+AU  - Alassery, Fawaz
+JO  - Computers, Materials and Continua
+VL  - 72
+IS  - 1
+SP  - 535
+EP  - 559
+PY  - 2022
+DA  - 2022/02/21/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2022.023558
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221822010815
+KW  - Packets transmission
+KW  - scheduling scheme in IoT
+KW  - software defined networking
+KW  - big data smart cities
+KW  - applications for priority packets
+AB  - Today, Internet of Things (IoT) is a technology paradigm which convinces many researchers for the purpose of achieving high performance of packets delivery in IoT applications such as smart cities. Interconnecting various physical devices such as sensors or actuators with the Internet may causes different constraints on the network resources such as packets delivery ratio, energy efficiency, end-to-end delays etc. However, traditional scheduling methodologies in large-scale environments such as big data smart cities cannot meet the requirements for high performance network metrics. In big data smart cities applications which need fast packets transmission ratio such as sending priority packets to hospitals for an emergency case, an efficient scheduling mechanism is mandatory which is the main concern of this paper. In this paper, we overcome the shortcoming issues of the traditional scheduling algorithms that are utilized in big data smart cities emergency applications. Transmission information about the priority packets between the source nodes (i.e., people with emergency cases) and the destination nodes (i.e., hospitals) is performed before sending the packets in order to reserve transmission channels and prepare the sequence of transmission of theses priority packets between the two parties. In our proposed mechanism, Software Defined Networking (SDN) with centralized communication controller will be responsible for determining the scheduling and processing sequences for priority packets in big data smart cities environments. In this paper, we compare between our proposed Priority Packets Deadline First scheduling scheme (PPDF) with existing and traditional scheduling algorithms that can be used in urgent smart cities applications in order to illustrate the outstanding network performance parameters of our scheme such as the average waiting time, packets loss rates, priority packets end-to-end delay, and efficient energy consumption.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive and low-cost resource synchronization based on data distribution service in high dynamic networks
+AU  - Liu, Yanbo
+AU  - Yu, Peng
+AU  - Zhang, Junye
+AU  - Xiao, Zhe
+AU  - Li, Wenjing
+JO  - Computer Networks
+VL  - 253
+SP  - 110719
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110719
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624005516
+KW  - Resource synchronization
+KW  - Data distribution service
+KW  - Adaptive subscription
+KW  - High dynamic networks
+AB  - In disaster-stricken areas monitoring, management, search, and rescue operations, unmanned aerial vehicles (UAVs) play a crucial role in disaster management and emergency communication due to their high mobility. To efficiently coordinate and plan UAVs and their carried sensor and base station resources, synchronization is essential to establish consistency, laying the foundation for high-level demands. In such scenarios, synchronization relies on request–response (RR) or publish–subscribe (PS) forms of information exchange. Existing research in the field typically focuses on higher-level applications and selects either RR or PS synchronization, thereby overlooking the potential advantages that could be gained from combining both methods to meet synchronization requirements. We propose a resource synchronization method based on the Data Distribution Service (DDS) and a linear time complexity subscription mechanism tailored to specific query demands, which considers the pros and cons of the above two information exchange forms and the bottom-layer network topology. Experimental results using open-source simulation tools demonstrate that the proposed method adapts to scene requirements and decreases bandwidth by at least 21.2% and packet rate by at least 3.7% compared to different baseline methods across three topologies, while satisfying delay and query success rate requirements. Furthermore, the method maintains robust performance in the face of dynamic changes in network topology, showcasing its robustness.
+ER  - 
+
+TY  - JOUR
+T1  - Reduction of energy consumption and delay of control packets in Software-Defined Networking
+AU  - Naseri, Abdullah
+AU  - Ahmadi, Mahmood
+AU  - PourKarimi, Latif
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 31
+SP  - 100574
+PY  - 2021
+DA  - 2021/09/01/
+SN  - 2210-5379
+DO  - https://doi.org/10.1016/j.suscom.2021.100574
+UR  - https://www.sciencedirect.com/science/article/pii/S2210537921000652
+KW  - Energy consumption
+KW  - Linear programming
+KW  - Packet delay
+KW  - SDN
+KW  - SDN controller
+AB  - The energy consumption of network devices is a significant part of the network's energy costs. Recently, Software-Defined Networking (SDN) has been suggested as a suitable and stable solution to decrease energy consumption. The main concern is how to manage resources for optimum energy consumption in SDN. Hence, this paper proposes a binary linear programming model. This model manages (on or off devices) switches, controllers, and SDN links based on the number of flows at the network edge, the processing capability of the controllers, the distance between switches and controllers, and the traffic. Therefore, with this model, the lowest energy consumption, and the lowest delay of control packets is achieved. The results show that this model, on average, has saved 40% of energy consumption, and it has also had up to 80% decrement when there is less network traffic. In addition, this model has decreased 68% of the delay of controlling packets with 70% decrement in less traffic.
+ER  - 
+
+TY  - JOUR
+T1  - A bandwidth delay product based modified Veno for high-speed networks: BDP-Veno
+AU  - Biswal, Subhra Priyadarshini
+AU  - Patel, Sanjeev
+JO  - Journal of Network and Computer Applications
+VL  - 231
+SP  - 103983
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.103983
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804524001607
+KW  - BDP
+KW  - Congestion control
+KW  - Congestion avoidance
+KW  - Fast retransmit
+KW  - Fast recovery
+KW  - RTT
+KW  - Slow start
+KW  - BBR
+KW  - CUBIC
+AB  - In recent years, we have seen a significant enhancement in the performance of standard Transmission Control Protocol (TCP) congestion control algorithms. The number of packet drops and high round-trip time (RTT) are indications of network congestion. Many congestion control mechanisms have been proposed to overcome the challenge of achieving increased throughput and reduced latency. We have reviewed many TCP congestion control algorithms which are discussed in the literature. The limitation of the existing work is a trade-off between throughput, loss ratio, and delay. It is not possible for any algorithm to outperform the existing algorithm in terms of all the performance measures. We attempt to achieve the best performance while our proposed algorithm competes with CUBIC and Bottleneck Bandwidth and Round-trip propagation time (BBR). According to the observed results in the literature, TCP Veno dominates among other existing algorithms. We have proposed a bandwidth-delay product (BDP) based TCP (BDP-Veno) congestion control algorithm by modifying Veno to incorporate the information of BDP of the bottleneck. The proposed algorithm is implemented using ns-2. Moreover, we have analyzed the performances of standard TCP congestion control algorithms by considering different network scenarios. Our proposed algorithm performs better compared to other existing TCP congestion control schemes such as Reno, Newreno, BIC, CUBIC, Vegas, Veno, and Compound TCP in terms of average throughput in most of the scenarios. In Scenario 1, our proposed algorithm enhances the throughput with respect to Veno by 57%. Further, we have also compared the throughput with BBR using ns3 where we receive comparable throughput with BBR.
+ER  - 
+
+TY  - JOUR
+T1  - PF-EdgeCache: Popularity and freshness aware edge caching scheme for NDN/IoT networks
+AU  - Alduayji, Samar
+AU  - Belghith, Abdelfettah
+AU  - Gazdar, Achraf
+AU  - Al-Ahmadi, Saad
+JO  - Pervasive and Mobile Computing
+VL  - 91
+SP  - 101782
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 1574-1192
+DO  - https://doi.org/10.1016/j.pmcj.2023.101782
+UR  - https://www.sciencedirect.com/science/article/pii/S1574119223000408
+KW  - NDN
+KW  - IoT
+KW  - In-network caching
+KW  - Data freshness
+KW  - Data popularity
+KW  - Edge computing
+AB  - Named Data Networking (NDN) is considered an appropriate architecture for IoT as it naturally supports consumer mobility and provides in-network caching capabilities as leverage to meet IoT requirements. Some caching techniques have been introduced to meet IoT application requirements and enforce the caching at the network edge. However, it remains challenging to design a popularity and freshness aware caching technique that places cached contents at the edge of the network as close to consumers as possible in a natural and simple manner without resorting to cumbersome networking mechanisms and hard-to-insure assumptions. In this paper, we propose PF-EdgeCache, an efficient popularity and freshness aware caching technique that naturally brings requested popular contents to the edge of the network in a manner fully compliant with the NDN standard. Simulations performed using the ndnSIM simulator and a large transit stub topology clearly show the competitiveness of PF-EdgeCache in terms of server hit reduction, eviction rate, and retrieval time compared to some representative work proposed in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - A low-rate DDoS detection and mitigation for SDN using Renyi Entropy with Packet Drop
+AU  - Ahalawat, Anchal
+AU  - Babu, Korra Sathya
+AU  - Turuk, Ashok Kumar
+AU  - Patel, Sanjeev
+JO  - Journal of Information Security and Applications
+VL  - 68
+SP  - 103212
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 2214-2126
+DO  - https://doi.org/10.1016/j.jisa.2022.103212
+UR  - https://www.sciencedirect.com/science/article/pii/S2214212622000898
+KW  - SDN
+KW  - OpenFlow
+KW  - Low-rate DDoS
+KW  - Renyi entropy
+KW  - Information distance
+AB  - Software-Defined Networking (SDN) is an approach to network architecture that enables software applications used for intelligent, centralized network management or scheduling. It is gaining popularity due to its flexibility, agility, and scalability feature. SDN provides high network programmability and speeds up the network variation by forwarding the control layer from the data layer. The logically centralized controller is always an attractive target for the Distributed Denial of Service (DDoS) attacks. According to various specifications, the low-rate DDoS attack is often not easy to detect against SDN because attackers behave like legitimate traffic. Hence, it is essential to have a fast and accurate detection model to detect the data layer attack traffic timely so that it could not affect on available resources such as bandwidth, memory, central processing unit (CPU). In this paper, we propose a DDoS detection technique based on Renyi Entropy with Packet Drop (REPD) where packets drop method is used for the purpose of mitigation. The information distance metric has been used to evaluate the fluctuation of network traffic with various probability distributions. Also, an extensive simulation has been carried out on the synthetic data to improve the performance in terms of detection time and accuracy. It was observed that the attained results outperformed the Shannon Entropy (SE), Generalized Entropy, and other statistical distance metrics.
+ER  - 
+
+TY  - JOUR
+T1  - Placement of SDN controllers based on network setup cost and latency of control packets
+AU  - Naseri, Abdullah
+AU  - Ahmadi, Mahmood
+AU  - PourKarimi, Latif
+JO  - Computer Communications
+VL  - 208
+SP  - 15
+EP  - 28
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2023.05.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366423001755
+KW  - SDN-WAN
+KW  - SDN controller
+KW  - Controller placement problem
+KW  - Latency
+KW  - Binary linear programming
+AB  - Software-defined networking (SDN) was developed to simplify the management of computer networks. In the SDN architecture, the control layer is completely decoupled from the data layer. Moreover, network software configuration is also possible. To setup an SDN, you need a device called controller, which is not available in traditional networks. In the control layer, there are several controllers that control the data layer switches. The type, number and place of these controllers directly affect the cost and average latency of control packets. Since achieving the lowest setup cost and the minimum latency of the control packets (between switches and controllers, and among controllers) is of great importance at the same time, in this paper, a binary linear programming model is proposed to achieve the trade-off between them in wide area networks(WAN). The model determines the type, place and minimum number of required controllers by receiving the place of the switches, the amount of processing capacity of the controllers and the setup cost of each controller. Accordingly, it reduces the setup cost, average latency between switches and controllers as well as average latency among controllers in comparison with previous methods. The results of the study show that the model has the lowest setup cost and the minimum average latency of control packets (switch-to-controller and controller-to-controller) in controllers placement compared to the previous methods.
+ER  - 
+
+TY  - JOUR
+T1  - Content delivery network for IoT-based Fog Computing environment
+AU  - Bagies, Enas
+AU  - Barnawi, Ahmed
+AU  - Mahfoudh, Saoucene
+AU  - Kumar, Neeraj
+JO  - Computer Networks
+VL  - 205
+SP  - 108688
+PY  - 2022
+DA  - 2022/03/14/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108688
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621005557
+KW  - SDN
+KW  - Fog Computing
+KW  - CDN
+KW  - IoT
+AB  - With the continuous improvement and evolution of network technologies like IoT which demands the innovation and improvement of legacy networks, as well as, the requirements of end users’ Quality of Service (QoS) and Quality of Experience (QoE), new network paradigms have been invented, such as, Content Delivery Network (CDN), IoT and Fog Computing. In addition, the management and controlling of such a network may create an overhead to the network administrators. Therefore, Software-defined Network (SDN) has been introduced as a framework for managing and controlling the network devices where the network abstraction facilitates the introduction innovative solutions and improve the overall performance. In this paper, an SDN based architecture to implement fog-based CDN network was proposed aiming at further improvement on the routing functionalities essential in Fog-based CDN deployment. We have tested the proposed architecture and the results show significant gains. Moreover, we have identified some factors to be considered in such architectures for further performance improvement.
+ER  - 
+
+TY  - JOUR
+T1  - Optimization for computational offloading in multi-access edge computing: A deep reinforcement learning scheme
+AU  - Wang, Jian
+AU  - Ke, Hongchang
+AU  - Liu, Xuejie
+AU  - Wang, Hui
+JO  - Computer Networks
+VL  - 204
+SP  - 108690
+PY  - 2022
+DA  - 2022/02/26/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108690
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621005569
+KW  - Multi-access edge computing
+KW  - Computation offloading
+KW  - Markov decision process
+KW  - Reinforcement learning
+AB  - Owing to their limited computing power and battery level, wireless users (WUs) can hardly handle compute-intensive workflows by the local processor. Multi-access edge computing (MEC) servers attached to base stations have ample computing power and communication resources, which can be used to address the computation tasks or workloads of WUs. In this study, we design a framework with multiple static and vehicle-assisted MEC servers to handle the workloads offloaded by WUs. For obtaining the optimal computation offloading scheme to minimize the weighted sum cost, including transmission and execution cost, energy consumption cost, and communication bandwidth cost, we model the offloading decision optimization problem as a Markov decision process (MDP). Then, we propose a partial computation offloading scheme based on reinforcement learning (RL) to address the absence of priori knowledge. The proposed scheme can learn the optimal offloading decision based on stochastic workload arrival, the changing channel state, and the dynamic distance between WUs and the edge servers. Moreover, to avoid the curse of dimensionality caused by the complex state and action spaces, we present an improved computation offloading method based on deep RL (DRL) to learn the optimal offloading policy using deep neural networks. Extensive numerical results illustrate that the proposed algorithms based on RL and DRL can autonomously learn the optimal computation offloading policy with no priori knowledge, and their performance are better than that of four baselines algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Powder: Platform for Open Wireless Data-driven Experimental Research
+AU  - Breen, Joe
+AU  - Buffmire, Andrew
+AU  - Duerig, Jonathon
+AU  - Dutt, Kevin
+AU  - Eide, Eric
+AU  - Ghosh, Anneswa
+AU  - Hibler, Mike
+AU  - Johnson, David
+AU  - Kasera, Sneha Kumar
+AU  - Lewis, Earl
+AU  - Maas, Dustin
+AU  - Martin, Caleb
+AU  - Orange, Alex
+AU  - Patwari, Neal
+AU  - Reading, Daniel
+AU  - Ricci, Robert
+AU  - Schurig, David
+AU  - Stoller, Leigh B.
+AU  - Todd, Allison
+AU  - Van der Merwe, Jacobus
+AU  - Viswanathan, Naren
+AU  - Webb, Kirk
+AU  - Wong, Gary
+JO  - Computer Networks
+VL  - 197
+SP  - 108281
+PY  - 2021
+DA  - 2021/10/09/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108281
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621003017
+KW  - Mobile and wireless research platform
+AB  - Through a combination of continued demand, technological advancement and regulatory change, mobile and wireless networking is entering an expected period of rapid and broad innovation and change. This landscape presents mobile and wireless researchers with unique and unparalleled opportunities, but the inherent complexity of the wireless ecosystem also presents unique challenges. Specifically, the envisioned broad advancement of the science of wireless networking requires experimentation at scale in real environments, with control and visibility from the lowest layers of the radio up to the top of the application stack. This paper provides an overview of the Platform for Open Wireless Data-driven Experimental Research (Powder). Powder is a city-scale, remotely accessible, end-to-end software defined platform being designed and built to address this need. Compared to other mobile and wireless testbeds Powder provides advances in scale, realism, diversity, flexibility, and access. We describe the Powder architecture, building blocks, control framework and experimental workflow. We also describe example research efforts being supported by the platform and its current deployment status.
+ER  - 
+
+TY  - JOUR
+T1  - Cache management for large data transfers and multipath forwarding strategies in Named Data Networking
+AU  - Alhowaidi, Mohammad
+AU  - Nadig, Deepak
+AU  - Hu, Boyang
+AU  - Ramamurthy, Byrav
+AU  - Bockelman, Brian
+JO  - Computer Networks
+VL  - 199
+SP  - 108437
+PY  - 2021
+DA  - 2021/11/09/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108437
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621003972
+KW  - NDN
+KW  - SDN
+KW  - Compact Muon Solenoid
+KW  - Forwarding strategy
+KW  - Cache management
+AB  - Named Data Networking (NDN) is a promising approach to provide fast in-network access to compact muon solenoid (CMS) datasets. It proposes a content-centric rather than a host-centric approach to data retrieval. Data packets with unique and immutable names are retrieved from a content store (CS) using Interest packets. The current NDN architecture relies on forwarding strategies that are only dependent upon on-path caching. Such a design does not take advantage of the cached content available on the adjacent off-path routers in the network, thus reducing data transfer efficiency. In this work, we propose a software-defined, storage-aware routing mechanism that leverages NDN router cache-states, software defined networking (SDN) and multipath forwarding strategies to improve the efficiency of very large data transfers. First, we propose a novel distributed multipath (D-MP) forwarding strategy and enhancements to the NDN Interest forwarding pipeline. In addition, we develop a centralized SDN-enabled control for the multipath forwarding strategy (S-MP), which leverages the global knowledge of NDN network states that distributes Interests efficiently. We perform extensive evaluations of our proposed methods on an at-scale wide area network (WAN) testbed spanning six geographically separated sites. Our proposed solutions easily outperform the existing NDN forwarding strategies. The D-MP strategy results in performance gains ranging between 10.4x to 12.5x over the default NDN implementation without in-network caching, and 12.2x to 18.4x with in-network caching enabled. For S-MP strategy, we demonstrate a performance improvement of 10.6x to 12.6x, and 12.9x to 18.5x, with in-network caching disabled and enabled, respectively. Further, we also present a comprehensive analysis of NDN cache management for large data transfers and propose a novel prefetching mechanism to improve data transfer performance. Due to the inherent capacity limitations of the NDN router caches, we use SDN to provide an intelligent and efficient solution for data distribution and routing across multiple NDN router caches. We demonstrate how software-defined control can be used to partition and distribute large CMS files based on NDN router cache-state knowledge. Further, SDN control will also configure the router forwarding strategy to retrieve CMS data from the network. Our proposed solution demonstrates that the CMS datasets can be retrieved 28%–38% faster from the NDN routers’ caches than existing NDN approaches. Lastly, we develop a prefetching mechanism to improve the transfer performance of files that are not available in the router’s cache.
+ER  - 
+
+TY  - JOUR
+T1  - On the ICN-IoT with federated learning integration of communication: Concepts, security-privacy issues, applications, and future perspectives
+AU  - Rahman, Anichur
+AU  - Hasan, Kamrul
+AU  - Kundu, Dipanjali
+AU  - Islam, Md. Jahidul
+AU  - Debnath, Tanoy
+AU  - Band, Shahab S.
+AU  - Kumar, Neeraj
+JO  - Future Generation Computer Systems
+VL  - 138
+SP  - 61
+EP  - 88
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2022.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X22002667
+KW  - Internet of Things
+KW  - Information-Centric Networking
+KW  - Federated Learning
+KW  - Communication
+KW  - Security
+KW  - Computing
+KW  - Machine Learning
+KW  - Privacy
+KW  - Artificial Intelligence
+KW  - Confidentiality
+AB  - The individual and integration use of the Internet of Things (IoT), Information-Centric Networking (ICN), and Federated Learning (FL) have recently been used in several network-related scenarios and have consequently experienced a growing interest in the research community. Federated learning addresses the privacy and security issues of the IoT data in a decentralized manner. Also, it can be capable of training the multiple learning algorithms through local content except for exchanging data through intelligent Artificial Intelligence (AI)-based algorithms. Moreover, in ICN, the content is retrieved and stored based on the content name rather than the content location address. On the other hand, it is challenging to support the massive IoT devices by the fifth generation (5G) mobile-cellular networks. Therefore, the cellular 6G networks are expected to increase the connection capabilities by 10–100 times over 5G, which necessitates a convergence of Communication, Computing, and Caching (3C). At the same time, the in-network caching capabilities of ICN can be attractive features for IoT networks. IoT aspires to link anybody and/or everything at any time and location. However, integrating IoT with different areas is a new academic topic and is still in its infancy. As a result, this research highlights the potential of ICN for IoTs by conducting an exhaustive literature review. This work provides a comprehensive survey regarding these three recent research trends (i.e., FL, IoT, and ICN) and reviews the related state-of-the-art literature. We first describe the main features of each technology and discuss their most common and used variants. Furthermore, we envision the integration of such technologies to take advantage efficiently. Indeed, we consider their group-wise (FL-ICN-IoT) utilization based on the need for more robust security and privacy. Additionally, we cover the application fields of these technologies both individually and combinedly. Finally, we discuss the open issues of the reviewed research and describe potential directions for future avenues regarding integrating IoT, ICN, and FL technologies.
+ER  - 
+
+TY  - JOUR
+T1  - LB-OPAR: Load balanced optimized predictive and adaptive routing for cooperative UAV networks
+AU  - Gharib, Mohammed
+AU  - Afghah, Fatemeh
+AU  - Bentley, Elizabeth Serena
+JO  - Ad Hoc Networks
+VL  - 132
+SP  - 102878
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2022.102878
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870522000701
+KW  - FANET
+KW  - UAV
+KW  - Routing
+KW  - SDN
+KW  - Load balancing
+KW  - Performance evaluation
+AB  - Cooperative ad-hoc UAV networks have been turning into the primary solution set for situations where establishing a communication infrastructure is not feasible. Search-and-rescue after a disaster and intelligence, surveillance, and reconnaissance (ISR) are two examples where the UAV nodes need to send their collected data cooperatively into a central decision maker unit. Recently proposed SDN-based solutions show incredible performance in managing different aspects of such networks. Alas, the routing problem for the highly dynamic UAV networks has not been addressed adequately. An optimal, reliable, and adaptive routing algorithm compatible with the SDN design and highly dynamic nature of such networks is required to improve the network performance. This paper proposes a load-balanced optimized predictive and adaptive routing (LB-OPAR), an SDN-based routing solution for cooperative UAV networks. LB-OPAR is the extension of our recently published routing algorithm (OPAR) that balances the network load and optimizes the network performance in terms of throughput, success rate, and flow completion time (FCT). We analytically model the routing problem in highly dynamic UAV network and propose a lightweight algorithmic solution to find the optimal solution with O(|E|2) time complexity where |E| is the total number of network links. We exhaustively evaluate the proposed algorithm’s performance using ns-3 network simulator. Results show that LB-OPAR outperforms the benchmark algorithms by 20% in FCT, by 30% in flow success rate on average, and up to 400% in throughput.11DISTRIBUTION STATEMENT A: Approved for Public Release; distribution unlimited AFRL-2021-1606 on 25 May 2021. Other requests shall be referred to AFRL/RIT 525 Brooks Rd Rome, NY 13441.
+ER  - 
+
+TY  - JOUR
+T1  - Enhanced request adaptive scheme for information-centric vehicular networks
+AU  - Banerjee, Supratik
+AU  - Biswash, Sanjay Kumar
+JO  - Physical Communication
+VL  - 53
+SP  - 101772
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 1874-4907
+DO  - https://doi.org/10.1016/j.phycom.2022.101772
+UR  - https://www.sciencedirect.com/science/article/pii/S1874490722000969
+KW  - Age of information (AoI)
+KW  - Information-centric networking (ICN)
+KW  - Information-centric vehicular networks (ICVN)
+KW  - Named data networking (NDN)
+KW  - Service latency
+AB  - In this paper, we propose an enhanced request adaptive (EReA) scheme for content service provision in dynamic information-centric vehicular networking (ICVN) environment. The EReA scheme manages the cache update at the roadside units (RSUs) and provides low-latency content delivery to the end-users. User requests trigger the cache update at the RSU for a particular content item on the basis of its update−probability. We introduce an additional parameter tolerancei for each content item i. This parameter suppresses the frequency of content updates triggers at the RSU cache during high network load for the non-critical contents. This provides an additional saving in bandwidth. The simulation setup is created by ndnSIM 2.0 to validate the performance of this proposed scheme. The working and performance of the other content delivery schemes are also discussed in details. Results show that the proposed scheme provides a better hit-ratio compared to the existing ReA scheme under high network load, which results in an additional saving in bandwidth. Additionally, it also inherits the advantages of the ReA scheme.
+ER  - 
+
+TY  - JOUR
+T1  - Deployment of efficient MANET testbed using aggregation based archive population optimization
+AU  - Janani, R.S.
+AU  - Asokan, R.
+JO  - Biomedical Signal Processing and Control
+VL  - 96
+SP  - 106556
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1746-8094
+DO  - https://doi.org/10.1016/j.bspc.2024.106556
+UR  - https://www.sciencedirect.com/science/article/pii/S1746809424006141
+KW  - Aggregation
+KW  - Sensor nodes
+KW  - Self-organizing
+KW  - Mobility
+KW  - MANETs
+KW  - Homogenous
+KW  - Topology
+AB  - In today’s 6G era, Mobile ad hoc networks (MANETs) have been enhanced by rapid technological advancement in the wireless communication industry to better support a wide range of domains, including military operations, emergency operations, urban settings, and natural crisesmanagement. In MANET, self-organizing mobile nodes collaborate to build a flexible network architecture. With a MANET, data must transit through numerous intermediate nodes even before reaches its destination node. Local link connectivity is essential for the establishment and preservation of routes. To decrease energy usage, these findings suggest the Aggregation-based Archive Population Optimization(AAPO) along with Ad-hoc On-demand Distance Vector (AODV) Routing Protocol. For both local and global optimal routes, the proposed optimized modelgives top priority. There existtwo different types of rules used by AAPO to evaluate the quality of a route before using it for data transmission. Instead of relying on just one path for transmitting data, AAPO leverages many paths. Also, it minimizes the issue of the network nodes being suddenly inaccessible, which eliminates interruptions in transmissions. However, the suggested optimal routing system considers mobility and energy availability when responding to queries, resulting in significant performance improvements, utilizing 42.69 % of the scenario’s power and functioning at 208.6 kbps with an average PDR of 87.1 %. Also, detailed simulations are conducted using the Matlab (R2021b)software to assess the suggested approach. Furthermore, the suggested protocol outperforms the current methods in terms of effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Live virtual machine migration: A survey, research challenges, and future directions
+AU  - Imran, Muhammad
+AU  - Ibrahim, Muhammad
+AU  - Din, Muhammad Salah Ud
+AU  - Rehman, Muhammad Atif Ur
+AU  - Kim, Byung Seo
+JO  - Computers and Electrical Engineering
+VL  - 103
+SP  - 108297
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2022.108297
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790622005249
+KW  - Live VM migration
+KW  - Artificial Intelligence
+KW  - Cloud computing
+KW  - Resources management
+KW  - Machine learning
+AB  - In recent years, cloud computing has emerged as a promising paradigm providing various resources in the Cloud Data Center (CDC), including computations, storage, and even platform as a service. The virtualization technology plays a pivotal role in CDC resources management and provides an enchanting feature of virtual machine (VM) migration which provides several benefits in terms of VM scheduling, fault tolerance, load balancing, energy efficiency, power management, and security. To achieve efficient VM migration, a plethora of VM migration schemes have been proposed in the literature aiming to serve the quality of service-driven user requirements. This paper surveys the most recent and state-of-the-art Artificial Intelligence (AI) based and conventional load balancing, energy-aware, SLA aware, and network-aware live VM migration schemes. Through an extensive literature review, this paper investigates the most critical aspects of conventional and AI-driven live VM migration schemes. Finally, a few open research challenges that require further consideration from the research community are highlighted.
+ER  - 
+
+TY  - JOUR
+T1  - Construction of network access Layer security protection System based on zero trust architecture
+AU  - Liu, Yuexi
+JO  - Procedia Computer Science
+VL  - 243
+SP  - 1013
+EP  - 1022
+PY  - 2024
+DA  - 2024/01/01/
+T2  - The 4th International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.09.121
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092402129X
+KW  - zero trust architecture
+KW  - Network access layer
+KW  - Safety protection
+AB  - In order to further solve the problem of weak attack defense existing in the traditional network architecture, improve the shortcomings of network architecture in processing capacity, hardware expansion, security protection and other aspects, and better cope with the security challenges under the new network architecture, this article aims to provide more secure computer information exchange and sharing services for enterprises. A network access layer security protection system based on zero trust architecture is constructed. At the same time, the zero-trust architecture evaluation algorithm based on fuzzy theory is used to construct the security protection model. System tests show that more than 100 hosts on the enterprise access layer network use switches that support SNMP, and the security protection system at the network access layer processes more than 1500 attacks. In addition, malicious IP address changes are effectively prevented and the security protection level is greatly improved.
+ER  - 

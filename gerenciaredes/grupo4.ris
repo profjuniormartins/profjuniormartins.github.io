@@ -1,0 +1,584 @@
+TY  - JOUR
+T1  - Machine learning approaches for predicting link failures in production networks
+AU  - Wubete, Bruck W.
+AU  - Esfandiari, Babak
+AU  - Kunz, Thomas
+JO  - Computer Networks
+VL  - 259
+SP  - 111098
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111098
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000660
+KW  - Link failure prediction
+KW  - Machine learning
+KW  - Time series analysis
+KW  - Graph neural networks
+AB  - Resolving network failures after they occur through human investigation is a costly and time-consuming process. Predicting upcoming failures could mitigate this to a large extent. In this work, we collect data from a large intercontinental network and study the problem of flapping links, which are indicative of link failures. Such flapping links have their routing metric increased to divert traffic away; this is followed by corrective actions, and eventually their routing metric is lowered again to carry traffic. Using the collected data, primarily metrics reported from Internet Protocol (IP) and optical layers of the network, we develop ML models to predict upcoming link failures. Exploring a sequence of increasingly complex models, we study the relevance of optical metrics, the underlying temporal relations, and the topological relations in improving the predictive model performance. We discovered that optical features such as optical maximum and minimum power or unavailable and errored seconds increased the model’s performance (measured in average precision) by about 9 percentage points while temporal and spatial features improved it further by 8 and 7 percentage points respectively for a total improvement of 24 percentage points.
+ER  - 
+
+TY  - JOUR
+T1  - Using virtual function replacement to mitigate 0-day attacks in a multi-vendor NFV-based network
+AU  - Prieto, Yasmany
+AU  - Vega, Christian
+AU  - Figueroa, Miguel
+JO  - Computer Networks
+VL  - 256
+SP  - 110902
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110902
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007345
+KW  - 0-day attack
+KW  - Bayes theorem
+KW  - Attack pattern
+KW  - VNF replacement
+KW  - Multiple objective simulated annealing
+AB  - Network Function Virtualization (NFV) is an enabling technology to handle today’s wide variety of services and to match the traffic demands to the available network resources dynamically. However, like all software solutions, they are prone to 0-day vulnerabilities that can be shared among several implementations. Consequently, a large portion of the network may be compromised during a correlated attack. In this work, we propose a Virtual Network Function (VNF) replacement strategy to minimize the impact of successive attacks after a 0-day attack has been launched to an NFV-based network. Our method consists of two steps. First, given a specific set of NFV platforms impaired by the attack, we estimate, for each VNF, the conditional probability that the VNF was targeted. Second, we solve a bi-objective optimization problem which delivers a set of possible VNF replacements, that balance financial cost and connectivity metrics. The network administrator can use this information to select a tailored solution to face successive attacks that exploit the same vulnerability. Our results show that, although a solution that guarantees full network connectivity might not exist for all attack patterns, our method is always able to provide a set of optimal solutions that mitigate the effect of correlated attacks on the network.
+ER  - 
+
+TY  - JOUR
+T1  - Joint energy efficiency and network optimization for integrated blockchain-SDN-based internet of things networks
+AU  - Hakiri, Akram
+AU  - Sellami, Bassem
+AU  - Yahia, Sadok Ben
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107519
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107519
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004837
+KW  - Internet of things
+KW  - Blockchain
+KW  - SDN/NFV
+KW  - Proof-of-authority
+KW  - Energy-efficiency
+KW  - Trust
+AB  - The Internet of Things (IoT) networks are poised to play a critical role in providing ultra-low latency and high bandwidth communications in various real-world IoT scenarios. Assuring end-to-end secure, energy-aware, reliable, real-time IoT communication is hard due to the heterogeneity and transient behavior of IoT networks. Additionally, the lack of integrated approaches to efficiently schedule IoT tasks and holistically offload computing resources, and computational limits in IoT systems to achieve effective resource utilization. This paper makes three contributions to research on overcoming these problems in the context of distributed IoT systems that use the Software Defined Networking (SDN) programmable control plane in symbiosis with blockchain to benefit from the dispersed or decentralized, and efficient environment of distributed IoT transactions over Wide Area Networks (WANs). First, it introduces a Blockchain-SDN architectural component to reinforce flexibility and trustworthiness and improve the Quality of Service (QoS) of IoT networks. Second, it describes the design of an IoT-focused smart contract that implements the control logic to manage IoT data, detect and report suspected IoT nodes, and mitigate malicious traffic. Third, we introduce a novel consensus algorithm based on the Proof-of-Authority (PoA) to achieve agreements between blockchain-enabled IoT nodes, improve the reliability of IoT edge devices, and establish absolute trust among all smart IoT systems. Experimental results show that integrating SDN with blockchain outperforms traditional Proof-of-Work (PoW) and Practical Byzantine Fault Tolerance (PBFT) algorithms, delivering up to 68% lower latency, 87% higher transaction throughput, and 45% better energy savings.
+ER  - 
+
+TY  - JOUR
+T1  - Function Placement for In-network Federated Learning
+AU  - Yellas, Nour-El-Houda
+AU  - Addis, Bernardetta
+AU  - Boumerdassi, Selma
+AU  - Riggio, Roberto
+AU  - Secci, Stefano
+JO  - Computer Networks
+VL  - 256
+SP  - 110900
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110900
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007321
+KW  - Federated learning
+KW  - Artificial intelligence functions
+KW  - Placement
+AB  - Federated learning (FL), particularly when data is distributed across multiple clients, helps reducing the learning time by avoiding training on a massive pile-up of data. Nonetheless, low computation capacities or poor network conditions can worsen the convergence time, therefore decreasing accuracy and learning performance. In this paper, we propose a framework to deploy FL clients in a network, while compensating end-to-end time variation due to heterogeneous network setting. We present a new distributed learning control scheme, named In-network Federated Learning Control (IFLC), to support the operations of distributed federated learning functions in geographically distributed networks, and designed to mitigate the stragglers with lower deployment costs. IFLC adapts the allocation of distributed hardware accelerators to modulate the importance of local training latency in the end-to-end delay of federated learning applications, considering both deterministic and stochastic delay scenarios. By extensive simulation on realistic instances of an in-network anomaly detection application, we show that the absence of hardware accelerators can strongly impair the learning efficiency. Additionally, we show that providing hardware accelerators at only 50% of the nodes, can reduce the number of stragglers by at least 50% and up to 100% with respect to a baseline FIRST-FIT algorithm, while also lowering the deployment cost by up to 30% with respect to the case without hardware accelerators. Finally, we explore the effect of topology changes on IFLC across both hierarchical and flat topologies.
+ER  - 
+
+TY  - JOUR
+T1  - A novel recommendation-based framework for reconnecting and selecting the efficient friendship path in the heterogeneous social IoT network
+AU  - Farhadi, Babak
+AU  - Asghari, Parvaneh
+AU  - Mahdipour, Ebrahim
+AU  - Javadi, Hamid Haj Seyyed
+JO  - Computer Networks
+VL  - 258
+SP  - 111016
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111016
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862400848X
+KW  - Heterogeneous social IoT
+KW  - Friendship path selection
+KW  - Service recommendation
+KW  - Deep reinforcement learning
+KW  - Metaheuristics
+AB  - Automating the selection process for the most suitable service in a dynamic Internet of Things (IoT) ecosystem to improve critical metrics such as resilience, throughput, delay, energy consumption, confidence level, and cost is considered an important challenge, and in this regard, the Social Internet of Things (SIoT) paradigm has greatly helped to deal with this challenge through the merging of Complex Network (CN) principles within the IoT domain. In this study, we combined metaheuristics and Deep Reinforcement Learning (DRL) to develop a new unsupervised group-driven recommender framework for predicting, reconnecting, and choosing the optimal friendship path between requester and service provider nodes in a SIoT environment. There are four main phases to the presented framework. We first suggested a new method to learn features associated with the heterogeneous social IoT structure and detect ever-changing semantically related clusters. In the second phase, we propose a novel optimization model that utilizes the Artificial Bee Colony (ABC) metaheuristics to accurately predict community-oriented social connections. We came up with a new strategy to select an efficient group-based friendship path in the third phase. It hybridized the techniques of metaheuristic-driven Ant Colony Optimization (ACO) and DRL-oriented Proximal Policy Optimization (PPO). In the final phase, we introduce an innovative ACO-centered recommender model to improve the framework's accuracy and speed while also providing socially aware, community-driven service recommendations. We conducted extensive experiments on four real-world datasets to assess the efficacy of the proposed framework, and the findings show that it outperforms leading baselines.
+ER  - 
+
+TY  - JOUR
+T1  - Service migration with edge collaboration: Multi-agent deep reinforcement learning approach combined with user preference adaptation
+AU  - Chen, Shiyou
+AU  - Rui, Lanlan
+AU  - Gao, Zhipeng
+AU  - Yang, Yang
+AU  - Qiu, Xuesong
+AU  - Guo, Shaoyong
+JO  - Future Generation Computer Systems
+VL  - 165
+SP  - 107612
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107612
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24005764
+KW  - Edge computing
+KW  - Service migration
+KW  - Multi-agent reinforcement learning
+KW  - Mobility
+AB  - Multi-access edge computing provides proximate intelligent services for distributed users. Due to the user’s mobility and highly dynamic network, edge servers with limited coverage cannot ensure continuity of running services and maintain high-level Quality of Service. To tackle this issue, an effective service migration strategy is of paramount importance. However, the current approach ignores the cooperation between multiple edge servers and independent users. In this article, we study service migration with edge collaboration to realize lightweight migration by layer-sharing framework of containers, saving redundant transmissions of migration. Then, we formalize the migration decision problem as maximizing the migration utility problem. To obtain efficient online decisions, we proposed a dynamic service migration strategy (MA-DSM) based on multi-agent proximal policy optimization (MAPPO) algorithm, which leverages a flexible multi-policy framework to achieve user preference adaptation. Specifically, we improve the basic MAPPO by devising a context-aware grouping method to cluster agents with user’s mobility patterns and service preferences. Parameter sharing is introduced into the actor–critic network to learn customized policies for different clusters, facilitating cooperation among users in the same cluster. Extensive experiments demonstrate that our proposed approach outperforms baselines in terms of convergence, latency and migration utility.
+ER  - 
+
+TY  - JOUR
+T1  - Growth-adaptive distillation compressed fusion model for network traffic identification based on IoT cloud–edge collaboration
+AU  - Yang, Yang
+AU  - Fan, Chengwen
+AU  - Chen, Shaoyin
+AU  - Gao, Zhipeng
+AU  - Rui, Lanlan
+JO  - Ad Hoc Networks
+VL  - 167
+SP  - 103676
+PY  - 2025
+DA  - 2025/02/02/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103676
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524002877
+KW  - IoT
+KW  - Traffic identification
+KW  - Network-in-network
+KW  - Random forest
+KW  - Knowledge distillation
+KW  - Fusion model
+AB  - The development of the Internet of Things (IoT) has led to the rapid growth of the types and number of connected devices and has generated large amounts of complex and diverse traffic data. Traffic identification on edge servers solves the real-time and privacy requirements of IoT management and has attracted much attention, but still faces several problems: (1) traditional machine learning (ML) models rely on artificially constructed features, and the existing deep learning (DL) traffic identification models have reached their performance limit; and (2) insufficient computing resources of edge servers limit the possible improvement in the performance of deep learning models by increasing the number of parameters and structural complexity. To address these issues, we propose a lightweight fusion model. First, the Network-in-Network (NiN) model and Random Forest (RF) model are used on the cloud server to construct a traffic identification fusion model. The excellent representation extraction capability of the NiN compensates for the RF’s dependence on manual feature extraction, and its modular structure is suitable for the subsequent model compression operations. Then, the NiN was distilled. We propose Growth-Adaptive Distillation to lightweight the NiN model, which can reduce the operation of manually adjusting the structure of the student model and ensure the efficiency and low power consumption of the fusion model deployment. In addition, both the RF in the cloud and the distilled NiN are deployed on the edge server. Comparisons with multiple algorithms on two network traffic datasets show that the proposed model achieves state-of-the-art performance while ensuring the use of minimal computational resources.
+ER  - 
+
+TY  - JOUR
+T1  - A two-context-aware approach for navigation: A case study for vehicular route recommendation
+AU  - Barbon, Rafael S.
+AU  - Madeira, Edmundo R.M.
+AU  - Akabane, Ademar T.
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103655
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103655
+UR  - https://www.sciencedirect.com/science/article/pii/S157087052400266X
+KW  - Vehicular traffic congestion
+KW  - Route recommendation
+KW  - Context awareness
+KW  - Here navigation
+AB  - In contemporary urban environments, route recommendation systems have become an indispensable tool in moving the population from large centers, serving as valuable resources for circumventing traffic congestion. Enhancing vehicular traffic flow through strategic route adjustments is a pivotal element in improving traffic mobility. However, depending exclusively on traffic-related data for route recommendations fails to meet the essential criteria for ensuring effective management and safety for drivers and passengers during travel. Thus, context awareness and traffic data are crucial for enhancing efficiency and safety in traffic management. Our study proposes a two-context-aware approach to recommend safe routes for urban traffic management, considering road safety and travel time. Experiments were carried out using the widely recognized tool — HERE Navigation. Comparatively, our approach signifies a progressive stride in balancing mobility and security when contrasted with a single focus on travel time.
+ER  - 
+
+TY  - JOUR
+T1  - WFE-Tab: Overcoming limitations of TabPFN in IIoT-MEC environments with a weighted fusion ensemble-TabPFN model for improved IDS performance
+AU  - Ruiz-Villafranca, Sergio
+AU  - Roldán-Gómez, José
+AU  - Carrillo-Mondéjar, Javier
+AU  - Martinez, José Luis
+AU  - Gañán, Carlos H.
+JO  - Future Generation Computer Systems
+VL  - 166
+SP  - 107707
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2025.107707
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X25000020
+KW  - CyberSecurity
+KW  - Multi-access edge computing
+KW  - Machine learning
+KW  - Intrusion Detection System
+KW  - Industrial Internet of Things
+AB  - In recent years we have seen the emergence of new industrial paradigms such as Industry 4.0/5.0 or the Industrial Internet of Things (IIoT). As the use of these new paradigms continues to grow, so do the number of threats and exploits that they face, which makes the IIoT a desirable target for cybercriminals. Furthermore, IIoT devices possess inherent limitations, primarily due to their limited resources. As a result, it is often impossible to detect attacks using solutions designed for other environments. Recently, Intrusion Detection Systems (IDS) based on Machine Learning (ML) have emerged as a solution that takes advantage of the large amount of data generated by IIoT devices to implement their functionality and achieve good performance, and the inclusion of the Multi-Access Edge Computing (MEC) paradigm in these environments provides the necessary computational resources to deploy IDS effectively. Furthermore, TabPFN has been considered as an attractive option for solving classification problems without the need to reprocess the data. However, TabPFN has certain drawbacks when it comes to the number of training samples and the maximum number of different classes that the model is capable of classifying. This makes TabPFN unsuitable for use when the dataset exceeds one of these limitations. In order to overcome such limitations, this paper presents a Weighted Fusion-Ensemble-based TabPFN (WFE-Tab) model to improve IDS performance in IIoT-MEC scenarios. The presented study employs a novel weighted fusion method to preprocess data into multiple subsets, generating different ensemble family TabPFN models. The resulting WFE-Tab model comprises four stages: data collection, data preprocessing, model training, and model evaluation. The performance of the WFE-Tab method is evaluated using key metrics such as Accuracy, Precision, Recall, and F1-Score, and validated using the Edge-IIoTset public dataset. The performance of the method is then compared with baseline and modern methods to evaluate its effectiveness, achieving an F1-Score performance of 99.81%.
+ER  - 
+
+TY  - JOUR
+T1  - SFML: A personalized, efficient, and privacy-preserving collaborative traffic classification architecture based on split learning and mutual learning
+AU  - Xia, Jiaqi
+AU  - Wu, Meng
+AU  - Li, Pengyong
+JO  - Future Generation Computer Systems
+VL  - 162
+SP  - 107487
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107487
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004436
+KW  - Federated learning
+KW  - Network traffic classification
+KW  - Split learning
+KW  - Mutual learning
+AB  - Traffic classification is essential for network management and optimization, enhancing user experience, network performance, and security. However, evolving technologies and complex network environments pose challenges. Recently, researchers have turned to machine learning for traffic classification due to its ability to automatically extract and distinguish traffic features, outperforming traditional methods in handling complex patterns and environmental changes while maintaining high accuracy. Federated learning, a distributed learning approach, enables model training without revealing original data, making it appealing for traffic classification to safeguard user privacy and data security. However, applying it to this task poses two challenges. Firstly, common client devices like routers and switches have limited computing resources, which can hinder efficient training and increase time costs. Secondly, real-world applications often demand personalized models and tasks for clients, posing further complexities. To address these issues, we propose Split Federated Mutual Learning (SFML), an innovative federated learning architecture designed for traffic classification that combines split learning and mutual learning. In SFML, each client maintains two models: a privacy model for the local task and a public model for the global task. These two models learn from each other through knowledge distillation. Furthermore, by leveraging split learning, we offload most of the computational tasks to the server, significantly reducing the computational burden on the client. Experimental results demonstrate that SFML outperforms typical training architectures in terms of convergence speed, model performance, and privacy protection. Not only does SFML improve training efficiency, but it also satisfies the personalized needs of clients and reduces their computational workload and communication overhead, providing users with a superior network experience.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual assistant mediated communications for radio resources saving
+AU  - Mazzenga, Franco
+AU  - Vizzarri, Alessandro
+AU  - Giuliano, Romeo
+JO  - Computer Networks
+VL  - 259
+SP  - 111068
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111068
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000362
+KW  - Artificial intelligence (AI)
+KW  - Wireless networks
+KW  - Virtual assistant
+KW  - Intent based communications
+KW  - O-RAN
+AB  - Artificial Intelligence (AI) and Machine Learning (ML) are considered by 3GPP and ITU important technologies to manage and control the radio access networks (RANs). The efficient usage of radio resources is one of the objectives of the network AI/ML-based management/control system. The possibility of passing information on the generated traffic to the network can be helpful in optimizing the usage of radio resources allocated to users to connect with the application servers in the cloud and/or in the edge cloud. In this paper, we discuss one approach to save radio resources. To this purpose, we consider the possibility of splitting the user-to-application server link into two cascaded links inter-connected by an AI-based virtual assistant (VA). The first link, from the user to the VA, is within the RAN while the second one, from the VA to the application server is inside the Telco network. Assuming the VA could impersonate the user by exchanging messages with the application servers, at the end of transactions only the net data fulfilling the user request are transferred to the user over the RAN. We refer to this approach as VA-mediated communications. A description of the network architecture including VAs is presented in this paper. In general, depending on the type of the invoked application/service, this approach permits to reduce the amount of traffic transmitted over the RAN. We analyze the performance improvement in terms of radio resource saving by considering two applications: the download of a web page and the access to a web application. It is observed that the achievable radio resource saving depends on the ability of the VA to impersonate the user behavior while interacting with the application server(s). We provide a model for the evaluation of the additional costs of the hardware/software for the Telco to integrate the VA infrastructure into its network i.e. in the cloud or in the edge cloud.
+ER  - 
+
+TY  - JOUR
+T1  - APQA: An anonymous post quantum access authentication scheme based on lattice for space ground integrated network
+AU  - Wang, Shanshan
+AU  - Xu, Chuan
+AU  - Zhao, Guofeng
+AU  - Han, Zhenzhen
+AU  - Hu, Rui
+AU  - Yu, Shui
+JO  - Computer Networks
+VL  - 257
+SP  - 110979
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110979
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008119
+KW  - Space and ground integrated network
+KW  - Post quantum
+KW  - Rejection sampling authentication algorithm
+AB  - The rapidly developing Space Ground Integrated Network (SGIN) will provide communication services for massive nodes worldwide, and the authentication protocol is the key step in ensuring the security of SGIN. However, the current authentication schemes rely on security based on discrete logarithms and large integer decomposition problems, which are vulnerable to quantum computing attacks. Meanwhile, the energy and storage capacity of satellites are limited, making it impossible to deploy a highly complex authentication algorithm. Therefore, we propose an anonymous post quantum access authentication scheme based on lattice to meet the security requirements of the SGIN. During the registration phase, an online registration algorithm is developed using the Regev encryption mechanism to securely transmit the entity’s encrypted identity, thereby lowering the storage costs. In the authentication phase, an anonymous authentication algorithm based on the rejection sampling method is proposed to achieve the confidentiality of the private key and identity of the entity through zero-knowledge technology. This approach reduces the computational complexity of the authentication algorithm and decreases the computation time during the authentication phase. Theoretical proof and performance analysis demonstrate that the proposed scheme can resist quantum computation attacks and reduce the computation time by 36% compared to the existing authentication schemes.
+ER  - 
+
+TY  - JOUR
+T1  - ES-SDPC: A secure and trusted SDP framework
+AU  - Zhang, Zheng
+AU  - Ren, Quan
+AU  - Lu, Jie
+AU  - Hu, Yuxiang
+AU  - Chen, Hongchang
+JO  - Computer Networks
+VL  - 258
+SP  - 111038
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111038
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000064
+KW  - Software-defined networking
+KW  - Software-Defined Perimeter
+KW  - Endogenous security
+KW  - Security metrics
+KW  - Semi-Markov Chain
+AB  - Software-Defined Perimeter (SDP) provided a logical perimeter to restrict trusted access to the service. However, because of unknown security vulnerabilities in the controller, the authentication and authorization information has been maliciously tampered with, resulting in SDP controller failure. Therefore, this paper first proposes a flexible and secure Intrinsic Security SDP Controller (ES-SDPC) architecture. The ES-SDPC architecture consists of an endogenous secure SDP controller, which is authorized by the master controller and backed up by the slave controller to avoid the delay increase of multiple control information updates. Secondly, this paper proposes an evaluation model for ES-SDPC to theoretically analyze the intrinsic security performance of the ES-SDPC architecture. Finally, this paper implements ES-SDPC in a prototype system and conducts simulations and experiments in different language groups. The evaluation results indicate that, under reasonable configuration, ES-SDPC can ensure high reliability for 1724.68 h and provide 92.4% secure connections in environments facing three malicious attacks. When facing differential mode attacks, the throughput of ES-SDPC is 18.78% higher than that of Byzantine fault-tolerant systems, and the latency overhead is 16.16% lower.
+ER  - 
+
+TY  - JOUR
+T1  - A schedulability-aware routing algorithm for time sensitive network based on improved ant colony algorithm
+AU  - Guo, Yi
+AU  - Luo, Feng
+AU  - Wang, Zitong
+AU  - Tong, Yingpeng
+AU  - Ren, Yi
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103741
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103741
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003524
+KW  - Time sensitive network
+KW  - Routing algorithms
+KW  - No-wait scheduling
+KW  - Time aware shaper
+AB  - With the rapid development of industrial automation, there are higher requirements for reliable and deterministic communication in industrial networks, including in-vehicle networks, avionics and intelligent transport. Time Sensitive Network offers bounded, low-latency transmission assurance for crucial traffic via the Time Aware Shaper described in the IEEE 802.1Qbv. This standard ensures low jitter and deterministic delay for time-sensitive traffic by employing a pre-calculated circular transmission schedule. Current scheduling algorithms typically use the shortest path algorithm to determine paths for time-triggered flows. However, this approach can lead to an excessive concentration of time-triggered flows traversing the same link, thereby impacting the scheduling feasibility of such flows. In this paper, first, the time-sensitive network topology and time-triggered flows are modeled and the SMT-based no-wait scheduling constraints are proposed. Then, a schedulability-aware routing (SAR) algorithm based on the improved ant colony algorithm is designed to enhance the schedulability of time-triggered flows under the no-wait scheduling problem, thereby improving the ability of the time-sensitive network to accommodate time-triggered flows. Finally, SAR is compared with four routing algorithms including the shortest path routing algorithm (Dijkstra) to evaluate its performance under different network loads. The results show a significant improvement in the scheduling success rate of SAR compared to other routing algorithms. In the original network topology, when the link communication rate is 1000 Mbit/s, SAR achieves scheduling success rates that are 44 %, 62 %, and 56 % higher than Dijkstra for 80, 85, and 90 time-triggered flows, respectively, and 18 %, 8 %, and 10 % higher than LBR.
+ER  - 
+
+TY  - JOUR
+T1  - Improving WSN-based dataset using data augmentation for TSCH protocol performance modeling
+AU  - Alipio, Melchizedek
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107540
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107540
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24005041
+KW  - Data augmentation
+KW  - Internet of things
+KW  - Performance modeling
+KW  - Time-slotted channel hopping
+KW  - Wireless sensor networks
+AB  - This study addresses the problem of inadequate datasets in Time-Slotted Channel Hopping (TSCH) protocol in Wireless Sensor Networks (WSN) by introducing a viable machine learning (ML) approach that explicitly tackles the limitations associated with the scarcity of data samples. The dataset employed in this research is derived from actual sensor node implementations, ensuring authenticity and relevance. To counteract overfitting, Variational Auto-Encoder (VAE) and Generative Adversarial Network (GAN) algorithms are utilized for data augmentation during the modeling phase, alongside the incorporation of Random Forest (RF) and Artificial Neural Network (ANN) algorithms. Results reveal a notable improvement in the performance of the ML models through the implementation of data augmentation techniques. A comparative analysis of various ML models underscores the superiority of the RF model, augmented by the GAN technique. This model exhibits enhanced predictive capabilities for TSCH latency, underscoring its efficacy in modeling network protocol performance.
+ER  - 
+
+TY  - JOUR
+T1  - An effective scheme for classifying imbalanced traffic in SD-IoT, leveraging XGBoost and active learning
+AU  - Jisi, Chandroth
+AU  - Roh, Byeong-hee
+AU  - Ali, Jehad
+JO  - Computer Networks
+VL  - 257
+SP  - 110939
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110939
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007710
+KW  - SDN
+KW  - IoT
+KW  - Traffic classification
+KW  - Imbalance problem
+KW  - XGBoost
+KW  - Cost-sensitive XGBoost
+KW  - Active learning
+AB  - The volume and diversity of Internet traffic are constantly growing due to the simplicity of Internet of Things (IoT) technology, making machine learning-powered solutions increasingly essential for efficient network oversight in the future. The IoT applications prefer stringent but various Quality of Service (QoS). To allocate network resources and offer security based on these QoS, network traffic classification is the foremost solution and a complex part of modern communication. Software Defined Networking (SDN) is combined with machine learning (ML) to automate traffic classification in the IoT network. Nevertheless, uneven class distribution in traffic classification is brought about by the immanent features of Software-Defined IoT (SD-IoT) networks, which could hinder classification performance, particularly for minority classes. In order to solve the issue of class imbalance in SD-IoT environments, this study introduces a Cost-Sensitive XGBoost with Active Learning (AL-CSXGB) algorithm. This unique approach characterizes class distribution from a new point of view. The proposed work dynamically assigns a weight to different applications and actively queries to label new data points iteratively to acquire better accuracy. Experiments on the MOORE_SET and ISCX VPN-nonVPN datasets are used to ensure the efficiency of the algorithm under consideration. The experimental findings show that AL-CSXGB outperforms the other state-of-the-art methods regarding classification accuracy and computation time and alleviates the imbalance problem in SD-IoT networks. The proposed scheme achieves an accuracy of 98.4% on the MOORE_SET dataset and 98.89% on the ISCX VPN-nonVPN dataset, demonstrating its effectiveness and reliability in diverse scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - A self-contained emulator for the forensic examination of IoE scenarios
+AU  - Ruiz-Villafranca, Sergio
+AU  - Castelo Gómez, Juan Manuel
+AU  - Carrillo-Mondéjar, Javier
+AU  - Roldán-Gómez, José
+AU  - Martínez, José Luis Martínez
+JO  - Ad Hoc Networks
+VL  - 168
+SP  - 103718
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103718
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003299
+KW  - Digital forensics
+KW  - IoE forensics
+KW  - Forensic emulator
+KW  - IoE device examination
+KW  - Learning resources
+AB  - With the number of cyber incidents on the Internet of Everything (IoE) increasing every year, so does the amount of forensic investigations that are carried out in this environment. As the research community is avidly working on the development of solutions that can assist in the examination process, it is crucial to, firstly, have access to a resource that can facilitate the process of learning the characteristics of these investigations, and, secondly, to have a testbed that allows evaluating the effectiveness and feasibility of new solutions. Likewise, from an educational standpoint, having access to assets that allow interacting with these devices in a simple and efficient way can lead to learners getting a better understanding of the forensic characteristics and requirements of this environment. In view of this, a self-contained emulator for the forensic examination of these scenarios is presented in this article that mirrors their static and dynamic by emulating both the firmware of the devices that comprise them and the multiple network protocols used in them. Additionally, the emulator offers the capability to deploy digital twins within IoE scenarios, enhancing its utility for cybersecurity forensic investigations and training sets. To demonstrate its feasibility and convenience, two case studies are presented that emulate different IoE forensic contexts, showing that the proposal is capable of emulating their static and dynamic behaviour, and that it can be used to perform different forensic tasks.
+ER  - 
+
+TY  - JOUR
+T1  - A hierarchical control for application placement and load distribution in Edge Computing
+AU  - Maia, Adyson M.
+AU  - Vieira, Dario
+AU  - Ghamri-Doudane, Yacine
+AU  - Rodrigues, Christiano
+AU  - Pereira, Marciel B.
+AU  - de Castro, Miguel F.
+JO  - Future Generation Computer Systems
+VL  - 166
+SP  - 107631
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107631
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24005958
+KW  - Application placement
+KW  - Load distribution
+KW  - Edge Computing
+KW  - Distributed control
+AB  - Edge Computing (EC) extends computing functionalities from remote cloud data centers to the proximity of end-user devices at the network edges, thereby reducing application response time. However, existing solutions face challenges in scalability, efficient resource management, and near real-time adaptation in dynamic environments. In this paper, we jointly investigate the application placement and load distribution challenges in an EC-enabled mobile network. We propose a hierarchical distributed Limited Look-Ahead Control (LLC) approach that mitigates centralized control bottlenecks by breaking down the overall decision problem into a series of local problems solved cooperatively through a two-tier architecture. The global controller processes system-wide information and sets local constraints, while local controllers make autonomous decisions coordinated through mutual information exchange. Utilizing LLC allows for anticipation and adaptation to load fluctuations. Even though the results indicate that the trade-off between system performance and scalable decisions depends on how the overall problem is decomposed, our distributed solution significantly reduces the controller’s execution time compared to a centralized approach.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent edge–fog interplay for healthcare informatics: A blockchain perspective
+AU  - Rathore, Nitin
+AU  - Gupta, Rajesh
+AU  - Thakkar, Nihar
+AU  - Gohil, Keyaba
+AU  - Tanwar, Sudeep
+AU  - Aujla, Gagangeet Singh
+AU  - Alqahtani, Fayez
+AU  - Tolba, Amr
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103727
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103727
+UR  - https://www.sciencedirect.com/science/article/pii/S157087052400338X
+KW  - Blockchain
+KW  - Healthcare informatics
+KW  - Cloud
+KW  - Fog
+KW  - Security
+KW  - Artificial intelligence
+KW  - Heart stroke
+AB  - This paper explores artificial intelligence (AI) and edge–fog interplay to strengthen healthcare informatics (HCI), while also considering the blockchain perspective for securing HCI to transform cloud-based HCI to edge–fog-based HCI to serve real-time responses for critical healthcare applications. This article discusses that AI is vital in providing better healthcare, precision medicine, and personalized treatments. A comprehensive review of edge–fog interplay-based HCI and blockchain-based HCI demonstrated the need for integrating blockchain and edge–fog interplay for successful HCI. Subsequently, some current research projects explore edge computing, fog computing, and blockchain in the healthcare sector to securely store and share patient data, thereby providing real-time data analysis, which is also highlighted. The latter part reflects some essential aspects of blockchain in healthcare, such as immutability, trustworthiness, and traceability. We also present a case study on AI-edge–fog interplay, and blockchain on heart stroke prediction for HCI that examines the practical application of the amalgamation of such technologies required to refine the healthcare sector to support the proposed analysis. Finally, this work discusses the future challenges of integrating AI, edge–fog interplay, and blockchain in the field of HCI.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of machine learning in satellite internet of things: A survey of techniques, challenges, and future directions
+AU  - Choquenaira-Florez, Alexander Y.
+AU  - Fraire, Juan A.
+AU  - Pasandi, Hannah B.
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 259
+SP  - 111063
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111063
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000313
+KW  - Satellite ioT
+KW  - Satellite networks
+KW  - Machine learning
+AB  - The drive towards an interconnected world via satellites is reshaping the landscape of communication technologies. This survey comprehensively reviews studies in the Satellite Internet of Things (SIoT) domain, focusing on the role of Machine Learning (ML) techniques. Indeed, the global data collection scale in SIoT is ideally suited for data-intensive and sophisticated ML approaches. We highlight the innovative use of ML to address specific SIoT challenges, aiming to identify current trends, methodologies, and outcomes. We considered theoretical, practical, and experimental research, organizing existing publications into a new taxonomy that intersects ML and SIoT categories. Our taxonomy reveals that Deep Learning (DL), Reinforcement Learning (RL), and Federated Learning (FL) are widely applied to address radio access schemes, resource and network management, and application-specific issues. This survey identifies critical gaps in current research on ML applications in SIoT, such as the lack of differentiation between space-based and ground-based processing, insufficient integration of SIoT-specific metrics, and the oversight of limited computational resources on orbiting satellites. These issues raise concerns about the feasibility and efficiency of proposed solutions. We propose promising research directions based on the derived insights to effectively bridge the gap between ML researchers and industrial SIoT entities.
+ER  - 
+
+TY  - JOUR
+T1  - DDPG-AdaptConfig: A deep reinforcement learning framework for adaptive device selection and training configuration in heterogeneity federated learning
+AU  - Yu, Xinlei
+AU  - Gao, Zhipeng
+AU  - Xiong, Zijian
+AU  - Zhao, Chen
+AU  - Yang, Yang
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107528
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107528
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004928
+KW  - Federated learning
+KW  - Data heterogeneity
+KW  - System heterogeneity
+KW  - Reinforcement learning
+KW  - Deep deterministic policy gradient
+AB  - Federated Learning (FL) is a distributed machine learning approach that protects user privacy by collaboratively training shared models across devices without sharing their raw personal data. Despite its advantages, FL faces issues of increased convergence time and decreased accuracy due to the heterogeneity of data and systems across devices. Existing methods for solving these issues using reinforcement learning often ignore the adaptive configuration of local training hyperparameters to suit varying data characteristics and system resources. Moreover, they frequently overlook the heterogeneous information contained within local model parameters. To address these problems, we propose the DDPG-AdaptConfig framework based on Deep Deterministic Policy Gradient (DDPG) for adaptive device selection and local training hyperparameters configuration in FL to speed up convergence and ensure high model accuracy. Additionally, we develop a new actor network that integrates the transformer mechanism to extract heterogeneous information from model parameters, which assists in device selection and hyperparameters configuration. Furthermore, we introduce a clustering-based aggregation strategy to accommodate heterogeneity and prevent performance declines. Experimental results show that our DDPG-AdaptConfig achieves significant improvements over existing baselines.
+ER  - 
+
+TY  - JOUR
+T1  - HephaestusForge: Optimal microservice deployment across the Compute Continuum via Reinforcement Learning
+AU  - Santos, José
+AU  - Zaccarini, Mattia
+AU  - Poltronieri, Filippo
+AU  - Tortonesi, Mauro
+AU  - Stefanelli, Cesare
+AU  - Di Cicco, Nicola
+AU  - De Turck, Filip
+JO  - Future Generation Computer Systems
+VL  - 166
+SP  - 107680
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107680
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24006447
+KW  - Kubernetes
+KW  - Orchestration
+KW  - Microservices
+KW  - Reinforcement Learning
+KW  - Resource allocation
+KW  - Compute Continuum
+AB  - With the advent of containerization technologies, microservices have revolutionized application deployment by converting old monolithic software into a group of loosely coupled containers, aiming to offer greater flexibility and improve operational efficiency. This transition made applications more complex, consisting of tens to hundreds of microservices. Designing effective orchestration mechanisms remains a crucial challenge, especially for emerging distributed cloud paradigms such as the Compute Continuum (CC). Orchestration across multiple clusters is still not extensively explored in the literature since most works consider single-cluster scenarios. In the CC scenario, the orchestrator must decide the optimal locations for each microservice, deciding whether instances are deployed altogether or placed across different clusters, significantly increasing orchestration complexity. This paper addresses orchestration in a containerized CC environment by studying a Reinforcement Learning (RL) approach for efficient microservice deployment in Kubernetes (K8s) clusters, a widely adopted container orchestration platform. This work demonstrates the effectiveness of RL in achieving near-optimal deployment schemes under dynamic conditions, where network latency and resource capacity fluctuate. We extensively evaluate a multi-objective reward function that aims to minimize overall latency, reduce deployment costs, and promote fair distribution of microservice instances, and we compare it against typical heuristic-based approaches. The results from an implemented OpenAI Gym framework, named as HephaestusForge, show that RL algorithms achieve minimal rejection rates (as low as 0.002%, 90x less than the baseline Karmada scheduler). Cost-aware strategies result in lower deployment costs (2.5 units), and latency-aware functions achieve lower latency (268–290 ms), improving by 1.5x and 1.3x, respectively, over the best-performing baselines. HephaestusForge is available in a public open-source repository, allowing researchers to validate their own placement algorithms. This study also highlights the adaptability of the DeepSets (DS) neural network in optimizing microservice placement across diverse multi-cluster setups without retraining. The DS neural network can handle inputs and outputs as arbitrarily sized sets, enabling the RL algorithm to learn a policy not bound to a fixed number of clusters.
+ER  - 
+
+TY  - JOUR
+T1  - Learning-based joint recommendation, caching, and transmission optimization for cooperative edge video caching in Internet of Vehicles
+AU  - Cheng, Zhipeng
+AU  - Liu, Lu
+AU  - Liwang, Minghui
+AU  - Chen, Ning
+AU  - Fan, Xuwei
+JO  - Ad Hoc Networks
+VL  - 166
+SP  - 103667
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103667
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524002786
+KW  - Edge video caching
+KW  - Recommendation
+KW  - Transmission
+KW  - Internet of Vehicles
+KW  - Deep reinforcement learning
+KW  - Soft actor-critic
+AB  - In an era dominated by multimedia information, achieving efficient video transmission in the Internet of Vehicles (IoV) is crucial because of the inherent bandwidth constraints and network volatility within vehicular environments. In this paper, we propose a cooperative edge video caching framework designed to enhance video delivery efficiency in IoV by integrating joint recommendation, caching, and transmission optimization. Leveraging deep reinforcement learning with the discrete soft actor–critic algorithm, our methodology dynamically adapts to fluctuating network conditions and diverse user preferences, aiming to optimize content delivery efficiency and quality of experience. The proposed approach combines recommendation and caching strategies with transmission optimization to provide a comprehensive solution for high-performance video services. Extensive simulation results demonstrate that our framework significantly outperforms traditional baseline methods, achieving superior outcomes in terms of service utility, delivery rate, and delay reduction. These results highlight the robust potential of our solution to facilitate seamless and high-quality video experiences in the complex and dynamic landscape of vehicular networks, advancing the capabilities of IoV content delivery.
+ER  - 
+
+TY  - JOUR
+T1  - CLIC-IoE — Cross Layers Solution to Improve Communications under IoE
+AU  - Hamrioui, Sofiane
+AU  - Lloret, Jaime
+AU  - Lorenz, Pascal
+JO  - Ad Hoc Networks
+VL  - 170
+SP  - 103777
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2025.103777
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870525000253
+KW  - IoE
+KW  - Next generation applications
+KW  - Communication algorithms
+KW  - Transport
+KW  - Network
+KW  - Reliability
+KW  - Efficiency
+KW  - Collaborative approach
+KW  - QoS parameters
+KW  - Energy efficiency
+AB  - The rapid expansion of connected devices has ushered in the Internet of Everything (IoE), enabling seamless integration among machines, people, and systems across diverse applications. However, the IoE faces significant challenges in ensuring efficient, reliable, and energy-conscious data transmission at scale. To address these issues, we present CLIC-IoE (Cross-Layer Solutions to Improve Communications under IoE), an innovative cross-layer framework designed to significantly enhance communication performance within IoE environments. By intelligently coordinating multiple communication layers, CLIC-IoE achieves remarkable results: a 39.47% reduction in data errors, a 38.33% increase in delivery rates, and a decrease of 0.8 nanoseconds in end-to-end delays. Additionally, it optimizes energy consumption, demonstrating a 51.67% improvement in energy efficiency (CEA) and a 20% boost in Active Things Rate (ATR). These advancements position CLIC-IoE as a transformative solution that enhances the scalability and reliability of IoE systems while promoting sustainable energy use. This manuscript provides a comprehensive exploration of the CLIC-IoE architecture, algorithms, and performance evaluation, emphasizing its potential impact on future IoE deployments. By addressing the critical challenges faced in IoE environments, CLIC-IoE not only enhances communication performance but also paves the way for more sustainable and efficient IoT systems.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing active nodes in MEC environments: A distributed learning-driven framework for application placement
+AU  - Torres-Pérez, Claudia
+AU  - Coronado, Estefanía
+AU  - Cervelló-Pastor, Cristina
+AU  - Palomares, Javier
+AU  - Carmona-Cejudo, Estela
+AU  - Siddiqui, Muhammad Shuaib
+JO  - Computer Networks
+VL  - 257
+SP  - 111008
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111008
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008405
+KW  - Application placement
+KW  - Distributed deep reinforcement learning
+KW  - MEC
+KW  - Scalability
+AB  - Application placement in Multi-Access Edge Computing (MEC) must adhere to service level agreements (SLAs), minimize energy consumption, and optimize metrics based on specific service requirements. In distributed MEC system environments, the placement problem also requires consideration of various types of applications with different entry distribution rates and requirements, and the incorporation of varying numbers of hosts to enable the development of a scalable system. One possible way to achieve these objectives is to minimize the number of active nodes in order to avoid resource fragmentation and unnecessary energy consumption. This paper presents a Distributed Deep Reinforcement Learning-based Capacity-Aware Application Placement (DDRL-CAAP) approach aimed at reducing the number of active nodes in a multi-MEC system scenario that is managed by several orchestrators. Internet of Things (IoT) and Extended Reality (XR) applications are considered in order to evaluate close-to-real-world environments via simulation and on a real testbed. The proposed design is scalable for different numbers of nodes, MEC systems, and vertical applications. The performance results show that DDRL-CAAP achieves an average improvement of 98.3% in inference time compared with the benchmark Integer Linear Programming (ILP) algorithm, and a mean reduction of 4.35% in power consumption compared with a Random Selection (RS) algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - P4+NFV: Optimal offloading from P4 switches to NFV for diverse traffic streams
+AU  - Sharma, Sidharth
+AU  - Lai, Yuan-Cheng
+AU  - Gumaste, Ashwin
+AU  - Lin, Ying-Dar
+JO  - Computer Networks
+VL  - 257
+SP  - 110907
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110907
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007394
+KW  - P4
+KW  - NFV
+KW  - Offloading
+KW  - Optimization
+KW  - Programmability
+KW  - Data plane
+AB  - Software-defined Networking (SDN) is making its mark in the operator networks. The latest generation of SDN switches supporting paradigms such as P4, are paving the way for complete data plane programmability. Though P4 switches enable some newer applications, they do not provide the same agility and scalability offered through fully programmable softwarized data planes of Virtual Network Functions (VNFs). This paper argues that to achieve substantial performance benefits, an operator can take advantage of deploying P4 switches alongside VNFs. The idea is to use the P4 switch as a default packet handler, whereas traffic can be offloaded to an off-site VNF when queues at the switch start to build. To this end, this paper first models the queuing behavior of a networked system with a P4 switch and a VNF to determine the queuing delay induced by such a hybrid architecture. While doing so, the paper considers two different cases of homogeneous and heterogeneous traffic patterns. Subsequently, the paper proposes algorithms for finding optimal traffic offloading, leading to overall delay minimization. The paper showcases significant performance gains of optimally offloading traffic from a P4 switch to a VNF amidst changes in disparate traffic and network parameters through simulations and analytical results. For instance, at moderate loads of homogeneous traffic, optimal offloading yields performance gains of up to 76.44% over a scenario where a P4 switch handles all the packets. For heterogeneous traffic patterns, the results show that the dominant flow’s workload and average packet size can significantly impact the offloading performance.
+ER  - 
