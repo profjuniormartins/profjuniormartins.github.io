@@ -1,0 +1,449 @@
+TY  - JOUR
+T1  - Performance analysis of LoRaWAN underground-to-satellite connectivity: An urban underground pipelines monitoring case study
+AU  - Lin, Kaiqiang
+AU  - Ullah, Muhammad Asad
+AU  - Lei, Lei
+AU  - Alves, Hirley
+AU  - Mikhaylov, Konstantin
+AU  - Hao, Tong
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103747
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103747
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003585
+KW  - Urban underground pipelines monitoring
+KW  - LoRaWAN
+KW  - Underground-to-satellite connectivity
+KW  - Data aggregation
+AB  - Urban underground pipelines (UUPs) serve the cardiovascular system of our society and the cornerstone of various smart city and industrial applications. Although the leakage of UUPs can be effectively detected and localized by utilizing the measurements of different types of sensors, the reliable transmission of sensor data remains challenging in large-scale UUPs monitoring due to the harsh underground conditions and the complex urban environments. Motivated by recent successful integration of LoRaWAN and satellites, we investigate in this study the feasibility of the massive machine-type communication (mMTC) based sensing approach, which utilizes the underground-to-satellite (UtS) connectivity for monitoring large-scale UUPs. Specifically, we consider two alternative network architectures, i.e., underground direct-to-satellite (U-DtS) and underground indirect-to-satellite (U-ItS), and discuss their pros, cons, and trade-offs. To assess the feasibility and performance of U-ItS and UtS in large-scale UUPs monitoring, we develop the Monte Carlo UtS simulator, featuring realistic UUPs deployments, regional LoRaWAN configurations, semi-empirical propagation models, two gateway deployment approaches, and data aggregation for U-ItS. Our results reveal that U-DtS fails to counter underground propagation losses and shadowing effects in urban environments. However, U-ItS is demonstrated as a promising solution for the reliable wireless monitoring of UUPs, whose performance can be further improved by utilizing data aggregation. Finally, we verify that the transmission success probability of U-DtS and U-ItS is strongly affected by the underground parameters, i.e., the burial depth of devices and the volumetric water content of soil.
+ER  - 
+
+TY  - JOUR
+T1  - A deep dive into cybersecurity solutions for AI-driven IoT-enabled smart cities in advanced communication networks
+AU  - Ali, Jehad
+AU  - Kumar Singh, Sushil
+AU  - Jiang, Weiwei
+AU  - Alenezi, Abdulmajeed M.
+AU  - Islam, Muhammad
+AU  - Ibrahim Daradkeh, Yousef
+AU  - Mehmood, Asif
+JO  - Computer Communications
+VL  - 229
+SP  - 108000
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.108000
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366424003475
+KW  - Data privacy
+KW  - Internet of Things
+KW  - Network intelligence
+KW  - Artificial intelligence
+KW  - Cybersecurity solutions
+KW  - Communication security
+KW  - Smart city infrastructure
+AB  - The integration of the Internet of Things (IoT) and artificial intelligence (AI) in urban infrastructure, powered by advanced information communication technologies (ICT), has paved the way for smart cities. While these technologies promise enhanced quality of life, economic growth, and improved public services, they also introduce significant cybersecurity challenges. This article comprehensively examines the complex factors in securing AI-driven IoT-enabled smart cities within the framework of future communication networks. Our research addresses critical questions about the evolving threat, multi-layered security approaches, the role of AI in enhancing cybersecurity, and necessary policy frameworks. We conduct an in-depth analysis of cybersecurity solutions across service, application, network, and physical layers, evaluating their effectiveness and integration potential with existing systems. The study offers a detailed examination of AI-driven security approaches, particularly ML and DL techniques, assessing their applicability and limitations in smart city environments. We incorporate real-world case studies to illustrate successful strategies and show areas requiring further research, especially considering emerging communication technologies. Our findings contribute to the field by providing a multi-layered classification of cybersecurity solutions, assessing AI-driven security approaches, and exploring future research directions. Additionally, we investigate the essential role played by policy and regulatory frameworks in safeguarding smart city security. Based on our analysis, we offer recommendations for technical implementations and policy development, aiming to create a holistic approach that balances technological advancements with robust security measures. This study also provides valuable insights for scholars, professionals, and policymakers, offering a comprehensive perspective on the cybersecurity challenges and solutions for AI-driven IoT-enabled smart cities in advanced communication networks.
+ER  - 
+
+TY  - JOUR
+T1  - A Latency-Aware and Fault-Tolerant Framework for Resource Scheduling and Data Management in Fog-Enabled Smart City Transportation Systems
+AU  - Afzal, Ibrar
+AU  - ul Amin, Noor
+AU  - Ahmad, Zulfiqar
+AU  - Algarni, Abdulmohsen
+JO  - Computers, Materials and Continua
+VL  - 82
+IS  - 1
+SP  - 1377
+EP  - 1399
+PY  - 2025
+DA  - 2025/01/03/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2024.057755
+UR  - https://www.sciencedirect.com/science/article/pii/S154622182500044X
+KW  - Fog computing
+KW  - smart cities
+KW  - smart transportation
+KW  - data management
+KW  - fault tolerance
+KW  - resource scheduling
+AB  - The deployment of the Internet of Things (IoT) with smart sensors has facilitated the emergence of fog computing as an important technology for delivering services to smart environments such as campuses, smart cities, and smart transportation systems. Fog computing tackles a range of challenges, including processing, storage, bandwidth, latency, and reliability, by locally distributing secure information through end nodes. Consisting of endpoints, fog nodes, and back-end cloud infrastructure, it provides advanced capabilities beyond traditional cloud computing. In smart environments, particularly within smart city transportation systems, the abundance of devices and nodes poses significant challenges related to power consumption and system reliability. To address the challenges of latency, energy consumption, and fault tolerance in these environments, this paper proposes a latency-aware, fault-tolerant framework for resource scheduling and data management, referred to as the FORD framework, for smart cities in fog environments. This framework is designed to meet the demands of time-sensitive applications, such as those in smart transportation systems. The FORD framework incorporates latency-aware resource scheduling to optimize task execution in smart city environments, leveraging resources from both fog and cloud environments. Through simulation-based executions, tasks are allocated to the nearest available nodes with minimum latency. In the event of execution failure, a fault-tolerant mechanism is employed to ensure the successful completion of tasks. Upon successful execution, data is efficiently stored in the cloud data center, ensuring data integrity and reliability within the smart city ecosystem.
+ER  - 
+
+TY  - JOUR
+T1  - A Contextual Aware Enhanced LoRaWAN Adaptive Data Rate for mobile IoT applications
+AU  - Lodhi, Muhammad Ali
+AU  - Wang, Lei
+AU  - Farhad, Arshad
+AU  - Qureshi, Khalid Ibrahim
+AU  - Chen, Jenhu
+AU  - Mahmood, Khalid
+AU  - Das, Ashok Kumar
+JO  - Computer Communications
+VL  - 232
+SP  - 108042
+PY  - 2025
+DA  - 2025/02/15/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.108042
+UR  - https://www.sciencedirect.com/science/article/pii/S014036642400389X
+KW  - Smart cities
+KW  - Mobility
+KW  - Internet of Things
+KW  - Intelligent algorithms
+KW  - LoRaWAN
+AB  - Long range wide area network (LoRaWAN) utilize Adaptive Data Rate (ADR) for static Internet of Things (IoT) applications such as smart parking in smart city. Blind ADR (BADR) has been introduced for end devices to manage the resources of mobile applications such as assets tracking. However, the predetermined mechanism of allocating the spreading factors (SFs) to mobile end devices is not adequate in terms of energy depletion. Recently, AI-based solutions to resource allocation have been introduced in the existing literature. However, implementing complex models directly on low-power devices is not ideal in terms of energy and processing power. Therefore, considering these challenges, in this paper, we present a novel Contextual Aware Enhanced LoRaWAN Adaptive Data Rate (CA-ADR) for mobile IoT Applications. The proposed CA-ADR comprises two modes offline and online. In offline mode, we compile a dataset based on successful acknowledgments received by the end devices. Later, dataset is modified by implementing contextual rule-based learning (CRL), following which we train a hybrid CNN-LSTM model. In the online mode, we utilize pre-trained model for efficient resource allocation (e.g., SF) to static and mobile end devices. The proposed CA-ADR has been implemented using TinyML, recommended for low-power and computational devices, which has shown improved results in terms of packet success ratio and energy consumption.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of machine learning in satellite internet of things: A survey of techniques, challenges, and future directions
+AU  - Choquenaira-Florez, Alexander Y.
+AU  - Fraire, Juan A.
+AU  - Pasandi, Hannah B.
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 259
+SP  - 111063
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111063
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000313
+KW  - Satellite ioT
+KW  - Satellite networks
+KW  - Machine learning
+AB  - The drive towards an interconnected world via satellites is reshaping the landscape of communication technologies. This survey comprehensively reviews studies in the Satellite Internet of Things (SIoT) domain, focusing on the role of Machine Learning (ML) techniques. Indeed, the global data collection scale in SIoT is ideally suited for data-intensive and sophisticated ML approaches. We highlight the innovative use of ML to address specific SIoT challenges, aiming to identify current trends, methodologies, and outcomes. We considered theoretical, practical, and experimental research, organizing existing publications into a new taxonomy that intersects ML and SIoT categories. Our taxonomy reveals that Deep Learning (DL), Reinforcement Learning (RL), and Federated Learning (FL) are widely applied to address radio access schemes, resource and network management, and application-specific issues. This survey identifies critical gaps in current research on ML applications in SIoT, such as the lack of differentiation between space-based and ground-based processing, insufficient integration of SIoT-specific metrics, and the oversight of limited computational resources on orbiting satellites. These issues raise concerns about the feasibility and efficiency of proposed solutions. We propose promising research directions based on the derived insights to effectively bridge the gap between ML researchers and industrial SIoT entities.
+ER  - 
+
+TY  - JOUR
+T1  - Electrical losses combat – Detecting theft spots in low voltage networks considering available data from the free energy market
+AU  - Corrêa, Rubens Lucian S.
+AU  - Henriques, Henrique O.
+JO  - Measurement: Energy
+VL  - 5
+SP  - 100040
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2950-3450
+DO  - https://doi.org/10.1016/j.meaene.2025.100040
+UR  - https://www.sciencedirect.com/science/article/pii/S2950345025000077
+KW  - Non-technical losses
+KW  - Temperature sensors
+KW  - Low voltage distribution
+KW  - Backward/forward sweep
+KW  - Power summation method
+AB  - With the advancement of IoT technologies and their increasing prevalence in households in developed countries—such as smart sockets, circuit breakers, lamps, and similar devices—the Brazilian market is also experiencing a growing normalization of these technologies as more residential consumers adopt them. In this context, considering the challenges of non-technical losses, the emerging free energy market in Brazil, and the widespread adoption of smart devices, this paper aims to conduct a top-down analysis of the distribution system, with a focus on the low-voltage network where instances of energy fraud often occur. The proposed method identifies busbars affected by theft and pinpoints the responsible consumers by utilizing thermal sensors (a principle employed in technical loss meters), power flow analysis, and statistical testing based on available average load curves.
+ER  - 
+
+TY  - JOUR
+T1  - Enhanced LR-FHSS receiver for headerless frame recovery in space–terrestrial integrated IoT networks
+AU  - Maldonado, Diego
+AU  - Cardoso, Leonardo S.
+AU  - Fraire, Juan A.
+AU  - Guitton, Alexandre
+AU  - Iova, Oana
+AU  - Kaneko, Megumi
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 257
+SP  - 111018
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111018
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008508
+KW  - Low power wide area networks
+KW  - Long-range frequency hopping spread spectrum
+KW  - LoRa/loRaWAN
+AB  - Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) is a recent IoT modulation technique designed for communication between low-power ground end-devices and Low-Earth Orbit (LEO) satellites. To successfully decode a frame, an LR-FHSS gateway must receive at least one header replica and a substantial portion of the payload fragments. However, the likelihood of LR-FHSS header loss increases with the number of concurrent transmissions. Moreover, Doppler effects (such as the Doppler shift and the Doppler rate) distort the signals the satellites receive. This paper investigates advanced receiver techniques for recovering LR-FHSS frames with lost headers characterized by significant Doppler effects. This paper’s main contribution is specifying and validating a novel LR-FHSS receiver model for space–terrestrial integrated IoT environments. Obtained simulation results prove that our enhanced LR-FHSS receiver can decode a significant portion of the missing frames, improving the overall throughput achievable by using the legacy LR-FHSS receiver.
+ER  - 
+
+TY  - JOUR
+T1  - Energy-efficient multi-hop LoRa broadcasting with reinforcement learning for IoT networks
+AU  - Chen, Xueshuo
+AU  - Mao, Yuxing
+AU  - Xu, Yihang
+AU  - Yang, Wenchao
+AU  - Chen, Chunxu
+AU  - Lei, Bozheng
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103729
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103729
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003408
+KW  - Internet of things (IoT)
+KW  - LPWAN
+KW  - LoRa
+KW  - Broadcasting
+KW  - Energy consumption
+KW  - Reinforcement learning
+AB  - Low power wide area networks (LPWAN) have grown significantly in popularity recently, and long-range (LoRa) technologies have drawn notice as a branch of LPWAN. Nevertheless, most current research primarily concentrates on optimizing communication protocols or mechanisms for the LoRa uplink. Considering the demand for large-scale data distribution in the IoT environment, we propose a novel mechanism for LoRa broadcasting with formula derivation and parameter analysis. This scheme adopts the advantages of both LoRa protocols and multi-hop technology that make the data quickly spread to all devices from the center of an area.This scheme optimizes transmission energy consumption by selecting proper relays to alleviate the problem of power shortage in LoRa devices. In this paper, we design an algorithm based on machine learning and reinforcement learning to reduce transmission costs for LoRa devices. The superiority of the proposed scheme in saving communication resources has been demonstrated compared to traditional methods. When broadcasting data downstream, it can save approximately 87.4% of the time. Moreover, through simulation analysis, the proposed algorithm can save at least 12.61% transmitting energy under constraints comparing with the benchmark algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning-based optimal data retrieval and resource allocation scheme for edge mesh coupled information-centric IoT networks and disability support systems
+AU  - Khan, Wilayat
+AU  - Hassan, Bilal
+AU  - Ahmed, Ramsha
+AU  - Bhutta, Muhammad Nasir
+AU  - Yousaf, Jawad
+AU  - Belwafi, Kais
+AU  - Jleli, Mohamed
+AU  - Samet, Bessem
+AU  - Hassan, Taimur
+JO  - Internet of Things
+VL  - 30
+SP  - 101511
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2025.101511
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660525000241
+KW  - Data caching
+KW  - Internet of things (ioT)
+KW  - Cache refreshing
+KW  - Machine learning (ML)
+KW  - Support vector machines (SVM)
+KW  - Information-centric networking (ICN)
+KW  - Disability support systems
+AB  - Cloud-centric computing, due to its lack of mobility and increased latency, is not suitable for addressing unprecedented challenges within an Internet of Things (IoT) network, especially in the context of disability support systems. However, recent advancements in edge computing provided an alternative to cloud servers by deploying the data processing tasks at the edge level, increasing both the efficiency and throughput of the IoT networks. This paper introduces a novel architecture, dubbed ICN-EdgeMesh, that fuses information-centric networking (ICN) with edge mesh computing to provide optimal data access within an IoT network. Furthermore, we employ Support Vector Machines (SVM) classification models to establish the edge-to-things continuum by allocating the optimal node to each IoT device within the network for retrieving the requested data. Moreover, we evaluate the performance of ICN-EdgeMesh against multiple key factors, where it achieved a high data rate (of 9.1 to 10 Mbps) along with ultra-low latency. In addition, the trained SVM model within the proposed scheme achieved 98.1% accuracy, with a true positive rate of 95.3% and a true negative rate of 98.8%, reflecting the optimal network node allocation for efficient data transmission.
+ER  - 
+
+TY  - JOUR
+T1  - A cyber physical sustainable smart city framework toward society 5.0: Explainable AI for enhanced SDGs monitoring
+AU  - Hassan, Ali H.
+AU  - Ahmed, Elsadig Musa
+AU  - Hussien, Jamal M.
+AU  - Sulaiman, Riza bin
+AU  - Abdulhak, Mansoor
+AU  - Kahtan, Hasan
+JO  - Research in Globalization
+VL  - 10
+SP  - 100275
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2590-051X
+DO  - https://doi.org/10.1016/j.resglo.2025.100275
+UR  - https://www.sciencedirect.com/science/article/pii/S2590051X25000085
+KW  - Smart City Framework
+KW  - SDGs
+KW  - Explainable AI
+KW  - Edge Computing
+KW  - Blockchain
+KW  - Off-chain
+KW  - IoT
+KW  - Cyber-physical system
+AB  - Industry 4.0 has revolutionized modern urbanization and smart cities. However, the relationship between Industry 4.0 technology advances such as Artificial Intelligence (AI) and their impact on the earth, environment, people, and biological ecosystems needs further consideration, particularly during pandemics like COVID-19. This paper proposes a cyber-physical Industry 5.0 framework that is compliant with the Sustainable Development Goals (SDGs) defined by the United Nations (UN) in general and SDG 11 (Sustainable Cities and Communities) in particular. The framework targets three main pillars of SDGs from a technical perspective: global society, economy, and environment. It breaks down the cyber-physical system (CPS) into smaller components, linking them to each of the 17 SDGs and grouping them into broader categories. These components use four leading technologies: blockchain for secure data handling, B5G network function virtualizations, edge-cloud computing for scalable and flexible data processing and AI to deliver insights into the model’s data. This paper addresses the challenge of monitoring the indicators of 17 SDGs by utilizing Industry 5.0 advancements. It offers practical validation of the framework through use cases in energy and water management. Results demonstrate how the framework can enhance SDG monitoring’s precision, transparency, and scalability while providing stakeholders with helpful information.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-level IIOT platform for boosting mines digitalization
+AU  - Miñón, Raúl
+AU  - López-de-Armentia, Juan
+AU  - Bonilla, Lander
+AU  - Brazaola, Aitor
+AU  - Laña, Ibai
+AU  - Palacios, M. Carmen
+AU  - Mueller, Szymon
+AU  - Blaszczak, Michal
+AU  - Zeiner, Herwig
+AU  - Tschuden, Julia
+AU  - Quadri, Mohammad Yusuf
+AU  - Garcia-Milà, Ignasi
+AU  - Bartoli, Andrea
+AU  - Gormolla, Norbert
+AU  - Fernández, Alberto
+AU  - Segarra, Pablo
+AU  - Sanchidrián, José A.
+AU  - Hartlieb, Philipp
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107501
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107501
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004655
+KW  - Mine digitalization
+KW  - Big data
+KW  - Edge
+KW  - Fog
+KW  - Cloud continuum
+AB  - This paper presents an innovative IIoT multi-level platform tailored to address the specific needs of the mining domain. The platform has been conceptualized and built in the context of the illuMINEation European project. For this purpose, mining specific use cases have been designed such as promoting underground safe areas, performing efficient mining operations or boosting predictive maintenance approaches. Then, specific requirements have been identified and, as a result, the platform has been developed. It consists of four-level layered platform: (1) edge devices layer to manage several sensors deployed in the mines; (2) edge box layer to provide in-mine operations such as filtering, streaming and processing; (3) fog layer which offers an overall perspective of each mine; and (4) cloud layer to centralize the data of all the mines and to provide powerful processing capabilities. In addition, the platform is robustly secured in terms of protecting communications confidentiality and access control and also provides a toolbox aimed at manipulating 3D complex images to obtain operable mine-domain novel user interfaces. Finally, a platform validation is proposed where three different use cases are explained to better show and demonstrate the capabilities of the platform.
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing complexities of integrating Renewable Energy Sources into Smart Grid: A comprehensive review
+AU  - Asadi Aghajari, H.
+AU  - Niknam, T.
+AU  - Shasadeghi, M.
+AU  - Sharifhosseini, S.M.
+AU  - Taabodi, M.H.
+AU  - Sheybani, Ehsan
+AU  - Javidi, Giti
+AU  - Pourbehzadi, Motahareh
+JO  - Applied Energy
+VL  - 383
+SP  - 125317
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.125317
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925000479
+KW  - Smart Grid
+KW  - Renewable Energy Source
+KW  - Cyber security attack
+KW  - Low-Voltage Ride-Through
+KW  - Fault ride-through capability
+KW  - Energy storage system
+KW  - Wind Turbine
+KW  - Photovoltaic
+AB  - In modern cities and nations, Smart Grids (SGs) must include Renewable Energy Sources (RESs) to enhance energy efficiency and promote sustainability. Battery-included RESs play an important role in storing surplus energy and injecting it into the grid as needed, enabling better management of electricity consumption. However, as the adoption of RESs in SGs increases, the potential for cyber-attacks, posing significant threats to economic stability, security, and even lives, also grows. Wireless information sharing between agents in SGs increases the risk of these cyber threats, making extensive research necessary to fortify the cybersecurity defenses of RESs within the SG systems. In this paper, the SG’s concepts, infrastructure, and communication technologies are briefly reviewed, and the related challenges — of employing RESs in SGs are thoroughly analyzed. Furthermore, the paper provides a concise analysis of cybersecurity’s critical role in safeguarding the uninterrupted operation of the RES systems against potential cyber threats. By focusing on the integration of RESs into SGs, this study aims to equip emerging researchers with a comprehensive understanding of the realm of RESs. Additionally, it offers recommendations for future research directions, enabling the development of innovative solutions that can enhance the security and reliability of RESs within SG infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - Energy efficient resource management for real-time IoT applications
+AU  - Fereira, Rolden John
+AU  - Ranaweera, Chathurika
+AU  - Lee, Kevin
+AU  - Schneider, Jean-Guy
+JO  - Internet of Things
+VL  - 30
+SP  - 101515
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2025.101515
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660525000289
+KW  - IoT
+KW  - Edge computing
+KW  - Fog computing
+KW  - Convergence
+KW  - Resource allocation
+KW  - Node selection
+AB  - The Internet of Things (IoT) has a large and rapidly expanding number of deployed devices, which leads to a significant global energy consumption footprint. Diverse IoT use cases, including smart cities, smart grids, Industry 5.0, eHealth, and autonomous vehicles, are contributing to this increase in energy consumption. Optimising energy utilisation is crucial to sustaining the exponential growth of IoT applications, which demand stringent delays and latencies measured in milliseconds and microseconds. There are additional complexities with the emergence of edge, fog, and cloud computing and the need to manage the energy consumption at all the layers. In this paper, mechanisms that can be used to minimise energy consumption within an edge–fog–cloud IoT architecture for real-time IoT applications are being proposed. We investigate mechanisms for optimal node selection, primarily focusing on minimising energy usage while adhering to the Quality of Service (QoS) requirements of various IoT requests. The mechanisms include genetic, modified genetic, and delay-aware algorithms tailored explicitly for real-time IoT applications. We evaluated the proposed mechanisms using a simulation of diverse network scenarios. The results presented in the paper provide insight into balancing processing time and energy efficiency, which are critical considerations in sustainably developing IoT applications in an edge–fog–cloud IoT architecture.
+ER  - 
+
+TY  - JOUR
+T1  - Harnessing digital twins and industrial-IoT for cutting-edge mining automation: A methodological and technology assessment prototype
+AU  - Sreedharan, Sreekant
+AU  - Ramachandran, Muthu
+AU  - Ramesh, Dharavath
+JO  - Computers & Industrial Engineering
+VL  - 201
+SP  - 110871
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2025.110871
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835225000166
+KW  - Industrial IoT
+KW  - Mining 4.0
+KW  - Edge and distributed computing
+KW  - Smart infrastructure
+KW  - Real-time operating systems
+KW  - Wireless mesh networking
+KW  - Distributed automation
+AB  - The projection indicates that by 2025, more than 41.6 billion IoT devices will be active, generating a staggering 80 zettabytes (ZB) of data collectively. Despite the widespread integration of smart devices across various sectors like smart homes, wearable’s, smart cities, and workplaces, the mining industry has been comparatively slow in adopting innovative technologies. However, it is essential to recognize the vital role played by the mining sector in powering energy systems, manufacturing components for smart devices, and employing over 4.5 million individuals globally, often in demanding and harsh conditions. This paper presents a prototype Industrial IoT and Digital Twin platform to optimize industrial automation in traditional mining operations. Moreover, it proposes a digital twin reference architecture employing Business Process Modeling Notation (BPMN) and simulation techniques to validate the reference architecture within a mining context. The results indicate an impressive 98% accuracy achieved within a time frame of 10.25 s.
+ER  - 
+
+TY  - JOUR
+T1  - Lightweight authenticated key exchange for low-power IoT networks using EDHOC
+AU  - Arias-Jimenez, Alejandro
+AU  - Gallego-Madrid, Jorge
+AU  - Sanchez-Gomez, Jesus
+AU  - Marin-Perez, Rafael
+JO  - Internet of Things
+VL  - 31
+SP  - 101539
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2025.101539
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660525000526
+KW  - IoT
+KW  - SCHC
+KW  - EDHOC
+KW  - LPWAN
+AB  - Energy efficiency is crucial for battery-powered devices in constrained networks, especially in Smart Agriculture and Smart Cities scenarios. To maximize battery life and ensure secure communications, lightweight key exchange protocols like Ephemeral Diffie–Hellman Over COSE (EDHOC) are essential. To further optimize energy efficiency, EDHOC can be combined with the Static Context Header Compression (SCHC) protocol, which is designed to compress and fragment data packets. This work demonstrates that EDHOC and SCHC can be successfully integrated to establish secure session keys in Internet of Things (IoT) scenarios. The attained results showcase that security mechanisms can be implemented in resource-limited devices with minimal energy impact, extending battery life. The experiments showed it is possible to compress the EDHOC exchange messages up to a ∼54% and to reduce the energy consumption by a ∼20%, while maintaining the CPU time levels in a cost-effective way. By designing IoT devices with these directives, it is possible to reduce the overall environmental footprint and increase the devices’ operational lifespan.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of fault tolerance techniques for smart city applications
+AU  - de Souza, Kathiani Elisa
+AU  - Ferrari, Fabiano Cutigi
+AU  - de Camargo, Valter Vieira
+AU  - Ribeiro, Márcio
+AU  - Offutt, Jeff
+JO  - Journal of Systems and Software
+VL  - 219
+SP  - 112249
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112249
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224002930
+KW  - Smart cities
+KW  - Smart city applications
+KW  - Dependability
+KW  - Fault tolerance
+KW  - Systematic review
+AB  - Smart City Applications encompass many characteristics that increase the risk of failures, such as context-awareness, adaptiveness, distribution and heterogeneity. Therefore, it is important to implement fault-tolerant mechanisms to produce more reliable applications. This study presents a systematic literature review of fault tolerance techniques that have been proposed for, or applied to Smart City Applications. It also characterizes faults, errors and failures that may occur in these systems. To the best of our knowledge, this is the first review that provides a broad picture of the research area and points out research limitations and directions. We selected 43 primary studies and performed initial classifications (e.g., based on type of research, type of contribution, application domains and subdomains, and type of system architecture). We further classified and discussed the selected studies based on types of fault tolerance techniques and types of faults and failures. System Reconfiguration, Diversity, and Retry are classical techniques that have been investigated in this domain. Many fault and failure types have also been addressed. While those well-known techniques have been explored for introducing fault tolerance capabilities into Smart City Applications, others have been overlooked. Moreover, evidence on the effectiveness and applicability of the proposed fault tolerance solutions is still very limited. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board.
+ER  - 
+
+TY  - JOUR
+T1  - An environmental remote sensing and prediction model for an IoT smart irrigation system based on an enhanced wind-driven optimization algorithm
+AU  - Khalifeh, Ala’ F.
+AU  - Alqammaz, Abdullah
+AU  - Khasawneh, Ahmad M.
+AU  - Abualigah, Laith
+AU  - Darabkh, Khalid A.
+AU  - Zinonos, Zinon
+JO  - Computers and Electrical Engineering
+VL  - 122
+SP  - 109889
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109889
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624008152
+KW  - Artificial intelligence (AI)
+KW  - Internet of Things (IoT)
+KW  - Low power wide area networks (LPWAN)
+KW  - Machine learning
+KW  - Prediction
+KW  - Precision agriculture
+KW  - Smart agriculture
+KW  - Wind-driven optimization
+AB  - The emergence of new technologies such as Machine Learning (ML) and the Internet of Things (IoT) has revolutionized several applications and industries. Smart agriculture and irrigation are among these industries that witnessed tremendous advancement in how environmental and agricultural-related data are remotely sensed, collected, presented, and analyzed. This paper presents a smart irrigation system based on the IoT and ML to provide farmers with an efficient way to remotely sensing the environmental and agricultural-related parameters such as air temperature, pressure, humidity, and soil moisture. These data are sent wirelessly using long range wireless area networks (LoRaWAN) and stored in the cloud to be used to predict the future parameters’ values utilizing a novel enhanced wind-driven optimization-least square support vector machine (EWDO-LSSVM) algorithm. The proposed algorithm significantly improves the accuracy of predicting irrigation-related data, thus assisting farmers in making smart decisions about when and how to irrigate their farms. The presented results demonstrate that the EWDO-LSSVM outperforms both the adaptive wind-driven optimization (AWDO-LSSVM) and the original wind-driven optimization (WDO-LSSVM) algorithms, particularly in terms of the normalized root mean square error (NRMSE) and the root mean square error (RMSE) metrics. The findings of this paper reveal that EWDO-LSSVM outperformed other models with a prediction accuracy up to 87.50% for all the parameters and forecasting periods, hence making the proposed model more accurate for smart irrigation systems.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the synergy between circular economy and emerging technologies for transportation infrastructure: A systematic literature review
+AU  - Yildizbasi, Abdullah
+AU  - Celik, Salim Eray
+AU  - Arioz, Yagmur
+AU  - Chen, Zhuowen
+AU  - Sun, Lihua
+AU  - Ozturk, Cihat
+JO  - Journal of Cleaner Production
+VL  - 486
+SP  - 144553
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2024.144553
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652624040022
+KW  - Transportation
+KW  - Circular economy
+KW  - Emerging technologies
+KW  - Digitalization
+KW  - Infrastructure
+AB  - The urgent need to mitigate greenhouse gas emissions, particularly from the transportation sector, a major contributor to environmental degradation, underscores the necessity for transitioning to sustainable, resource-efficient systems. Circular economy (CE) principles provide a promising framework by emphasizing resource optimization, waste reduction, and the extension of asset life cycles while emerging digital technologies such as the Internet of Things (IoT), artificial intelligence (AI), blockchain, and 3D printing are instrumental in driving this transition by enhancing resource flow optimization, predictive maintenance, and real-time decision-making. This study uses the PRISMA methodology to critically analyze the existing literature and propose a theory-supported framework through a systematic literature review. The conceptual framework and theoretical propositions present the triad interaction between circular economy (CE) practices and digital technologies within the context of transportation infrastructure. This integration of relevant theories is key to enhancing practical applications for improved efficiency, while also promoting circular economy practices in transportation using these technologies. This study provides a foundation for future research and practical applications, contributing to a more sustainable and resource-efficient transportation sector. Furthermore, it expands the understanding of how digital technologies can support the circular economy in transportation infrastructure—an area that has so far received limited academic attention.
+ER  - 

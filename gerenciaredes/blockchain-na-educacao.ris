@@ -1,0 +1,601 @@
+TY  - JOUR
+T1  - Automatic Publication of Data to Data- and Service Ecosystems from the Shopfloor
+AU  - Gast, Fabian
+AU  - Berchtenbreiter, Viktor
+AU  - Dumss, Stefan
+AU  - Gehrer, Roman
+AU  - Weißenbach, Paul
+AU  - Weigold, Matthias
+AU  - Grafinger, Manfred
+JO  - Procedia CIRP
+VL  - 130
+SP  - 1589
+EP  - 1597
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 57th CIRP Conference on Manufacturing Systems 2024 (CMS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.10.287
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124014446
+KW  - System architecture
+KW  - Service
+KW  - Integration
+KW  - Manufacturing network
+AB  - In the manufacturing sector, vast volumes of data are generated at the field layer, offering valuable insights into the quality of produced parts, process efficiency, and various other applications. Traditionally, these data have been managed and analyzed through centralized infrastructures either in a cloud or on-premise. However, to tackle trust-related concerns from data providers and enable value creation through services by external companies, the concept of data spaces and ecosystems has emerged. Multiple drafts for standards for ecosystems exist; all offering different approaches for trustful cross-company collaboration. Notably, the Gaia-X initiative aims to establish a federated and sovereign data infrastructure. This paper introduces a novel approach for automatically publishing production data and associated services to multiple instances of such ecosystems directly from the shopfloor by deploying microservices on edge devices close to the machine. The developed architecture combines data acquisition of machine data through standards like OPC UA, creation of verifiable metadata description for the collected data sets, and publishing the metadata to different data and service ecosystems adhering to the Gaia-X standard, enabling trustful machine-to-machine connections. It is shown how services like data storage, ERP/MES, and asset management systems can be seamlessly deployed along the cloud edge continuum into this process. This approach fosters data integrity, sovereignty and enables coherent integration within the evolving cooperative manufacturing landscape.
+ER  - 
+
+TY  - JOUR
+T1  - A probabilistic reliable linguistic model for blockchain-based student information management system assessment
+AU  - Asamoah, Kwame Omono
+AU  - Darko, Adjei Peter
+AU  - Antwi, Collins Opoku
+AU  - Sey, Collins
+AU  - Osei, Abigail Hyiaman
+AU  - Ma, Xiaodong
+AU  - Zhu, Jia
+JO  - Applied Soft Computing
+VL  - 159
+SP  - 111645
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2024.111645
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494624004198
+KW  - Multi-criteria decision-making
+KW  - Probabilistic reliable linguistic term sets
+KW  - MARCOS
+KW  - Blockchain technology, Student information management system
+AB  - The growing necessity for robust security and trust in systems has prompted the widespread adoption of blockchain technology in student information management systems (SIMS). While existing literature has concentrated on the development of blockchain-based student information management systems (BC-SIMS), a notable gap remains in the evaluation of these systems. This study addresses this gap by employing a Multi-Criteria Decision-Making (MCDM) approach. Recognizing the inherent uncertainties in BC-SIMS evaluation due to inadequate information, the study introduces the Probabilistic Reliable Linguistic Term Sets (PRLTSs) theory to address these problems. As a result, the Measurement of Alternatives and Ranking according to the Compromise Solution (MARCOS) method is extended into the Probabilistic Reliable Linguistic environment, resulting in the Probabilistic Reliable Linguistic-Measurement of Alternatives and Ranking according to the Compromise Solution (PRL-MARCOS) method. This method supports the evaluation and selection decisions on BC-SIMS in higher education institutions. The study further designs the Probabilistic Reliable Linguistic-Coefficient of Variation (PRL-CV) method to determine the relative importance of selection criteria. Twenty selection criteria for BC-SIMS are identified through a literature review, and an illustrative case study is employed to assess the practicality and validity of the proposed PRL-CV-MARCOS approach in a higher educational institution. Experimental results highlight cost reduction (0.0778), interoperability (0.0717), security (0.0628), service improvement (0.0557) and responsiveness (0.0538) as the top five criteria for BC-SIMS selection, with BC-SIMS P5 identified as the optimal solution for managing student information. Finally, a comprehensive comparative and sensitivity analysis verifies the stability and effectiveness of the proposed decision support model.
+ER  - 
+
+TY  - JOUR
+T1  - D-VRE: From a Jupyter-enabled Private Research Environment to Decentralized Collaborative Research Ecosystem
+AU  - Wang, Yuandou
+AU  - Tripathi, Sheejan
+AU  - Farshidi, Siamak
+AU  - Zhao, Zhiming
+JO  - Blockchain: Research and Applications
+SP  - 100244
+PY  - 2024
+DA  - 2024/12/16/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2024.100244
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720924000575
+KW  - Blockchain
+KW  - Jupyter
+KW  - Secure Data Sharing
+KW  - User-centric Policy-Making
+KW  - Virtual Research Environment
+KW  - Web 3.0
+AB  - Today, scientific research is increasingly data-centric and compute-intensive, relying on data and models across distributed sources. However, it still faces challenges in the traditional cooperation mode, due to the high storage and computing cost, geo-location barriers, and local confidentiality regulations. The Jupyter environment has recently emerged and evolved as a vital virtual research environment for scientific computing, which researchers can use to scale computational analyses up to larger datasets and high-performance computing resources. Nevertheless, existing approaches lack robust support of a decentralized cooperation mode to unlock the full potential of decentralized collaborative scientific research, e.g., seamlessly secure data sharing. In this work, we change the basic structure and legacy norms of current research environments via the seamless integration of Jupyter with Ethereum blockchain capabilities. As such, it creates a Decentralized Virtual Research Environment (D-VRE) from private computational notebooks to decentralized collaborative research ecosystem. We propose a novel architecture for the D-VRE and prototype some essential D-VRE elements for enabling secure data sharing with decentralized identity, user-centric agreement-making, membership, and research asset management. To validate our method, we conducted an experimental study to test all functionalities of D-VRE smart contracts and their gas consumption. In addition, we deployed the D-VRE prototype on a test net of the Ethereum blockchain for demonstration. The feedback from the studies showcases the current prototype's usability, ease of use, and potential and suggests further improvements.
+ER  - 
+
+TY  - JOUR
+T1  - Effecting the adoption of blockchain technology enablers in supply chain sustainability with green hydrogen acceptance role as a mediator: Evidence from complex decarbonization industries in the United Arab Emirates
+AU  - Mothafar, Nora A.
+AU  - Zhang, Jingxiao
+AU  - Alsoffary, Amani
+AU  - Aslam, Muhammed Ali
+AU  - AL-Barakani, Abdo
+AU  - Alhady, Osama S.
+AU  - Esangbedo, Caroline Olufunke
+AU  - Kone, Seydou Dramane
+JO  - International Journal of Hydrogen Energy
+VL  - 84
+SP  - 1085
+EP  - 1100
+PY  - 2024
+DA  - 2024/09/26/
+SN  - 0360-3199
+DO  - https://doi.org/10.1016/j.ijhydene.2024.08.243
+UR  - https://www.sciencedirect.com/science/article/pii/S0360319924034062
+KW  - Blockchain technology enablers
+KW  - Green hydrogen
+KW  - Sustainable supply chain
+KW  - Complex decarbonization industries
+KW  - Structural equation modeling
+AB  - The industrial sector is undergoing a pervasive digital transformation in the current landscape, particularly in steel, cement, chemicals, and refineries. These are collectively termed "complex decarbonization industries (CDI)," where reducing emissions poses a significant challenge. Green hydrogen (GH) production, conducted sustainability, represents an innovative solution that facilitates energy storage and reduces reliance on fossil fuels. However, producing green hydrogen requires effective management and flexible strategic decisions to ensure transparency and environmental friendliness. This paper utilizes blockchain technology enablers (BCTE) to track carbon emissions and ensure the origin of green gas in these sectors while independently exploring its relationship to a sustainable supply chain (SSC). GH is presented as a mediating variable in this relationship. Utilizing a cross-sectional methodology, the research gathered data via interviews and an online survey from 462 employees in companies participating in the 2022 Shams Dubai program under the aegis of the Dubai Electricity and Water Authority in the UAE. The Structural Equation Modeling - Analysis of Moment Structures (SEM-AMOS) technique was used to perform the statistical analyses. Based on interviews and survey results in the UAE's CDI, the findings show that BCTE directly impacts SSC's social and environmental dimensions, while its effect on the economic dimension is negative. However, when GH mediated this relationship, the results were indirectly positive in enhancing the SSC in complex decarbonization industries without any negative environmental effects. Adopting GH is a way to reward sustainable behavior. The findings of this study could inform the UAE's policymaking, particularly in designing incentives for GH adoption in industrial sectors and creating regulatory frameworks that encourage BCTE integration for energy tracking and emissions reduction. This approach could serve as a model for similar economies striving for sustainable industrial practices.
+ER  - 
+
+TY  - JOUR
+T1  - An IoT-fuzzy intelligent approach for holistic management of COVID-19 patients
+AU  - Rahman, Muhammad Zia Ur
+AU  - Akbar, Muhammad Azeem
+AU  - Leiva, Víctor
+AU  - Martin-Barreiro, Carlos
+AU  - Imran, Muhammad
+AU  - Riaz, Muhammad Tanveer
+AU  - Castro, Cecilia
+JO  - Heliyon
+VL  - 10
+IS  - 1
+SP  - e22454
+PY  - 2024
+DA  - 2024/01/15/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2023.e22454
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844023096627
+KW  - Arduino microcontroller
+KW  - Fuzzy logic
+KW  - Internet of things
+KW  - Mobile application
+KW  - Personalized medicine
+KW  - SARS-Cov2
+KW  - Telemetry
+AB  - In this study, an internet of things (IoT)-enabled fuzzy intelligent system is introduced for the remote monitoring, diagnosis, and prescription of treatment for patients with COVID-19. The main objective of the present study is to develop an integrated tool that combines IoT and fuzzy logic to provide timely healthcare and diagnosis within a smart framework. This system tracks patients' health by utilizing an Arduino microcontroller, a small and affordable computer that reads data from various sensors, to gather data. Once collected, the data are processed, analyzed, and transmitted to a web page for remote access via an IoT-compatible Wi-Fi module. In cases of emergencies, such as abnormal blood pressure, cardiac issues, glucose levels, or temperature, immediate action can be taken to monitor the health of critical COVID-19 patients in isolation. The system employs fuzzy logic to recommend medical treatments for patients. Sudden changes in these medical conditions are remotely reported through a web page to healthcare providers, relatives, or friends. This intelligent system assists healthcare professionals in making informed decisions based on the patient's condition.
+ER  - 
+
+TY  - JOUR
+T1  - Application Models and Practical Challenges of blockchain Technology in The Field of Higher Education in Iraq
+AU  - Muslam Abid Ali, Alaa Abid
+AU  - kadhem, Rasha
+AU  - Mabrouk, Mohamed
+JO  - Procedia Computer Science
+VL  - 246
+SP  - 3723
+EP  - 3732
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 28th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES 2024)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.09.184
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092402194X
+KW  - blockchain
+KW  - Technology
+KW  - Smart Contracts
+KW  - Higher Education
+KW  - E-Learning
+AB  - Purpose: higher education is facing many challenges. Even though the implementation of e-learning systems in some Iraqi universities, they remain in the early phase of development. In this work, we proposed e-learning model based blockchain to address the challenges that can face the uses of e-learning in higher education of Iraq. Design/Approach/Methods: we suggest a system-based blockchain technology for multi-party interaction of institute student and teachers. The system consists of teacher module and student module. The two modules are connected through interactive links such as teaching and online and offline Q&A. Findings:the application of blockchain technology will bring more revolutionary changes and innovations in the field of education. This paper conducts in-depth practice and summary from the application level of blockchain technology, hoping to provide useful inspiration and reference for the innovation of the scope of higher education in Iraq. Originality/Value: This research aims to give a comprehensive vision of Iraq’s attempts to transition to digital education and while addressing the usual education problems and mentioning the advantages and obstacles it faces. also built for the mechanism of training and granting grades to educational institutions in a way that ensures ease of communication and the provision of information.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic state-of-art review on digital identity challenges with solutions using conjugation of IOT and blockchain in healthcare
+AU  - Jena, Sanjay Kumar
+AU  - Barik, Ram Chandra
+AU  - Priyadarshini, Rojalina
+JO  - Internet of Things
+VL  - 25
+SP  - 101111
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101111
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524000532
+KW  - Blockchain
+KW  - Digital identity
+KW  - Internet of Things
+KW  - Internet of Medical Things
+KW  - Healthcare
+AB  - Digital Identity is a prominent practice across every digital platform for maintaining confidentiality and privacy. The demand for Internet of Things (IoT) and its allied technologies such as Internet of Medical Things (IoMT), the Industrial Internet of Things (IIoT), and the Internet of Video Things (IoVT) is constantly on the rise in both wired and wireless domains. IoT communications emerge as a major challenge for digital identity-based security solutions in the areas of healthcare, transportation, and their allied applications. This paper addresses the different aspects of digital identity for security preservation and maintenance in IoT and blockchain based solutions. It focuses on Confidentiality, Integrity, and Availability (CIA) issues and corresponding digital identity solutions using the duo. The writers perused over 112 publications and shared their findings on cutting-edge technologies related to Digital Identity (DId) in the healthcare industry.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 6 - Blockchain strategies for medicine and health science
+AU  - Keerthika, P.
+AU  - Manjula Devi, R.
+AU  - Suresh, P.
+AU  - Sangeetha, M.
+AU  - Sagana, C.
+AU  - Devendran, K.
+A2  - Dhanaraj, Rajesh Kumar
+A2  - Vashishtha, Srishti
+A2  - Sathyamoorthy, Malathy
+A2  - Balusamy, Balamurugan
+A2  - Cengiz, Korhan
+BT  - Metaverse Technologies in Healthcare
+PB  - Academic Press
+SP  - 103
+EP  - 133
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 978-0-443-13565-1
+DO  - https://doi.org/10.1016/B978-0-443-13565-1.00015-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443135651000154
+KW  - Blockchain technology
+KW  - Genomic data
+KW  - Healthcare
+KW  - Healthcare data security
+KW  - Medical credentialing
+KW  - Supply chain management
+AB  - Blockchain technology has gained significant attention in the healthcare industry for its potential to address various challenges related to data security, privacy, and interoperability. This research paper explores the application of blockchain in healthcare, focusing on health record maintenance with multilevel authentication, medical supply chain management, medical credentialing, and securing genomic data. The first aspect of the study investigates how blockchain can enhance health record maintenance by implementing multilevel authentication mechanisms. By leveraging the distributed and immutable nature of the blockchain, patient health records can be securely stored and accessed with strong authentication protocols, ensuring data integrity and confidentiality. The use of smart contracts enables fine-grained access control, granting authorized healthcare providers access to specific patient information while protecting patient privacy. The second aspect of the research examines the application of blockchain in medical supply chain management. The transparency and traceability offered by blockchain can help address issues such as counterfeit drugs, supply chain inefficiencies, and product recalls. Blockchain-based systems can provide real-time tracking of pharmaceutical products, verifying the authenticity and provenance of drugs, and reducing the risk of substandard or counterfeit medications entering the market. The third aspect focuses on the utilization of blockchain for medical credentialing. Medical professionals undergo a complex verification and credentialing process, involving qualifications, work history, certifications, and references. Blockchain-based credentialing systems can streamline this process by securely storing and verifying credentials, facilitating trusted information sharing between healthcare organizations, insurance providers, and regulatory bodies. The final aspect of the study explores the use of blockchain to secure genomic data. Genomic data are highly sensitive and valuable, and blockchain offers a decentralized and immutable platform for securely storing and sharing this information. By utilizing blockchain's features such as data encryption, consent management, and traceability, individuals can retain control over their genomic data while enabling secure and transparent data sharing for research and clinical purposes. Overall, this research paper highlights the potential of blockchain technology in addressing critical healthcare challenges. The findings demonstrate that blockchain-based solutions can enhance health record maintenance, improve medical supply chain management, streamline medical credentialing processes, and secure genomic data. However, further research, collaboration, and standardization efforts are necessary to overcome technical, regulatory, and privacy-related obstacles for the widespread adoption of blockchain in healthcare.
+ER  - 
+
+TY  - JOUR
+T1  - Post-quantum healthcare: A roadmap for cybersecurity resilience in medical data
+AU  - SaberiKamarposhti, Morteza
+AU  - Ng, Kok-Why
+AU  - Chua, Fang-Fang
+AU  - Abdullah, Junaidi
+AU  - Yadollahi, Mehdi
+AU  - Moradi, Mona
+AU  - Ahmadpour, Sima
+JO  - Heliyon
+VL  - 10
+IS  - 10
+SP  - e31406
+PY  - 2024
+DA  - 2024/05/30/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e31406
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024074371
+KW  - Post-quantum
+KW  - Healthcare
+KW  - Cybersecurity
+KW  - Resilience
+KW  - Medical data
+KW  - Threats
+KW  - Roadmap
+AB  - As healthcare systems transition into an era dominated by quantum technologies, the need to fortify cybersecurity measures to protect sensitive medical data becomes increasingly imperative. This paper navigates the intricate landscape of post-quantum cryptographic approaches and emerging threats specific to the healthcare sector. Delving into encryption protocols such as lattice-based, code-based, hash-based, and multivariate polynomial cryptography, the paper addresses challenges in adoption and compatibility within healthcare systems. The exploration of potential threats posed by quantum attacks and vulnerabilities in existing encryption standards underscores the urgency of a change in basic assumptions in healthcare data security. The paper provides a detailed roadmap for implementing post-quantum cybersecurity solutions, considering the unique challenges faced by healthcare organizations, including integration issues, budget constraints, and the need for specialized training. Finally, the abstract concludes with an emphasis on the importance of timely adoption of post-quantum strategies to ensure the resilience of healthcare data in the face of evolving threats. This roadmap not only offers practical insights into securing medical data but also serves as a guide for future directions in the dynamic landscape of post-quantum healthcare cybersecurity.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review on blockchain in electronic prescriptions and electronic medical records using PRISMA methodology in databases
+AU  - Ramirez Lopez, Leonardo Juan
+AU  - Buitrago Pineda, Paula Alejandra
+AU  - Perez Rincon, Juan Manuel
+AU  - Rojas Reales, Wilson Mauro
+JO  - Informatics in Medicine Unlocked
+VL  - 50
+SP  - 101525
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2352-9148
+DO  - https://doi.org/10.1016/j.imu.2024.101525
+UR  - https://www.sciencedirect.com/science/article/pii/S2352914824000819
+KW  - Blockchain in healthcare
+KW  - Electronic medical records
+KW  - Electronic prescriptions
+KW  - Medication traceability
+KW  - Medication errors
+AB  - This study offers a comprehensive review of the impact of blockchain technology on healthcare, focusing on electronic medical records, electronic prescriptions, and the issue of medication errors. The implementation of blockchain guarantees the traceability and authenticity of medications, improving security in delivery to patients and preventing the introduction of fake products. The security and privacy of medical records and prescriptions using blockchain is highlighted, with examples such as VIDwallet highlighting the protection of patient privacy. To support these claims, the PRISMA methodology is adopted in an analysis of articles from various databases, such as Scopus, Web of Science Group, Plos One and ScienceDirect. Inclusion and exclusion criteria are applied, prioritizing review type documents and considering the distribution of publications by authors, subject areas and years. This rigorous methodological approach contributes to the reliability and validity of the results presented in the review.
+ER  - 
+
+TY  - JOUR
+T1  - An agnostic and secure interoperability protocol for seamless asset movement
+AU  - Diallo, El-hacen
+AU  - Dieye, Mohameden
+AU  - Dib, Omar
+AU  - Valiorgue, Pierre
+JO  - Journal of Network and Computer Applications
+VL  - 230
+SP  - 103930
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.103930
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804524001073
+KW  - Blockchain interoperability
+KW  - Cross-chain communication
+KW  - Assets movement
+KW  - Incentive smart contract
+KW  - Zero-Knowledge Proofs (ZKP)
+AB  - As blockchain technology continues to evolve, it has fostered an extensive ecosystem of applications and platforms. This dynamic landscape is characterized by a myriad of innovative solutions, ranging from decentralized finance and supply chain management to digital identity and voting systems, each contributing to the ongoing advancement and adoption of blockchain technology across various sectors. Achieving interoperability among these applications and platforms poses a significant challenge due to their use of distinct protocols, and remains a bottleneck hindering the widespread adoption of blockchain technologies. Addressing this challenge requires designing a universal interoperability protocol while ensuring compliance with the security and privacy constraints specific to each blockchain, thus adding complexity. We propose an agnostic interoperability protocol designed for seamless asset movement across independent private blockchain networks, regardless of their individual protocols. This protocol leverages incentive-driven smart contract and Zero-Knowledge Proofs to establish a decentralized, secure, and privacy-focused framework for interoperability. We conduct a security analysis using game theory and provide both theoretical and empirical evaluations of the protocol end-to-end delay. Through a comprehensive use case, we demonstrate the secure deployment of the proposed protocol for asset movement between two private blockchains. We also discuss the trade-offs between cost and delay in cross-blockchain transactions. Furthermore, a comparative analysis with existing interoperability schemes showcases the proposed interoperability scheme superiority in terms of robustness, privacy preservation, and verifiability.
+ER  - 
+
+TY  - JOUR
+T1  - Expedition to the blockchain application potential for higher education institutions
+AU  - Gottlieb, Matthias
+AU  - Deutsch, Christina
+AU  - Hoops, Felix
+AU  - Pongratz, Hans
+AU  - Krcmar, Helmut
+JO  - Blockchain: Research and Applications
+VL  - 5
+IS  - 3
+SP  - 100203
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2024.100203
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720924000162
+KW  - Blockchain
+KW  - Higher education institution (HEI)
+KW  - Administration
+KW  - Protocol level
+KW  - Application level
+KW  - Application
+AB  - In the education sector, blockchain is currently at the end of the peak of inflated expectations in Gartner’s Hype Cycle. Thus, it is crucial to understand whether this technology meets the expectations of Higher Education Institutions (HEIs). We go on an expedition to identify blockchain application scenarios and its potential for HEI administration—the universities are digitalized to just 23.3%. Current information systems research addresses classifications of blockchain-based projects (application level) rather than their technical realization (protocol level). Thus, when evaluating blockchain application scenarios in HEI administration, we intensively consider the technical side of blockchain-based projects. We perform a three-step approach: (1) systematic literature review, (2) qualitative exploratory semi-structured interviews to supplement information on market-ready solutions, and (3) an evaluation of the potential of the blockchain-based projects identified, based on HEI administration requirements. We find that the leading blockchain application scenarios are credential verification and record-sharing. At the protocol level, we obtain equivocal results regarding the technical realization of projects, e.g., their underlying blockchain types and storage models. At the application level, when discussing the potential of different projects, we find that most of them address adaptability, complexity decomposition, and cost reduction requirements between HEIs; interest diversity and stakeholder collaboration between HEIs and business actors; privacy and trust between HEIs and students.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating blockchain technology within an information ecosystem
+AU  - Salzano, Francesco
+AU  - Marchesi, Lodovica
+AU  - Pareschi, Remo
+AU  - Tonelli, Roberto
+JO  - Blockchain: Research and Applications
+VL  - 5
+IS  - 4
+SP  - 100225
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2024.100225
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720924000381
+KW  - Information system
+KW  - Blockchain
+KW  - Blockchain oriented software engineering (BOSE)
+KW  - Blockchain as a service (BaaS)
+KW  - Identity management system (IMS)
+AB  - Context: Blockchain-based information ecosystems (BBIEs) are a type of information ecosystem in which blockchain technology is used to provide a trust mechanism among parties and to manage shared business logic, breaking the traditional scheme of information ecosystems dominated by a leading company and leveraging the decentralization of data management, information flow, and business logic. Objective: In this paper, we'd like to propose an architecture and the technical aspects concerning creating a BBIE, underlining the supplied advantages and the logic decomposition among the business and storage components. Method: The requirements are derived from the current needs of the collaborative business and the data collected by surveying practitioners. To meet these needs, we followed the Grounded Theory research approach. We validate our architectural schema against a case study on managing a wine supply chain involving different companies and supervision authorities. Results: The proposed solution integrates blockchain-based applications with the existing information system as a module of the ecosystem, leveraging on the low costs, scalability, and high-level security because of the restricted access to the network. Conclusion: We must go a long way in deepening and refining the possibilities offered by technology in supporting innovative multi-organizational business models. BBIEs can contribute substantially to paving the way in such a direction.
+ER  - 
+
+TY  - JOUR
+T1  - Technological perspectives of Metaverse for financial service providers
+AU  - Aysan, Ahmet Faruk
+AU  - Gozgor, Giray
+AU  - Nanaeva, Zhamal
+JO  - Technological Forecasting and Social Change
+VL  - 202
+SP  - 123323
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2024.123323
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162524001197
+KW  - Technological forecasting
+KW  - Metaverse
+KW  - NFT
+KW  - Virtual real estates
+KW  - Cryptocurrencies
+KW  - Digital assets
+AB  - Most banking institutions are inadequately prepared for the ongoing integration of technology, including the digitalization of financial services, the advent of the Metaverse, and the emergence of Web 3.0. While other sectors are making strides in navigating virtual environments, financial institutions appear to be trailing. Concurrently, the nascent ecosystem of the Metaverse presents promising opportunities for businesses and industries, potentially revolutionizing economic models, governance frameworks, and ethical paradigms. This study aims to contribute to the emerging discourse on the provision of financial services within the Metaverse. The paper envisages virtual reality's future financial services landscape using a scenario-based technological foresight approach. This research is the first attempt to map the comprehensive landscape of financial services in the Metaverse, both in the present context and the foreseeable future. The paper delineates the economy of the Metaverse, its key sectors, and its enablers. It overviews the initial experiences with virtual financial services and proposes potential prospects for financial institutions operating within the Metaverse. This study, therefore, serves as a foundational reference for understanding the evolving dynamics of financial services in the virtual realm.
+ER  - 
+
+TY  - JOUR
+T1  - Trust framework for self-sovereign identity in metaverse healthcare applications
+AU  - Ling, Alan
+AU  - Butakov, Sergey
+JO  - Data Science and Management
+VL  - 7
+IS  - 4
+SP  - 304
+EP  - 313
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2666-7649
+DO  - https://doi.org/10.1016/j.dsm.2024.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2666764924000274
+KW  - Self-sovereign identity (SSI)
+KW  - Healthcare
+KW  - Metaverse
+KW  - Privacy
+KW  - Decentralization
+KW  - Trust framework
+AB  - The research community and digital sector are currently engaged in the development of diverse services within the metaverse ecosystems. Conversely, as concerns about safeguarding personal privacy mount, individuals anticipate exercising greater authority over the way third parties make use of sensitive information, such as medical data. This study aims to develop tools that can facilitate the provision of healthcare services within the metaverse ecosystem in a safe and trustworthy way. This project proposes a trust framework for digital healthcare applications to run in a metaverse environment. The framework is based on the use of self-sovereign identity (SSI) and has been tested on the design principles outlined for the SSI-based architecture. This study outlines two use-case scenarios that can serve as foundations for implementing a trust framework.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy preservation in Artificial Intelligence and Extended Reality (AI-XR) metaverses: A survey
+AU  - Alkaeed, Mahdi
+AU  - Qayyum, Adnan
+AU  - Qadir, Junaid
+JO  - Journal of Network and Computer Applications
+VL  - 231
+SP  - 103989
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.103989
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804524001668
+KW  - Machine learning
+KW  - Metaverse
+KW  - Artificial Intelligence
+KW  - Virtual Reality
+KW  - Extended Reality
+KW  - Mixed reality
+KW  - Homomorphic encryption
+KW  - Federated learning
+AB  - The metaverse is a nascent concept that envisions a virtual universe, a collaborative space where individuals can interact, create, and participate in a wide range of activities. Privacy in the metaverse is a critical concern as the concept evolves and immersive virtual experiences become more prevalent. The metaverse privacy problem refers to the challenges and concerns surrounding the privacy of personal information and data within Virtual Reality (VR) environments as the concept of a shared VR space becomes more accessible. Metaverse will harness advancements from various technologies such as Artificial Intelligence (AI), Extended Reality (XR) and Mixed Reality (MR) to provide personalized and immersive services to its users. Moreover, to enable more personalized experiences, the metaverse relies on the collection of fine-grained user data that leads to various privacy issues. Therefore, before the potential of the metaverse can be fully realized, privacy concerns related to personal information and data within VR environments must be addressed. This includes safeguarding users’ control over their data, ensuring the security of their personal information, and protecting in-world actions and interactions from unauthorized sharing. In this paper, we explore various privacy challenges that future metaverses are expected to face, given their reliance on AI for tracking users, creating XR and MR experiences, and facilitating interactions. Moreover, we thoroughly analyze technical solutions such as differential privacy, Homomorphic Encryption, and Federated Learning and discuss related sociotechnical issues regarding privacy.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy computing meets metaverse: Necessity, taxonomy and challenges
+AU  - Chen, Chuan
+AU  - Li, Yuecheng
+AU  - Wu, Zhenpeng
+AU  - Mai, Chengyuan
+AU  - Liu, Youming
+AU  - Hu, Yanming
+AU  - Kang, Jiawen
+AU  - Zheng, Zibin
+JO  - Ad Hoc Networks
+VL  - 158
+SP  - 103457
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103457
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524000684
+KW  - Metaverse
+KW  - Data privacy
+KW  - Privacy computing
+KW  - Mobile edge computing
+KW  - Blockchain
+KW  - Extended reality
+AB  - Metaverse, the core of the next-generation Internet, is a computer-generated holographic digital environment that simultaneously combines spatio-temporal, immersive, real-time, sustainable, interoperable, and data-sensitive characteristics. It cleverly blends the virtual and real worlds, allowing users to create, communicate, and transact in virtual form. With the rapid development of emerging technologies including augmented reality, virtual reality and blockchain, the metaverse system is becoming more and more sophisticated and widely used in various fields such as social, tourism, industry and economy. However, the high level of interaction with the real world also means a huge risk of privacy leakage both for individuals and enterprises, which has hindered the wide deployment of metaverse. Then, it is inevitable to apply privacy computing techniques in the framework of metaverse, which is a current research hotspot. In this paper, we conduct comprehensive research on the necessity, taxonomy and challenges when privacy computing meets metaverse. Specifically, we first introduce the underlying technologies and various applications of metaverse, on which we analyze the challenges of data usage in metaverse, especially data privacy. Next, we review and summarize state-of-the-art solutions based on federated learning, differential privacy, homomorphic encryption, and zero-knowledge proofs for different privacy problems in metaverse. Finally, we show the current security and privacy challenges in the development of metaverse and provide open directions for building a well-established privacy-preserving metaverse system. For easy access and reference, we integrate the related publications and their codes into a GitHub repository: .
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain Technologies: A scrutiny into Hyperledger Fabric for Higher Educational Institutions"
+AU  - Dias, Paulo
+AU  - Gonçalves, Helena
+AU  - Silva, Firmino
+AU  - Duque, Jorge
+AU  - Martins, Júlio
+AU  - Godinho, António
+JO  - Procedia Computer Science
+VL  - 237
+SP  - 213
+EP  - 220
+PY  - 2024
+DA  - 2024/01/01/
+T2  - International Conference on Industry Sciences and Computer Science Innovation
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.05.098
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924011141
+KW  - Blockchain
+KW  - Hyperledger
+KW  - Hyperledger Fabric
+KW  - HEI
+KW  - Framework
+AB  - Over the past decade, significant technological advancements have taken place, with a strong focus on systems designed to enhance the security and reliability of distributed data across various sectors, both public and private. Among these technological innovations, blockchain technology has emerged as a standout paradigm, offering unique characteristics that guarantee data security and reliability in different applications. The model presented represents a culmination of efforts that trace their origins to the Ethereum platform, restructured to align with Hyperledger Fabric. This transformation elaborated according to the comprehensive analysis of various Hyperledger frameworks involving segmentation, comparison, and selection of components that augment the model's conceptual foundation. The overarching objective of this article is twofold: firstly, to delve into the exploration of Hyperledger technology, substantiating the rationale behind the chosen implementation model, and secondly, to showcase the model's restructuring within the framework presented. A central facet of this article is a compelling case study that illustrates the transformative potential of blockchain technology in reshaping existing systems and processes. Specifically, integrating Hyperledger Fabric as an enterprise-grade technology underscores its role in facilitating the practical implementation of blockchain solutions. Ultimately, the primary contribution of this article lies in its endeavour to formalise knowledge surrounding blockchain technology applicability and to underscore its potential societal and organisational benefits. By presenting a well-structured model and a practical case study, this work aims to advance the comprehension of blockchain's relevance and capacity to drive positive change across various domains.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable innovation in the metaverse: Blockchain's role in new business models
+AU  - Sze, Le Bei
+AU  - Salo, Jari
+AU  - Tan, Teck Ming
+JO  - Digital Business
+VL  - 4
+IS  - 2
+SP  - 100086
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2666-9544
+DO  - https://doi.org/10.1016/j.digbus.2024.100086
+UR  - https://www.sciencedirect.com/science/article/pii/S2666954424000140
+KW  - Blockchain
+KW  - Stakeholder capitalism
+KW  - Decentralization
+KW  - Business model
+KW  - Sustainable management
+AB  - This research aims to bridge a gap in the existing literature by investigating the role of the blockchain-based metaverse in fostering decentralized sustainable management, leveraging the principles of stakeholder capitalism theory. By conducting a content analysis of thirty-two expert reports from the blockchain-based metaverse industry, the study identifies five key attributes that can potentially cultivate innovation and decentralized sustainable management within the business domain. These attributes include a creator economy, a persistent synchronous virtual environment, decentralization, an interoperable network, and a digitalized mindset. The research underscores the need for stakeholders to adopt a sustainable approach when navigating the blockchain-based metaverse, highlighting the potential benefits achievable in a decentralized, hybrid physical-digital environment. This work stands as a pioneering effort in conceptualizing a theoretical framework that encapsulates decentralized sustainable management within the blockchain-based metaverse, underpinned by the principles of stakeholder capitalism. Thus, it contributes significantly to the academic discourse on the sustainable implications of blockchain technology in new business models.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating AI-based and conventional cybersecurity measures into online higher education settings: Challenges, opportunities, and prospects
+AU  - Parambil, Medha Mohan Ambali
+AU  - Rustamov, Jaloliddin
+AU  - Ahmed, Soha Galalaldin
+AU  - Rustamov, Zahiriddin
+AU  - Awad, Ali Ismail
+AU  - Zaki, Nazar
+AU  - Alnajjar, Fady
+JO  - Computers and Education: Artificial Intelligence
+VL  - 7
+SP  - 100327
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2666-920X
+DO  - https://doi.org/10.1016/j.caeai.2024.100327
+UR  - https://www.sciencedirect.com/science/article/pii/S2666920X24001309
+KW  - Higher education
+KW  - Online education systems
+KW  - E-learning systems
+KW  - Cybersecurity
+KW  - Artificial intelligence
+KW  - Ethics and privacy
+AB  - The rapid adoption of online learning in higher education has resulted in significant cybersecurity challenges. As educational institutions increasingly rely on digital platforms, they are facing cyber threats that can compromise sensitive data and disrupt operations. This systematic literature review explores the integration of artificial intelligence (AI) into traditional methods to address cybersecurity risks in online higher education. The review integrates a qualitative synthesis of relevant literature and a quantitative meta-analysis using PRISMA guidelines, ensuring comprehensive insights into the integration process. The most prevalent cybersecurity threats are examined, and the effectiveness of AI-based and conventional approaches in mitigating these challenges is compared. Additionally, the most effective AI techniques in cybersecurity solutions are analyzed, and their performance is compared across different contexts. Furthermore, the review considers the key ethical and technical considerations associated with integrating AI into traditional cybersecurity methods. The findings reveal that while AI-based techniques offer promising solutions for threat detection, authentication, and privacy preservation, their successful implementation requires careful consideration of data privacy, fairness, transparency, and robustness. The importance of interdisciplinary collaboration, continuous monitoring of AI models—by automated systems and humans—and the need for comprehensive guidelines to ensure responsible and ethical use of AI in cybersecurity are highlighted. The findings of this review provide actionable insights for educational institutions, educators, and students, helping to facilitate the development of secure and resilient online learning environments. The identified ethical and technical considerations can serve as a foundation for the responsible integration of AI into cybersecurity within the online higher-education sector.
+ER  - 
+
+TY  - JOUR
+T1  - Toward next-generation networks: A blockchain-based approach for core network architecture and roaming identity verification
+AU  - Gong, Yi
+AU  - Yu, Boyuan
+AU  - Yang, Lei
+AU  - Meng, Fanke
+AU  - Liu, Lei
+AU  - Hu, Xinjue
+AU  - Xu, Zhan
+JO  - Digital Communications and Networks
+PY  - 2024
+DA  - 2024/08/10/
+SN  - 2352-8648
+DO  - https://doi.org/10.1016/j.dcan.2024.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2352864824000993
+KW  - Blockchain
+KW  - Core network
+KW  - Privacy data protection
+KW  - Decentralized identity
+KW  - Roaming identity verification
+AB  - With the evolution of next-generation communication networks, ensuring robust Core Network (CN) architecture and data security has become paramount. This paper addresses critical vulnerabilities in the architecture of CN and data security by proposing a novel framework based on blockchain technology that is specifically designed for communication networks. Traditional centralized network architectures are vulnerable to Distributed Denial of Service (DDoS) attacks, particularly in roaming scenarios where there is also a risk of private data leakage, which imposes significant operational demands. To address these issues, we introduce the Blockchain-Enhanced Core Network Architecture (BECNA) and the Secure Decentralized Identity Authentication Scheme (SDIDAS). The BECNA utilizes blockchain technology to decentralize data storage, enhancing network security, stability, and reliability by mitigating Single Points of Failure (SPoF). The SDIDAS utilizes Decentralized Identity (DID) technology to secure user identity data and streamline authentication in roaming scenarios, significantly reducing the risk of data breaches during cross-network transmissions. Our framework employs Ethereum, free5GC, Wireshark, and UERANSIM tools to create a robust, tamper-evident system model. A comprehensive security analysis confirms substantial improvements in user privacy and network security. Simulation results indicate that our approach enhances communication CNs security and reliability, while also ensuring data security.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain-based refurbishment certification system for enhancing the circular economy
+AU  - Regueiro, Cristina
+AU  - Gómez-Goiri, Aitor
+AU  - Pedrosa, Nuno
+AU  - Semertzidis, Christos
+AU  - Iturbe, Eider
+AU  - Mansell, Jason
+JO  - Blockchain: Research and Applications
+VL  - 5
+IS  - 1
+SP  - 100172
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2023.100172
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720923000477
+KW  - Blockchain
+KW  - Traceability
+KW  - Lifecycle
+KW  - Product lifecycle management (PLM)
+KW  - Refurbishment
+KW  - Certification
+KW  - Circular economy
+AB  - As the global population continues to grow, the enormous stress on our environment and resources is becoming impossible to ignore. A focus on producing and consuming as cheaply as possible has created an economy in which objects are briefly used and then discarded as waste, featuring a linear lifecycle that creates an enormous amount of waste. The alternative to the linear economy “take-make-waste” is called the “circular economy”. Under this paradigm, materials are recycled to build new products or components that are designed and built to promote their reuse and refurbishment. This assures the continuous (re-)exploitation of existing resources, reducing the extraction of new raw materials. However, customers often reject these reused or refurbished products under the suspicion that they do not meet the same usability, safety, or performance levels of new products. In this sense, trustworthy records of historical details of refurbished products could increase consumers’ confidence in products and components of the “circular economy”, prioritizing trustworthiness, reliability, and transparency. This work presents a new certification tool based on blockchain technology to guarantee trusted, accurate, transparent, and traceable lifecycle information of products and their components and to generate trustworthy certificates to probe refurbished product historical details. This tool aims to enhance refurbished product visibility by creating the basis for making the circular economy a reality in any domain.
+ER  - 
+
+TY  - CHAP
+T1  - Appendix G - Answers to Review Questions/Exercises, Hands-on Projects, Case Projects, and Optional Team Case Project by Chapter
+A2  - Vacca, John R.
+BT  - Computer and Information Security Handbook (Fourth Edition)
+PB  - Morgan Kaufmann
+SP  - 1731
+EP  - 1829
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 978-0-443-13223-0
+DO  - https://doi.org/10.1016/B978-0-443-13223-0.15007-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443132230150076
+ER  - 
+
+TY  - JOUR
+T1  - DAMFSD: A decentralized authorization model with flexible and secure delegation
+AU  - Li, Minghui
+AU  - Xue, Jingfeng
+AU  - Liu, Zhenyan
+AU  - Suo, Yiran
+AU  - Lei, Tianwei
+AU  - Wang, Yong
+JO  - Internet of Things
+VL  - 27
+SP  - 101317
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101317
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524002580
+KW  - Blockchain
+KW  - Authorization
+KW  - Data sharing
+KW  - Smart contract
+AB  - During the digital age of healthcare, it is crucial to utilize medical data scattered across different healthcare institutions to improve diagnostic precision and customize treatment strategies. A common solution to achieve this is establishing an authorization service that facilitates secure sharing of medical data and promotes interoperability among various healthcare institutions. However, there is a risk of a single point of failure because the majority of authorization systems in use rely on a central trusted service. This paper proposes DAMFSD, a decentralized authorization model with flexible and secure permissions delegation for medical data sharing. Specifically, patients can transfer their permissions to reliable institutions or individuals for flexible management and delegation while they retain control and monitor their permissions. We use cryptographic techniques for secure and fine-grained delegation and smart contracts to enable decentralized and flexible delegation. Finally, we performed a security analysis to demonstrate DAMFSD’s feasibility and conducted a performance evaluation on the permissioned blockchain to show its applicability.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity in the generative artificial intelligence era
+AU  - Teo, Zhen Ling
+AU  - Quek, Chrystie Wan Ning
+AU  - Wong, Joy Le Yi
+AU  - Ting, Daniel Shu Wei
+JO  - Asia-Pacific Journal of Ophthalmology
+VL  - 13
+IS  - 4
+SP  - 100091
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 2162-0989
+DO  - https://doi.org/10.1016/j.apjo.2024.100091
+UR  - https://www.sciencedirect.com/science/article/pii/S2162098924000926
+KW  - Generative Artificial Intelligence
+KW  - ChatGPT
+KW  - Cybersecurity
+KW  - Privacy risks
+KW  - Large language model
+AB  - Generative Artificial Intelligence (GenAI) are algorithms capable of generating original content. The ability of GenAI to learn and generate novel outputs alike human cognition has taken the world by storm and ushered in a new era. In this review, we explore the role of GenAI in healthcare, including clinical, operational, and research applications, and delve into the cybersecurity risks of this technology. We discuss risks such as data privacy risks, data poisoning attacks, the propagation of bias, and hallucinations. In this review, we recommend risk mitigation strategies to enhance cybersecurity in GenAI technologies and further explore the use of GenAI as a tool in itself to enhance cybersecurity across the various AI algorithms. GenAI is emerging as a pivotal catalyst across various industries including the healthcare domain. Comprehending the intricacies of this technology and its potential risks will be imperative for us to fully capitalise on the benefits that GenAI can bring.
+ER  - 
