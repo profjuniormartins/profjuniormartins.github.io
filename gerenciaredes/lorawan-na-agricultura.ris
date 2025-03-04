@@ -1,0 +1,431 @@
+TY  - JOUR
+T1  - Performance analysis of LoRaWAN underground-to-satellite connectivity: An urban underground pipelines monitoring case study
+AU  - Lin, Kaiqiang
+AU  - Ullah, Muhammad Asad
+AU  - Lei, Lei
+AU  - Alves, Hirley
+AU  - Mikhaylov, Konstantin
+AU  - Hao, Tong
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103747
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103747
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003585
+KW  - Urban underground pipelines monitoring
+KW  - LoRaWAN
+KW  - Underground-to-satellite connectivity
+KW  - Data aggregation
+AB  - Urban underground pipelines (UUPs) serve the cardiovascular system of our society and the cornerstone of various smart city and industrial applications. Although the leakage of UUPs can be effectively detected and localized by utilizing the measurements of different types of sensors, the reliable transmission of sensor data remains challenging in large-scale UUPs monitoring due to the harsh underground conditions and the complex urban environments. Motivated by recent successful integration of LoRaWAN and satellites, we investigate in this study the feasibility of the massive machine-type communication (mMTC) based sensing approach, which utilizes the underground-to-satellite (UtS) connectivity for monitoring large-scale UUPs. Specifically, we consider two alternative network architectures, i.e., underground direct-to-satellite (U-DtS) and underground indirect-to-satellite (U-ItS), and discuss their pros, cons, and trade-offs. To assess the feasibility and performance of U-ItS and UtS in large-scale UUPs monitoring, we develop the Monte Carlo UtS simulator, featuring realistic UUPs deployments, regional LoRaWAN configurations, semi-empirical propagation models, two gateway deployment approaches, and data aggregation for U-ItS. Our results reveal that U-DtS fails to counter underground propagation losses and shadowing effects in urban environments. However, U-ItS is demonstrated as a promising solution for the reliable wireless monitoring of UUPs, whose performance can be further improved by utilizing data aggregation. Finally, we verify that the transmission success probability of U-DtS and U-ItS is strongly affected by the underground parameters, i.e., the burial depth of devices and the volumetric water content of soil.
+ER  - 
+
+TY  - JOUR
+T1  - Research on the application of intelligent sensors based on the Internet of Things in fault diagnosis of mechanical and electrical equipment
+AU  - Yao, Lingli
+JO  - Measurement: Sensors
+VL  - 38
+SP  - 101811
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2665-9174
+DO  - https://doi.org/10.1016/j.measen.2025.101811
+UR  - https://www.sciencedirect.com/science/article/pii/S2665917425000054
+KW  - Internet of Things
+KW  - Agricultural mechanical and electrical equipment
+KW  - Fault diagnosis
+KW  - Kernel extreme learning machine
+KW  - Network internet of things technology
+AB  - The purpose of this work to do is to solve the fault diagnosis of agricultural mechanical and electrical equipment and guarantee the smooth operation of production line and industrial process. The research begins by collecting operational data from electromechanical equipment based on Internet of Things (IoT) technology and utilizes Narrowband Internet of Things (NB-IoT) modules to achieve communication for terminal electromechanical devices. Subsequently, the Kernel Extreme Learning Machine (KELM) is introduced and combined with the Whale Optimization algorithm to construct a fault diagnosis model based on the Whale Optimization Kernel Extreme Learning Machine (WOKELM). Finally, the performance of the model is experimentally evaluated. The results indicate that, compared to other baseline algorithms, the proposed model algorithm achieves Accuracy values exceeding 90 %, with at least a 3.85 % improvement over the KELM baseline algorithm. Additionally, in the training a.nd testing sets, the F1 values of the proposed model algorithm reach 91.24 % and 85.85 %, respectively, which is at least 2.98 % higher than other model algorithms. Furthermore, an analysis of fault diagnosis error rates reveals that the Root Mean Squared Error (RMSE) for fault diagnosis is below 4.13 %. Therefore, the proposed fault diagnosis model demonstrates excellent performance in terms of accuracy and precision, providing robust support for improving the intelligence and accuracy of fault diagnosis in electromechanical equipment.
+ER  - 
+
+TY  - JOUR
+T1  - A deep dive into cybersecurity solutions for AI-driven IoT-enabled smart cities in advanced communication networks
+AU  - Ali, Jehad
+AU  - Kumar Singh, Sushil
+AU  - Jiang, Weiwei
+AU  - Alenezi, Abdulmajeed M.
+AU  - Islam, Muhammad
+AU  - Ibrahim Daradkeh, Yousef
+AU  - Mehmood, Asif
+JO  - Computer Communications
+VL  - 229
+SP  - 108000
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2024.108000
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366424003475
+KW  - Data privacy
+KW  - Internet of Things
+KW  - Network intelligence
+KW  - Artificial intelligence
+KW  - Cybersecurity solutions
+KW  - Communication security
+KW  - Smart city infrastructure
+AB  - The integration of the Internet of Things (IoT) and artificial intelligence (AI) in urban infrastructure, powered by advanced information communication technologies (ICT), has paved the way for smart cities. While these technologies promise enhanced quality of life, economic growth, and improved public services, they also introduce significant cybersecurity challenges. This article comprehensively examines the complex factors in securing AI-driven IoT-enabled smart cities within the framework of future communication networks. Our research addresses critical questions about the evolving threat, multi-layered security approaches, the role of AI in enhancing cybersecurity, and necessary policy frameworks. We conduct an in-depth analysis of cybersecurity solutions across service, application, network, and physical layers, evaluating their effectiveness and integration potential with existing systems. The study offers a detailed examination of AI-driven security approaches, particularly ML and DL techniques, assessing their applicability and limitations in smart city environments. We incorporate real-world case studies to illustrate successful strategies and show areas requiring further research, especially considering emerging communication technologies. Our findings contribute to the field by providing a multi-layered classification of cybersecurity solutions, assessing AI-driven security approaches, and exploring future research directions. Additionally, we investigate the essential role played by policy and regulatory frameworks in safeguarding smart city security. Based on our analysis, we offer recommendations for technical implementations and policy development, aiming to create a holistic approach that balances technological advancements with robust security measures. This study also provides valuable insights for scholars, professionals, and policymakers, offering a comprehensive perspective on the cybersecurity challenges and solutions for AI-driven IoT-enabled smart cities in advanced communication networks.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding complex process sensor signal may be the source for deep Learning: A smart IoT delving into a tomato weight sensor
+AU  - Wang, Xiaotong
+AU  - Shi, Junlei
+AU  - Sun, Shaokun
+AU  - Wang, Dandan
+AU  - Li, Zhulin
+AU  - Sun, Zhouping
+AU  - Sigrimis, Nick
+AU  - Li, Tianlai
+JO  - Computers and Electronics in Agriculture
+VL  - 231
+SP  - 110012
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2025.110012
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925001188
+KW  - Smart sensing
+KW  - Plant modelling
+KW  - Hybrid twinning
+KW  - Context understanding
+KW  - Smart greenhouses
+AB  - With the rapid advancements of Internet of Things (IoT) technology, understanding sensor signals has become the key to acquiring plant physiological data and realizing the concept of “speaking plants”. This study developed a real-time and intelligent monitoring system using IoT-enabled weight sensors to continuously track the total weight of the shoot and root systems of tomato plants. A newly introduced variable, the photosynthetic leaf area index (LAIp), which plays a crucial role in capturing solar radiant heat, was used to balance energy components in the modeling of tomato transpiration processes. In this framework, a canopy transpiration model was developed and trained using data collected by sensors to enhance the online accuracy of tomato transpiration predictions. Supported by this model, in-depth analysis of weight sensor signals enabled the non-destructive, data-driven, and real-time extraction of LAI and LAIp. The parameter LAIp, the radiation absorbing portion of LAI, also serves as a measure for photosynthetic efficiency when related to the concurrently assessed growth rate. The results demonstrated strong consistency between simulated and measured values of LAI and LAIp (LAI simulation: R2 = 0.99, NRMSE = 0.04; LAIp simulation: R2 = 0.98, NRMSE = 0.04). This new WEP (Weight Effectiveness Photosynthesis) based modeling provides the required biofeedback for robust crop management, expanding the validity of model precision in cases when non-optimal environmental conditions dominate due to economic considerations. This study reveals that multiple critical insights can be obtained from complex process signals monitored by a single sensor, thereby providing a new perspective on multi-parameter estimates of plant growth and management.
+ER  - 
+
+TY  - JOUR
+T1  - On the role of machine learning in satellite internet of things: A survey of techniques, challenges, and future directions
+AU  - Choquenaira-Florez, Alexander Y.
+AU  - Fraire, Juan A.
+AU  - Pasandi, Hannah B.
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 259
+SP  - 111063
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111063
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000313
+KW  - Satellite ioT
+KW  - Satellite networks
+KW  - Machine learning
+AB  - The drive towards an interconnected world via satellites is reshaping the landscape of communication technologies. This survey comprehensively reviews studies in the Satellite Internet of Things (SIoT) domain, focusing on the role of Machine Learning (ML) techniques. Indeed, the global data collection scale in SIoT is ideally suited for data-intensive and sophisticated ML approaches. We highlight the innovative use of ML to address specific SIoT challenges, aiming to identify current trends, methodologies, and outcomes. We considered theoretical, practical, and experimental research, organizing existing publications into a new taxonomy that intersects ML and SIoT categories. Our taxonomy reveals that Deep Learning (DL), Reinforcement Learning (RL), and Federated Learning (FL) are widely applied to address radio access schemes, resource and network management, and application-specific issues. This survey identifies critical gaps in current research on ML applications in SIoT, such as the lack of differentiation between space-based and ground-based processing, insufficient integration of SIoT-specific metrics, and the oversight of limited computational resources on orbiting satellites. These issues raise concerns about the feasibility and efficiency of proposed solutions. We propose promising research directions based on the derived insights to effectively bridge the gap between ML researchers and industrial SIoT entities.
+ER  - 
+
+TY  - JOUR
+T1  - An IoT-based data analysis system: A case study on tomato cultivation under different irrigation regimes
+AU  - Galaverni, Martina
+AU  - Oddi, Giulia
+AU  - Preite, Luca
+AU  - Belli, Laura
+AU  - Davoli, Luca
+AU  - Marchioni, Ilaria
+AU  - Rodolfi, Margherita
+AU  - Solari, Federico
+AU  - Beghè, Deborah
+AU  - Ganino, Tommaso
+AU  - Vignali, Giuseppe
+AU  - Ferrari, Gianluigi
+JO  - Computers and Electronics in Agriculture
+VL  - 229
+SP  - 109660
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2024.109660
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924010512
+KW  - Water stress
+KW  - Internet of Things
+KW  - Smart agriculture
+KW  - Digital twin
+KW  - Data collection
+AB  - The exploitation of modern technologies in heterogeneous farming scenarios with different crops cultivation is nowadays an effective solution to implement the concept of Smart Agriculture (SA). Following this approach, in this study the tomato plants’ response to different irrigation regimes is investigated through the implementation of an Internet of Things (IoT)-oriented SA data collection and monitoring system. In particular, the experimentation is conducted on tomatoes grown at three different irrigation regimes: namely, at 100%, 60%, and 30% of the Italian irrigation recommendation service, denoted as Irriframe. The proposed platform, denoted as Agriware, is able to: (i) evaluate information from heterogeneous data sources, (ii) calculate agronomic indicators (e.g., Growing Degree Days, GDD), and (iii) monitor on-field parameters (e.g., water consumption). Different plant-related parameters have been collected to assess the response to water stress (e.g., Soil Plant Analysis Development (SPAD), chlorophyll content, fluorescence, and others), along with leaf color and final production evaluations. The obtained results show that the best irrigation regime, in terms of plant health and productivity, corresponds to 60% of Irriframe, allowing significant water savings for the cultivation.
+ER  - 
+
+TY  - JOUR
+T1  - An intelligent forecasting system in Internet of Agriculture Things sensor network
+AU  - Sahu, Rashmita
+AU  - Tripathi, Priyanka
+JO  - Ad Hoc Networks
+VL  - 169
+SP  - 103752
+PY  - 2025
+DA  - 2025/03/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2024.103752
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870524003639
+KW  - IoT
+KW  - IoAT
+KW  - Irrigation
+KW  - Forecasting
+KW  - Plausibility
+KW  - Lagrangian L1 point
+AB  - Irrigation refers to the process of supplying water to the soil via pumps and spraying water across the field. In conventional agriculture, the installation and operation of an irrigation system depend exclusively on the farmers' knowledge. The Food and Agriculture Organisation (FAO) has forecasted that by 2030, emerging nations will increase their irrigated areas by 34 %, although water use will rise by only 14 %. Thus, the necessity of constantly monitoring water flow and volume, rather than depending on people's approximations, is highlighted by this variation. Therefore, this research proposes an efficient prediction system for intelligent irrigation in the Internet of Agriculture Things (IoAT) sensor network. In the initial phase of the suggested approach, agricultural sensor data is transmitted to the total variation regularisation in the alternate direction method of multipliers (ADMM) way to mitigate the adverse effects caused by noisy samples. Subsequently, probabilistic clustering is utilised to address the missing entries. During the second phase of the suggested algorithm, the Lagrangian L1 point is extracted from the sensory data, which is followed by the extraction of the maximum plausible row used for forecasting. The experimental evaluation is conducted on the massive amount of agriculture sensor data sets and cross-validation using several matrices proves its efficacy over competing approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Enhanced LR-FHSS receiver for headerless frame recovery in space–terrestrial integrated IoT networks
+AU  - Maldonado, Diego
+AU  - Cardoso, Leonardo S.
+AU  - Fraire, Juan A.
+AU  - Guitton, Alexandre
+AU  - Iova, Oana
+AU  - Kaneko, Megumi
+AU  - Rivano, Hervé
+JO  - Computer Networks
+VL  - 257
+SP  - 111018
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.111018
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624008508
+KW  - Low power wide area networks
+KW  - Long-range frequency hopping spread spectrum
+KW  - LoRa/loRaWAN
+AB  - Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) is a recent IoT modulation technique designed for communication between low-power ground end-devices and Low-Earth Orbit (LEO) satellites. To successfully decode a frame, an LR-FHSS gateway must receive at least one header replica and a substantial portion of the payload fragments. However, the likelihood of LR-FHSS header loss increases with the number of concurrent transmissions. Moreover, Doppler effects (such as the Doppler shift and the Doppler rate) distort the signals the satellites receive. This paper investigates advanced receiver techniques for recovering LR-FHSS frames with lost headers characterized by significant Doppler effects. This paper’s main contribution is specifying and validating a novel LR-FHSS receiver model for space–terrestrial integrated IoT environments. Obtained simulation results prove that our enhanced LR-FHSS receiver can decode a significant portion of the missing frames, improving the overall throughput achievable by using the legacy LR-FHSS receiver.
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing complexities of integrating Renewable Energy Sources into Smart Grid: A comprehensive review
+AU  - Asadi Aghajari, H.
+AU  - Niknam, T.
+AU  - Shasadeghi, M.
+AU  - Sharifhosseini, S.M.
+AU  - Taabodi, M.H.
+AU  - Sheybani, Ehsan
+AU  - Javidi, Giti
+AU  - Pourbehzadi, Motahareh
+JO  - Applied Energy
+VL  - 383
+SP  - 125317
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.125317
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925000479
+KW  - Smart Grid
+KW  - Renewable Energy Source
+KW  - Cyber security attack
+KW  - Low-Voltage Ride-Through
+KW  - Fault ride-through capability
+KW  - Energy storage system
+KW  - Wind Turbine
+KW  - Photovoltaic
+AB  - In modern cities and nations, Smart Grids (SGs) must include Renewable Energy Sources (RESs) to enhance energy efficiency and promote sustainability. Battery-included RESs play an important role in storing surplus energy and injecting it into the grid as needed, enabling better management of electricity consumption. However, as the adoption of RESs in SGs increases, the potential for cyber-attacks, posing significant threats to economic stability, security, and even lives, also grows. Wireless information sharing between agents in SGs increases the risk of these cyber threats, making extensive research necessary to fortify the cybersecurity defenses of RESs within the SG systems. In this paper, the SG’s concepts, infrastructure, and communication technologies are briefly reviewed, and the related challenges — of employing RESs in SGs are thoroughly analyzed. Furthermore, the paper provides a concise analysis of cybersecurity’s critical role in safeguarding the uninterrupted operation of the RES systems against potential cyber threats. By focusing on the integration of RESs into SGs, this study aims to equip emerging researchers with a comprehensive understanding of the realm of RESs. Additionally, it offers recommendations for future research directions, enabling the development of innovative solutions that can enhance the security and reliability of RESs within SG infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - EcoWatch: Region of interest-based multi-quantization resource-efficient framework for migratory bird surveillance using wireless sensor networks and environmental context awareness
+AU  - Hadji, Oussama
+AU  - Maimour, Moufida
+AU  - Benyahia, Abderezzak
+AU  - Kadri, Ouahab
+AU  - Rondeau, Eric
+JO  - Computers and Electrical Engineering
+VL  - 123
+SP  - 110076
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2025.110076
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790625000199
+KW  - Wildlife surveillance
+KW  - Migratory birds
+KW  - WSN
+KW  - Multi-level compression
+KW  - ROI
+KW  - Deep learning
+AB  - Global sustainability initiatives increasingly rely on innovative technologies to safeguard biodiversity and mitigate environmental impacts. In this paper, we present EcoWatch, a novel framework that leverages Wireless Multimedia Sensor Networks (WMSNs) using LoRaWAN technology for efficient data transmission to enable real-time bird species detection and counting in their natural habitat. EcoWatch combines YOLOv8 You Only Look Once for object detection and Learning to Count Everything (LTCE) for precise object counting at the base station. To address the inherent limitations of WSNs in terms of energy and bandwidth, EcoWatch incorporates a multi-level ROI-based video compression technique. Extensive evaluation demonstrates that EcoWatch significantly reduces energy consumption (up to 58.7%) and data transmission load (by 69.8%) compared to other methods while maintaining acceptable image quality, detection and counting accuracy. Notably, EcoWatch exhibits robust performance across seasons and adapts well to varying environmental conditions, making it a promising solution for real-world ecological monitoring applications.
+ER  - 
+
+TY  - JOUR
+T1  - Cloud Based LoRaWAN Enabled Water Tank Automation Framework
+AU  - K M, Abubeker
+AU  - Nuthalapati, Aravind
+JO  - Procedia Computer Science
+VL  - 252
+SP  - 768
+EP  - 775
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 4th International Conference on Evolutionary Computing and Mobile Sustainable Networks
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.037
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925000377
+KW  - Internet of things
+KW  - LoRaWAN
+KW  - SDG
+KW  - ultrasonic signal
+KW  - water level
+AB  - Internet of Things (IoT), sensor technologies, and low-power long-range wide area network (LoRaWAN) protocols are crucial to reducing water wastage during storage and distribution. This letter proposes a LoRa-based automatic water pump for overhead tanks in domestic and public water services. This research uses an ESP32 LoRa IoT platform for gateway and wide area network communication and the JSN-SR04T sensor for water level monitoring. This IoT framework is integrated with mobile applications and a web server for the real-time monitoring and control of water pumps. In fully automated mode, the LoRa gateway coordinated the control of the water pump depending on the pre-configured water level during installation. In semi-automated mode, users can control the water pump with the mobile application or web server. The developed framework is tested in different environments and verified the efficacy and performance of LoRa in terms of energy consumption, RSSI, SNR and distance of communication from the host node to the LoRa gateway. The research also highlighted the reduction in water consumption, and this framework potentially addresses the sustainable development goals 6 (SDG-6).
+ER  - 
+
+TY  - JOUR
+T1  - Energy efficient achievement of indoor air quality and thermal comfort using mechanical ventilation heat recovery and solar-energy pre-heating
+AU  - Moghadam, Talie Tohidi
+AU  - Bruton, Ken
+AU  - O’Sullivan, Dominic T.J.
+AU  - Norton, Brian
+JO  - Energy Conversion and Management
+VL  - 327
+SP  - 119528
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0196-8904
+DO  - https://doi.org/10.1016/j.enconman.2025.119528
+UR  - https://www.sciencedirect.com/science/article/pii/S0196890425000512
+KW  - Transpired solar collector
+KW  - Indoor air quality
+KW  - Thermal comfort
+KW  - Energy efficiency
+KW  - Heating
+KW  - Ventilation and air conditioning
+KW  - Mechanical ventilation heat recovery
+AB  - Transpired solar collectors (TSCs) are recognized as an efficient lower-temperature air-heating solar thermal conversion technology; However their influence on internal thermal comfort and indoor air quality (IAQ) have seldom been assessed. This study evaluates a TSC integrated with a mechanical ventilation heat recovery (MVHR) system for pre-heating ventilation air in a university classroom located in Cork, Ireland. Additionally, the study examines the overall system’s ability to maintain IAQ and its energy savings. A TSC connected to an MVHR system was experimentally monitored in different modes during spring 2024. The effects of wind, flow rate, temperature rise and radiation on TSC thermal performance were examined and the results were compared with existing literature. Changes in CO2 concentration, air temperature and the MVHR system energy consumption were compared across scenarios with and without collectors or heat recovery. Findings suggest that key factors influencing TSC thermal performance include wind speed, mass flow rate and temperature rise. The TSC requires higher MVHR fan energy use and it lowers MVHR heat exchanger efficiency. However, the total heating energy demand was reduced by more than 20%.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin enhanced with Machine Learning Algorithms for Irrigation Management Using Sensor Data
+AU  - Carlo Tancredi, Giovanni Paolo
+AU  - Preite, Luca
+AU  - Vignali, Giuseppe
+JO  - Procedia Computer Science
+VL  - 253
+SP  - 2419
+EP  - 2427
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 6th International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.302
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925003102
+KW  - Water Management
+KW  - Precision Agriculture
+KW  - Decision Support Systems
+KW  - Machine Learning
+KW  - Digital Twin
+AB  - Efficient irrigation management is critical for maximizing agricultural output while minimizing water waste. This study investigates the effectiveness of machine learning (ML) for data-driven irrigation decision support systems (DSS) to address the scalability issue in artificial intelligence applications. Therefore, the scientific literature highlights how scalability is the main issue that needs to be investigated. In this framework, a living lab focused on an olive cultivation in a greenhouse has been developed to train and test a digital twin application enhanced with machine learning algorithms. Specifically, the algorithm classifies the irrigation status by assessing soil and environmental sensor data. The integration between the physical and the virtual counterparts has been implemented exploiting a Message Queuing Telemetry Transport (MQTT) communication protocol, where soil and environmental data have been treated as input topics. The model performance has been evaluated by calculating accuracy, precision, recall, F1-score, and confusion matrices, which highlight the effectiveness of the model in managing irrigation by assessing no-crop specific features with the aim of improving the scalability in greenhouse applications.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of fault tolerance techniques for smart city applications
+AU  - de Souza, Kathiani Elisa
+AU  - Ferrari, Fabiano Cutigi
+AU  - de Camargo, Valter Vieira
+AU  - Ribeiro, Márcio
+AU  - Offutt, Jeff
+JO  - Journal of Systems and Software
+VL  - 219
+SP  - 112249
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112249
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224002930
+KW  - Smart cities
+KW  - Smart city applications
+KW  - Dependability
+KW  - Fault tolerance
+KW  - Systematic review
+AB  - Smart City Applications encompass many characteristics that increase the risk of failures, such as context-awareness, adaptiveness, distribution and heterogeneity. Therefore, it is important to implement fault-tolerant mechanisms to produce more reliable applications. This study presents a systematic literature review of fault tolerance techniques that have been proposed for, or applied to Smart City Applications. It also characterizes faults, errors and failures that may occur in these systems. To the best of our knowledge, this is the first review that provides a broad picture of the research area and points out research limitations and directions. We selected 43 primary studies and performed initial classifications (e.g., based on type of research, type of contribution, application domains and subdomains, and type of system architecture). We further classified and discussed the selected studies based on types of fault tolerance techniques and types of faults and failures. System Reconfiguration, Diversity, and Retry are classical techniques that have been investigated in this domain. Many fault and failure types have also been addressed. While those well-known techniques have been explored for introducing fault tolerance capabilities into Smart City Applications, others have been overlooked. Moreover, evidence on the effectiveness and applicability of the proposed fault tolerance solutions is still very limited. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board.
+ER  - 
+
+TY  - JOUR
+T1  - An environmental remote sensing and prediction model for an IoT smart irrigation system based on an enhanced wind-driven optimization algorithm
+AU  - Khalifeh, Ala’ F.
+AU  - Alqammaz, Abdullah
+AU  - Khasawneh, Ahmad M.
+AU  - Abualigah, Laith
+AU  - Darabkh, Khalid A.
+AU  - Zinonos, Zinon
+JO  - Computers and Electrical Engineering
+VL  - 122
+SP  - 109889
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109889
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624008152
+KW  - Artificial intelligence (AI)
+KW  - Internet of Things (IoT)
+KW  - Low power wide area networks (LPWAN)
+KW  - Machine learning
+KW  - Prediction
+KW  - Precision agriculture
+KW  - Smart agriculture
+KW  - Wind-driven optimization
+AB  - The emergence of new technologies such as Machine Learning (ML) and the Internet of Things (IoT) has revolutionized several applications and industries. Smart agriculture and irrigation are among these industries that witnessed tremendous advancement in how environmental and agricultural-related data are remotely sensed, collected, presented, and analyzed. This paper presents a smart irrigation system based on the IoT and ML to provide farmers with an efficient way to remotely sensing the environmental and agricultural-related parameters such as air temperature, pressure, humidity, and soil moisture. These data are sent wirelessly using long range wireless area networks (LoRaWAN) and stored in the cloud to be used to predict the future parameters’ values utilizing a novel enhanced wind-driven optimization-least square support vector machine (EWDO-LSSVM) algorithm. The proposed algorithm significantly improves the accuracy of predicting irrigation-related data, thus assisting farmers in making smart decisions about when and how to irrigate their farms. The presented results demonstrate that the EWDO-LSSVM outperforms both the adaptive wind-driven optimization (AWDO-LSSVM) and the original wind-driven optimization (WDO-LSSVM) algorithms, particularly in terms of the normalized root mean square error (NRMSE) and the root mean square error (RMSE) metrics. The findings of this paper reveal that EWDO-LSSVM outperformed other models with a prediction accuracy up to 87.50% for all the parameters and forecasting periods, hence making the proposed model more accurate for smart irrigation systems.
+ER  - 
+
+TY  - JOUR
+T1  - Data-driven spatio-temporal estimation of soil moisture and temperature based on Lipschitz interpolation
+AU  - Manzano, J.M.
+AU  - Orihuela, L.
+AU  - Pacheco, E.
+AU  - Pereira, M.
+JO  - ISA Transactions
+VL  - 156
+SP  - 535
+EP  - 550
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0019-0578
+DO  - https://doi.org/10.1016/j.isatra.2024.11.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0019057824005305
+KW  - Spatio-temporal estimation
+KW  - Lipschitz interpolation
+KW  - Non-parametric learning
+KW  - Agriculture soil monitoring
+KW  - Experimental validation
+AB  - This study estimates agricultural soil variables using a non-parametric machine learning technique based on Lipschitz interpolation. This method is adapted for the first time to learn spatio-temporal dynamics, accounting for two-dimensional spatial and one temporal coordinate inputs separately. The estimator is validated on real agricultural data, addressing challenges like measurement noise and quantization. The experimental setup, including an edge layer with measurement devices and a cloud layer for data storage and processing, is detailed. Despite its simplicity, the method presents a compelling alternative to Gaussian processes and neural networks.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing pollinator conservation: Monitoring of bees through object recognition
+AU  - Alex, Ajay John
+AU  - Barnes, Chloe M.
+AU  - Machado, Pedro
+AU  - Ihianle, Isibor
+AU  - Markó, Gábor
+AU  - Bencsik, Martin
+AU  - Bird, Jordan J.
+JO  - Computers and Electronics in Agriculture
+VL  - 228
+SP  - 109665
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2024.109665
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924010561
+KW  - Object recognition
+KW  - Computer vision
+KW  - Agriculture
+KW  - Apiculture
+AB  - In an era of rapid climate change and its adverse effects on food production, technological intervention to monitor pollinator conservation is of paramount importance for environmental monitoring and conservation for global food security. The survival of the human species depends on the conservation of pollinators. This article explores the use of Computer Vision and Object Recognition to autonomously track and report bee behaviour from images. A novel dataset of 9664 images containing bees is extracted from video streams and annotated with bounding boxes. With training, validation and testing sets (6722, 1915, and 997 images, respectively), the results of the COCO-based YOLO model fine-tuning approaches show that YOLOv5 m is the most effective approach in terms of recognition accuracy. However, YOLOv5s was shown to be the most optimal for real-time bee detection with an average processing and inference time of 5.1 ms per video frame at the cost of slightly lower ability. The trained model is then packaged within an explainable AI interface, which converts detection events into timestamped reports and charts, with the aim of facilitating use by non-technical users such as expert stakeholders from the apiculture industry towards informing responsible consumption and production.
+ER  - 
+
+TY  - JOUR
+T1  - State-of-the-art in real-time virtual interfaces for tractors and farm machines: A systematic review
+AU  - Lohan, Shiv Kumar
+AU  - Prakash, Chander
+AU  - Lohan, Navjeet
+AU  - Kansal, Sachin
+AU  - Karkee, Manoj
+JO  - Computers and Electronics in Agriculture
+VL  - 231
+SP  - 109947
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2025.109947
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925000535
+KW  - Augmented reality
+KW  - Virtual reality
+KW  - Ergonomics
+KW  - Simulation
+KW  - Agriculture
+KW  - Tractor
+AB  - This systematic literature review (SLR) investigates the role of Virtual Reality (VR) and Augmented Reality (AR) technologies in enhancing agricultural practices, specifically focusing on their applications in tractors and other farm machinery. As agriculture increasingly shifts toward mechanization and precision farming, the need for effective operator training, improved safety measures, and ergonomic design has become paramount where VR and AR-based modeling and simulation play vital roles. A comprehensive literature search represents 122 relevant studies published in 88 journals/ proceedings between 2000 and 2023, drawing contributions from 421 authors across 211 organizations from 36 countries. The review utilized established databases, including Scopus, Web of Science, and Dimensions, and employed the PRISMA framework for systematic analysis. The results revealed that VR and AR technologies significantly enhance operator training, improve real-time monitoring, and facilitate informed decision-making in agricultural operations. Significant advancements were observed in countries such as the United States, China, and Italy, highlighting a growing global interest in utilizing these technologies in enhancing agriculture machinery development and adoption. Key results indicate that while VR and AR applications improve efficiency and safety, challenges remain, including high costs, sensor integration complexities, and scalability issues, and communicational latency. This SLR presents valuable insights into the current state of knowledge and technology regarding VR and AR in agriculture, serving as a foundation for future research aimed at overcoming existing barriers and maximizing the potential of these technologies to revolutionize agricultural practices and promote sustainability in the sector.
+ER  - 
