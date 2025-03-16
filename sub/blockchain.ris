@@ -1,0 +1,224 @@
+TY  - JOUR
+T1  - zk-DASTARK: A quantum-resistant, data authentication and zero-knowledge proof scheme for protecting data feed to smart contracts
+AU  - Chaudhry, Usama Habib
+AU  - Arshad, Razi
+AU  - Khalid, Ayesha
+AU  - Ray, Indranil Ghosh
+AU  - Hussain, Mehdi
+JO  - Computers and Electrical Engineering
+VL  - 123
+SP  - 110089
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2025.110089
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790625000321
+KW  - Decentralized applications
+KW  - Authenticated data
+KW  - Blockchain
+KW  - Smart contract
+KW  - Privacy
+KW  - Zero knowledge proof
+KW  - zk-STARK
+KW  - Quantum-resistant
+KW  - Post Quantum Cryptography (PQC)
+AB  - The emergence of blockchain technology and smart contracts revolutionize traditional digital applications such as identity management, supply chain management, banking and financial services with Decentralized Applications (DApps). When DApps are integrated with blockchain technology, blockchain validators can access user-sensitive off-chain data to execute a smart contract. On the one hand, DApps need authentic off-chain input user data to execute a given business scenario properly. On the other hand, users are more concerned about their privacy and are reluctant to share their sensitive data on the blockchain. For instance, healthcare insurance DApp requires sensitive user health data as input. DApp must ensure the privacy and authenticity of the user data given to the smart contract so that blockchain validators can perform operations on the user’s data without disclosing the user’s personal information. However, there is no complete solution to achieve both user privacy and data authenticity at the same time. To address this problem, we propose a highly efficient authenticated zero-knowledge proof scheme named zk-DASTARK by enhancing the standard zk-STARK scheme with a quantum attack-resistant data authentication scheme (CRYSTALS Dilithium digital signature scheme, now FIPS-204 or ML-DSA by the National Institute of Standards and Technology, NIST in the USA). Based on zk-DASTARK, we design a zk-STARKFeed, a zero-knowledge authenticated off-chain data feed mechanism that provides user data privacy and authentication for blockchain-based DApps. The blockchain validators’ computation costs can be significantly reduced using zk-STARKFeed with the integration of the ”compute off-chain and verify on-chain” approach. We have implemented zk-STARKFeed on the IOTA blockchain and performed extensive testing on the healthcare insurance DApp. Our proposed zk-STARKFeed is highly efficient on the IOTA blockchain in such a way that its proof generation takes less than 60 ms (ms) and its proof verification takes less than 10 ms.
+ER  - 
+
+TY  - JOUR
+T1  - Consensus hybrid ensemble machine learning for intrusion detection with explainable AI
+AU  - Ahmed, Usman
+AU  - Jiangbin, Zheng
+AU  - Khan, Sheharyar
+AU  - Sadiq, Muhammad Tariq
+JO  - Journal of Network and Computer Applications
+VL  - 235
+SP  - 104091
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2024.104091
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804524002686
+KW  - Intrusion detection
+KW  - Computer networks
+KW  - Consensus voting
+KW  - Machine learning
+KW  - Network security
+KW  - SHAP and LIME
+AB  - Intrusion detection systems (IDSs) are dynamic to cybersecurity because they protect computer networks from malicious activity. IDS can benefit from machine learning; however, individual models may be unable to handle sophisticated and dynamic threats. Current cutting-edge research frequently concentrates on single machine-learning models for intrusion detection. They do not emphasize the necessity for more flexible and effective alternatives. The current computer network identification design techniques often need to improve efficiency and interpretability. Techniques that allow different models to operate together and adjust to dynamic network settings are required. This research addresses this gap, suggesting an innovative ensemble learning strategy, the ”Consensus Hybrid Ensemble Model” (CHEM)”, for intrusion detection. We combined different types of models, such as linear, nonlinear, and ensemble methods, neural networks, and probabilistic models, by using a metaclassifier approach. In this setup, a hybrid model of random forest (RF) and decision tree (DT) acts as the metaclassifier in a voting classifier, which uses consensus voting to align predictions from the various base classifiers. This method enhances the decision-making by considering each base classifier’s confidence and agreement. Local and global explanation models, such as the Shapley Additive explanations (SHAP) and Local Interpretable Model-agnostic Explanations (LIME) approaches, contributed to the primary predictions of the models’ transparency. We used different datasets for testing, such as Kdd99, NSL-KDD, CIC-IDS2017, BoTNeTIoT, and Edge-IIoTset. The proposed ”CHEM” model shows impressive performance across several attack scenarios, including novel and zero-day attacks, and proves its ability to identify and adapt to changing cyber threats. Several ablation experiments were conducted on available datasets to train, test, evaluate, and compare the proposed ”CHEM” model with the most sophisticated and state-of-the-art models. This research combines machine learning algorithms to create a precise IDS that adapts to ever-changing cyber threats.
+ER  - 
+
+TY  - JOUR
+T1  - New blockchain consensus algorithm applied on healthcare industry: Proof of Visit- (POV)
+AU  - Şahin, Çetin
+AU  - Aydin, Muhammed Ali
+AU  - Sertbaş, Ahmet
+JO  - Engineering Science and Technology, an International Journal
+VL  - 64
+SP  - 102014
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2215-0986
+DO  - https://doi.org/10.1016/j.jestch.2025.102014
+UR  - https://www.sciencedirect.com/science/article/pii/S2215098625000692
+KW  - Blockchain
+KW  - Data security
+KW  - Data privacy
+KW  - Electronic Health Records (EHRs)
+KW  - Digital Health Wallet
+KW  - Healthcare data security
+KW  - Blockchain Consensus Algoritm
+AB  - The increase in the world’s population, technological advancements, genetic research, digital health services, and medical devices are among the reasons that lead to the rapid growth of Electronic Health Record (EHR). Health services, clinical studies, public health studies, health insurance data, health research, and similar sources generate a large amount of EHR. One of today’s important issues is the storage of data in centralized database systems and the fact that data accuracy and security are only ensured through these centers. Due to communication and integration issues between these centers, vital data such as examinations and laboratory tests can be repeated due to difficulty accessing the EHR. As citizens do not have full control over sharing their own EHR, this situation can cause deficiencies and disruptions in the healthcare process. Sharing personal EHR without the citizen’s consent can lead to data privacy issues. In systems where patient data is centrally stored, software changes can cause problems such as loss of patient data. The fact that the patient’s potentially valuable EHR is secondary causes irregular maintenance of the data. With its decentralized architecture and verification mechanisms, blockchain technology can work more efficiently than centralized structures without data loss or security problems. In this study, it is proposed to share EHR using blockchain infrastructure and to prepare a consensus algorithm specifically for health data on the blockchain. This way, personal EHR is stored in the patient’s own control and their own health wallet.
+ER  - 
+
+TY  - JOUR
+T1  - Energy efficient resource aware protection with rapid failure recovery in cloud-ready elastic optical networks
+AU  - Das, Sougata
+AU  - Chatterjee, Monish
+JO  - Optical Switching and Networking
+VL  - 55
+SP  - 100793
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1573-4277
+DO  - https://doi.org/10.1016/j.osn.2024.100793
+UR  - https://www.sciencedirect.com/science/article/pii/S1573427724000237
+KW  - Rapid failure recovery
+KW  - Energy-efficient
+KW  - Optical clouds
+KW  - RMSA
+KW  - Cloud ready EON
+AB  - In this paper, we address the problem of protection of Cloud-ready Elastic Optical Networks (C-EONs) from a single link failure (a fiber cut), the most common failure. Any protection scheme must be designed to ensure rapid failure recovery as data is lost continuously till the fault is identified and restored. Our protection scheme, crStreams (cloud-ready streams) overcomes the shortcomings of failure independent path protecting p-cycles (FIPP p-cycles) for C-EONs, guarantees rapid failure recovery, ensures service relocation and is also resource aware. Recently, due to rapid increase in data transmission rate, design of energy efficient schemes has attracted a lot of research attention. So, we propose four polynomial-time algorithms that efficiently employ crStreams for protection and further minimize energy consumption to the extent possible for dynamic requests. To the best of our knowledge, this paper is the first to propose algorithms for survivability of C-EONs, addressing the joint problem of minimizing energy consumption and resource utilization to the extent possible for dynamic requests while ensuring rapid failure recovery. Considering all conducted experiments, maximum improvement in energy consumption, resource sharing and bandwidth blocking ratio is 39.83 %, 44.44 % and 41.54 % respectively over the energy-greedy strategy.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable artificial intelligence-based framework for efficient content placement in elastic optical networks
+AU  - Goścień, Róża
+JO  - Expert Systems with Applications
+VL  - 262
+SP  - 125541
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2024.125541
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417424024084
+KW  - Content placement
+KW  - Anycasting
+KW  - Elastic optical network
+KW  - Supervised learning
+KW  - Explainable artificial intelligence
+AB  - The rapid development of telecommunication networks brings new optimization problems and the urgent need for dedicated and highly efficient solution methods. Recently, the idea of aiding network optimization with machine learning (ml) algorithms has gained more and more attention in the research society. Despite numerous successful applications of these methods, their adaption in real networks and systems is hindered due to the lack of a full explainability of their decisions and, in turn — the lack of trust. Hopefully, these aspects may be addressed by explainable artificial intelligence methods (xai). In this paper, we study an essential problem of the anycast content placement. Having a set of physical data centers (dcs) located in selected network nodes and a set of different contents (services), the task is to decide in which dcs place each of the contents in order to improve the optical network performance (measured as a bandwidth blocking probability (bbp)). To this end, we propose a dedicated ml-based framework, which approaches the placement problem as a supervised learning task of predicting network’s bbp for a content placement configuration. We perform extensive numerical experiments to tune the framework, considering five supervised learning algorithms and three comparison metrics. We also use explainable artificial intelligence methods to interpret the models’ decisions and draw general conclusions regarding beneficial content placement in a real network. Lastly, we compare the performance of the proposed ml-based placement framework with three reference methods. The results prove our approach’s extremely high efficiency, which reduced the bbp significantly compared to the best reference approach. Depending on the network settings and the offered traffic volume, the framework allowed to serve up to 47% of the traffic that would be rejected by the best reference method (corresponding to 3.76 Tbps of data).
+ER  - 
+
+TY  - JOUR
+T1  - REFC: Reduction of energy consumption, fragmentation and crosstalk in SDM-EON
+AU  - Bagherzadeh, Atefeh
+AU  - Ghaffarpour Rahbar, Akbar
+AU  - Khorasani, Yaghoub
+JO  - Optical Fiber Technology
+VL  - 90
+SP  - 104134
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1068-5200
+DO  - https://doi.org/10.1016/j.yofte.2025.104134
+UR  - https://www.sciencedirect.com/science/article/pii/S1068520025000094
+KW  - Space Division Multiplexing based Elastic Optical Networking
+KW  - Fragmentation
+KW  - Crosstalk
+KW  - Energy Consumption
+KW  - QoS
+AB  - Elastic Optical Network with Space Division Multiplexing (SDM-EON) is considered as a suitable platform for providing the bandwidth required to meet the growing needs of Internet traffic. Bandwidth fragmentation, crosstalk and energy consumption are among the most important issues raised in EON. Reducing energy reduces costs, and fragmentation management leads to increased utilization of the spectrum. Crosstalk is also a parameter that, if not managed, will severely reduce the quality of transmission. In this paper, we present two novel algorithms, called REFC (Reduction of Energy consumption, Fragmentation and Crosstalk) and quality of service-enabled REFC (REFC-QoS) to handle prioritized incoming requests. For an arriving connection, REFC considers energy reduction parameters in the first step and selects the route with the lowest energy consumption. In the second step, the cores are sorted based on fragmentation, and the core with the lowest fragmentation value is chosen. Finally, in the third step, suitable slots with the lowest amount of crosstalk are selected and allocated to the connection. The simulation results demonstrate that the REFC algorithm effectively reduces blocking probability in comparison to other proposed methods. The REFC in compare to EEG-HCS and ICXT-Aware algorithms, the value of Bandwidth Blocking probability in NSFNET, at least 12 % and in USNET at least 19 % have been reduced. Additionally, REFC effectively mitigates the negative impacts of bandwidth fragmentation. Besides, REFC-QoS satisfies the QoS requirements of prioritized incoming requests.
+ER  - 
+
+TY  - JOUR
+T1  - DRL-based fragmentation- and impairment-aware resource allocation algorithm in C + L band elastic optical networks
+AU  - Yan, Dan
+AU  - Feng, Nan
+AU  - Lv, Jingjing
+AU  - Ren, Danping
+AU  - Hu, Jinhua
+AU  - Zhao, Jijun
+JO  - Optical Fiber Technology
+VL  - 90
+SP  - 104133
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1068-5200
+DO  - https://doi.org/10.1016/j.yofte.2025.104133
+UR  - https://www.sciencedirect.com/science/article/pii/S1068520025000082
+KW  - Blocking Probability
+KW  - C+L Band Elastic Optical Networks
+KW  - Deep Reinforcement Learning
+KW  - Fragmentation
+KW  - Inter-channel Simulated Raman Scattering
+KW  - Routing
+KW  - Band
+KW  - Modulation
+KW  - Spectrum Allocation
+AB  - Efficient resource allocation and management can maximize the utilization of spectrum resources in C + L band elastic optical networks (EONs). To minimize spectrum fragmentation after resource allocation, it is vital to carefully design routing, band, modulation, and spectrum allocation (RBMSA) algorithms. However, the relentless pursuit of spectrum efficiency can degrade transmission quality, particularly due to inter-channel stimulated Raman scattering effects that exacerbate physical-layer impairment in C + L band EONs. To address this issue, we categorize lightpaths based on their generalized signal-to-noise ratio (GSNR) and propose a fragmentation- and impairment-aware RBMSA algorithm. Considering the dynamic arrival and release of requests that continuously alter the spectrum state of the network, we employ deep reinforcement learning (DRL) for adaptive resource allocation, state sensing and decision-making. Simulation results demonstrate that the proposed algorithm improves the GSNR of lightpaths and effectively reduces network blocking probability compared to traditional heuristic algorithms and DRL algorithms with simpler reward settings.
+ER  - 
+
+TY  - JOUR
+T1  - An effective E-voting enhancement system through multi secret image sharing security system
+AU  - Samayamanthula, Venkata Chinnaiah Gupta
+AU  - Kodati, Satya Prasad
+JO  - Knowledge-Based Systems
+VL  - 315
+SP  - 113239
+PY  - 2025
+DA  - 2025/04/22/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2025.113239
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705125002862
+KW  - E-voting system
+KW  - Security
+KW  - Administrative tasks
+KW  - Authorities
+KW  - Voter verification
+KW  - Digital identity
+AB  - With the growing use of Electronic Voting (E-voting) systems, ensuring the security and integrity of the voting process has become a critical concern. In this paper, we propose a novel Convolutional Neural Elliptical Curve blockchain (CbECB) enhancement to decentralized e-voting systems through the implementation of a multi-secret image-sharing security system. Also, Convoluting Neural Network (CNN) is an effective image processing strategy for processing as well as analyzing the data based on the e-voting process. Then, Elliptical Curve Cryptography (ECC) is used to provide higher security with a minimum number of key sizes. The multi-secret image-sharing security system is based on the concept of dividing an image into multiple shares, each of which individually does not reveal any meaningful information. Here, the secret keys are generated using the ECC algorithm then it splits into multiple share performances. After that, each voter receives one share of the secret key using the developed algorithm. Consequently, the neural framework is integrated with the Cryptography strategy for identifying the biometric data through the encryption and decryption performance. These shares are distributed among different authorities, ensuring that no single authority can gain complete access to the image. The combination of shares is required to reconstruct the original image. The proposed enhancement also offers advantages in terms of scalability and fault tolerance. The decentralized nature of the system allows for a distributed network of authorities, reducing the risk of a single point of failure and enabling fault tolerance in case of authority failures. The proposed enhancement holds promise for improving the security and integrity of decentralized e-voting, addressing critical concerns, and paving the way for more secure and trustworthy electronic voting systems. The developed model is validated in terms of performance metrics like time consumption, response time, designing cost, and memory usage. While comparing the traditional strategies the developed model attained suitable results. 122.5 MB decrement in memory usage, then nearly 52$ cost is reduced and a 10s decrement occurs in both time consumption and response time.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing unavailability in Elastic Optical Networks: Pre-provisioning and provisioning protection strategy using DLP and DPP
+AU  - Júnior, Paulo J.S.
+AU  - Costa, Lucas R.
+AU  - Drummond, André C.
+AU  - Marotta, Marcelo A.
+JO  - Computer Networks
+VL  - 257
+SP  - 110928
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110928
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007606
+KW  - EON
+KW  - Pre-provisioning
+KW  - Protection
+KW  - Unavailability
+AB  - The rapid growth of internet traffic, driven by advancements in 5G and cloud services, has intensified the need for reliable optical networks. Infrastructure failures in these networks can lead to significant disruptions and financial losses, highlighting the critical importance of robust protection mechanisms. While existing research has explored various protection strategies based on on-demand provisioning of resources, a gap remains in understanding the effectiveness of pre-provisioning mechanisms specifically tailored for Elastic Optical Networks (EONs). Pre-provisioning is a strategy that involves reserving network resources, such as bandwidth or lightpaths, in advance of anticipated traffic demands. This proactive approach ensures that resources are readily available when needed, reducing setup times and enhancing network resilience. In this paper we propose a novel algorithm, BPreProvEON, designed to optimize resource allocation and enhance the survivability of EONs through a hybrid combination of pre-provisioning and on-demand provisioning of protection schemes. Extensive comparisons with traditional non-pre-provisioning and Shared Path Protection (SPP)-based pre-provisioning demonstrate BPreProvEON’s superior performance in bandwidth blocking rate and connection availability, highlighting its potential for enhancing the resilience and performance of optical networks.
+ER  - 
+
+TY  - JOUR
+T1  - Leveraging blockchain for robust and transparent E-voting systems
+AU  - Abo-Akleek, Fatima
+AU  - Mowafi, Moad
+AU  - Taqieddin, Eyad S.
+AU  - Shatnawi, Ahmed S.
+JO  - Cyber Security and Applications
+VL  - 3
+SP  - 100086
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2772-9184
+DO  - https://doi.org/10.1016/j.csa.2025.100086
+UR  - https://www.sciencedirect.com/science/article/pii/S2772918425000037
+KW  - Blockchain
+KW  - Electronic
+KW  - Voting
+KW  - Distributed
+KW  - Centralized
+AB  - Voting is considered one of the most critical actions for proper decision-making in governmental entities, boards of directors, and the financial sector. Many researchers proposed E-voting systems where the voting process is done online or through secure voting stations with high levels of trust for recording and counting the votes. Moreover, with the recent pandemic highlighting the need for remote voting, transitioning to E-voting is becoming even more critical. One way to build such technology is through Blockchain, which can be employed to guarantee the voting system requirements such as reliability, anonymity, decentralization, and privacy. This work proposes a blockchain-based E-voting system that consists of a distributed architecture for the voter, intermediate servers, and blockchain network components. The intermediate servers are mainly used to balance the workload between the voters and the blockchain servers. The system servers apply a scheduling algorithm to distribute the workload amongst themselves. In addition to the distributed architecture, a new algorithm for storing the blocks within each server’s database is introduced. Emphasis is further placed on how these blocks are broadcast to the other servers. Simulation results show a clear difference in execution time when comparing the proposed distributed architecture with the centralized system. In addition, the new proposed blockchain algorithm shows better results in executing the vote-counting task and identifying any corrupted blocks.
+ER  - 

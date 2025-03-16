@@ -1,0 +1,108 @@
+TY  - JOUR
+T1  - Energy efficient resource aware protection with rapid failure recovery in cloud-ready elastic optical networks
+AU  - Das, Sougata
+AU  - Chatterjee, Monish
+JO  - Optical Switching and Networking
+VL  - 55
+SP  - 100793
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1573-4277
+DO  - https://doi.org/10.1016/j.osn.2024.100793
+UR  - https://www.sciencedirect.com/science/article/pii/S1573427724000237
+KW  - Rapid failure recovery
+KW  - Energy-efficient
+KW  - Optical clouds
+KW  - RMSA
+KW  - Cloud ready EON
+AB  - In this paper, we address the problem of protection of Cloud-ready Elastic Optical Networks (C-EONs) from a single link failure (a fiber cut), the most common failure. Any protection scheme must be designed to ensure rapid failure recovery as data is lost continuously till the fault is identified and restored. Our protection scheme, crStreams (cloud-ready streams) overcomes the shortcomings of failure independent path protecting p-cycles (FIPP p-cycles) for C-EONs, guarantees rapid failure recovery, ensures service relocation and is also resource aware. Recently, due to rapid increase in data transmission rate, design of energy efficient schemes has attracted a lot of research attention. So, we propose four polynomial-time algorithms that efficiently employ crStreams for protection and further minimize energy consumption to the extent possible for dynamic requests. To the best of our knowledge, this paper is the first to propose algorithms for survivability of C-EONs, addressing the joint problem of minimizing energy consumption and resource utilization to the extent possible for dynamic requests while ensuring rapid failure recovery. Considering all conducted experiments, maximum improvement in energy consumption, resource sharing and bandwidth blocking ratio is 39.83 %, 44.44 % and 41.54 % respectively over the energy-greedy strategy.
+ER  - 
+
+TY  - JOUR
+T1  - Explainable artificial intelligence-based framework for efficient content placement in elastic optical networks
+AU  - Goścień, Róża
+JO  - Expert Systems with Applications
+VL  - 262
+SP  - 125541
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2024.125541
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417424024084
+KW  - Content placement
+KW  - Anycasting
+KW  - Elastic optical network
+KW  - Supervised learning
+KW  - Explainable artificial intelligence
+AB  - The rapid development of telecommunication networks brings new optimization problems and the urgent need for dedicated and highly efficient solution methods. Recently, the idea of aiding network optimization with machine learning (ml) algorithms has gained more and more attention in the research society. Despite numerous successful applications of these methods, their adaption in real networks and systems is hindered due to the lack of a full explainability of their decisions and, in turn — the lack of trust. Hopefully, these aspects may be addressed by explainable artificial intelligence methods (xai). In this paper, we study an essential problem of the anycast content placement. Having a set of physical data centers (dcs) located in selected network nodes and a set of different contents (services), the task is to decide in which dcs place each of the contents in order to improve the optical network performance (measured as a bandwidth blocking probability (bbp)). To this end, we propose a dedicated ml-based framework, which approaches the placement problem as a supervised learning task of predicting network’s bbp for a content placement configuration. We perform extensive numerical experiments to tune the framework, considering five supervised learning algorithms and three comparison metrics. We also use explainable artificial intelligence methods to interpret the models’ decisions and draw general conclusions regarding beneficial content placement in a real network. Lastly, we compare the performance of the proposed ml-based placement framework with three reference methods. The results prove our approach’s extremely high efficiency, which reduced the bbp significantly compared to the best reference approach. Depending on the network settings and the offered traffic volume, the framework allowed to serve up to 47% of the traffic that would be rejected by the best reference method (corresponding to 3.76 Tbps of data).
+ER  - 
+
+TY  - JOUR
+T1  - REFC: Reduction of energy consumption, fragmentation and crosstalk in SDM-EON
+AU  - Bagherzadeh, Atefeh
+AU  - Ghaffarpour Rahbar, Akbar
+AU  - Khorasani, Yaghoub
+JO  - Optical Fiber Technology
+VL  - 90
+SP  - 104134
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1068-5200
+DO  - https://doi.org/10.1016/j.yofte.2025.104134
+UR  - https://www.sciencedirect.com/science/article/pii/S1068520025000094
+KW  - Space Division Multiplexing based Elastic Optical Networking
+KW  - Fragmentation
+KW  - Crosstalk
+KW  - Energy Consumption
+KW  - QoS
+AB  - Elastic Optical Network with Space Division Multiplexing (SDM-EON) is considered as a suitable platform for providing the bandwidth required to meet the growing needs of Internet traffic. Bandwidth fragmentation, crosstalk and energy consumption are among the most important issues raised in EON. Reducing energy reduces costs, and fragmentation management leads to increased utilization of the spectrum. Crosstalk is also a parameter that, if not managed, will severely reduce the quality of transmission. In this paper, we present two novel algorithms, called REFC (Reduction of Energy consumption, Fragmentation and Crosstalk) and quality of service-enabled REFC (REFC-QoS) to handle prioritized incoming requests. For an arriving connection, REFC considers energy reduction parameters in the first step and selects the route with the lowest energy consumption. In the second step, the cores are sorted based on fragmentation, and the core with the lowest fragmentation value is chosen. Finally, in the third step, suitable slots with the lowest amount of crosstalk are selected and allocated to the connection. The simulation results demonstrate that the REFC algorithm effectively reduces blocking probability in comparison to other proposed methods. The REFC in compare to EEG-HCS and ICXT-Aware algorithms, the value of Bandwidth Blocking probability in NSFNET, at least 12 % and in USNET at least 19 % have been reduced. Additionally, REFC effectively mitigates the negative impacts of bandwidth fragmentation. Besides, REFC-QoS satisfies the QoS requirements of prioritized incoming requests.
+ER  - 
+
+TY  - JOUR
+T1  - DRL-based fragmentation- and impairment-aware resource allocation algorithm in C + L band elastic optical networks
+AU  - Yan, Dan
+AU  - Feng, Nan
+AU  - Lv, Jingjing
+AU  - Ren, Danping
+AU  - Hu, Jinhua
+AU  - Zhao, Jijun
+JO  - Optical Fiber Technology
+VL  - 90
+SP  - 104133
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1068-5200
+DO  - https://doi.org/10.1016/j.yofte.2025.104133
+UR  - https://www.sciencedirect.com/science/article/pii/S1068520025000082
+KW  - Blocking Probability
+KW  - C+L Band Elastic Optical Networks
+KW  - Deep Reinforcement Learning
+KW  - Fragmentation
+KW  - Inter-channel Simulated Raman Scattering
+KW  - Routing
+KW  - Band
+KW  - Modulation
+KW  - Spectrum Allocation
+AB  - Efficient resource allocation and management can maximize the utilization of spectrum resources in C + L band elastic optical networks (EONs). To minimize spectrum fragmentation after resource allocation, it is vital to carefully design routing, band, modulation, and spectrum allocation (RBMSA) algorithms. However, the relentless pursuit of spectrum efficiency can degrade transmission quality, particularly due to inter-channel stimulated Raman scattering effects that exacerbate physical-layer impairment in C + L band EONs. To address this issue, we categorize lightpaths based on their generalized signal-to-noise ratio (GSNR) and propose a fragmentation- and impairment-aware RBMSA algorithm. Considering the dynamic arrival and release of requests that continuously alter the spectrum state of the network, we employ deep reinforcement learning (DRL) for adaptive resource allocation, state sensing and decision-making. Simulation results demonstrate that the proposed algorithm improves the GSNR of lightpaths and effectively reduces network blocking probability compared to traditional heuristic algorithms and DRL algorithms with simpler reward settings.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing unavailability in Elastic Optical Networks: Pre-provisioning and provisioning protection strategy using DLP and DPP
+AU  - Júnior, Paulo J.S.
+AU  - Costa, Lucas R.
+AU  - Drummond, André C.
+AU  - Marotta, Marcelo A.
+JO  - Computer Networks
+VL  - 257
+SP  - 110928
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110928
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624007606
+KW  - EON
+KW  - Pre-provisioning
+KW  - Protection
+KW  - Unavailability
+AB  - The rapid growth of internet traffic, driven by advancements in 5G and cloud services, has intensified the need for reliable optical networks. Infrastructure failures in these networks can lead to significant disruptions and financial losses, highlighting the critical importance of robust protection mechanisms. While existing research has explored various protection strategies based on on-demand provisioning of resources, a gap remains in understanding the effectiveness of pre-provisioning mechanisms specifically tailored for Elastic Optical Networks (EONs). Pre-provisioning is a strategy that involves reserving network resources, such as bandwidth or lightpaths, in advance of anticipated traffic demands. This proactive approach ensures that resources are readily available when needed, reducing setup times and enhancing network resilience. In this paper we propose a novel algorithm, BPreProvEON, designed to optimize resource allocation and enhance the survivability of EONs through a hybrid combination of pre-provisioning and on-demand provisioning of protection schemes. Extensive comparisons with traditional non-pre-provisioning and Shared Path Protection (SPP)-based pre-provisioning demonstrate BPreProvEON’s superior performance in bandwidth blocking rate and connection availability, highlighting its potential for enhancing the resilience and performance of optical networks.
+ER  - 
